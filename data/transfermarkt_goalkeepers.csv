@@ -1,0 +1,501 @@
+﻿name,position,age,nation,club,value
+Diogo Costa,Goalkeeper,25,Portugal,FC Porto,€40.00m
+Gianluigi Donnarumma,Goalkeeper,26,Italy,Paris Saint-Germain,€40.00m
+David Raya,Goalkeeper,29,Spain,Arsenal FC,€40.00m
+Gregor Kobel,Goalkeeper,27,Switzerland,Borussia Dortmund,€40.00m
+Guglielmo Vicario,Goalkeeper,28,Italy,Tottenham Hotspur,€32.00m
+Bart Verbruggen,Goalkeeper,22,Netherlands,Brighton & Hove Albion,€30.00m
+Giorgi Mamardashvili,Goalkeeper,24,Georgia,Liverpool FC,€30.00m
+Lucas Chevalier,Goalkeeper,23,France,LOSC Lille,€30.00m
+Anatoliy Trubin,Goalkeeper,23,Ukraine,SL Benfica,€28.00m
+Unai Simón,Goalkeeper,28,Spain,Athletic Bilbao,€28.00m
+Joan García,Goalkeeper,24,Spain,FC Barcelona,€25.00m
+Marco Carnesecchi,Goalkeeper,25,Italy,Atalanta BC,€25.00m
+Mile Svilar,Goalkeeper,25,Serbia,AS Roma,€25.00m
+André Onana,Goalkeeper,29,Cameroon,Manchester United,€25.00m
+Mike Maignan,Goalkeeper,30,France,AC Milan,€25.00m
+James Trafford,Goalkeeper,22,England,Burnley FC,€22.00m
+Guillaume Restes,Goalkeeper,20,France,FC Toulouse,€20.00m
+Marcin Bulka,Goalkeeper,25,Poland,NEOM SC,€20.00m
+Djordje Petrovic,Goalkeeper,25,Serbia,AFC Bournemouth,€20.00m
+Zion Suzuki,Goalkeeper,22,Japan,Parma Calcio 1913,€20.00m
+Robert Sánchez,Goalkeeper,27,Spain,Chelsea FC,€20.00m
+Caoimhín Kelleher,Goalkeeper,26,Ireland,Brentford FC,€20.00m
+Matvey Safonov,Goalkeeper,26,Russia,Paris Saint-Germain,€20.00m
+Dean Henderson,Goalkeeper,28,England,Crystal Palace,€20.00m
+Ederson,Goalkeeper,31,Brazil,Manchester City,€20.00m
+Jan Oblak,Goalkeeper,32,Slovenia,Atlético de Madrid,€20.00m
+Emiliano Martínez,Goalkeeper,32,Argentina,Aston Villa,€20.00m
+Thibaut Courtois,Goalkeeper,33,Belgium,Real Madrid,€20.00m
+Alisson,Goalkeeper,32,Brazil,Liverpool FC,€20.00m
+Filip Jørgensen,Goalkeeper,23,Denmark,Chelsea FC,€18.00m
+Noah Atubolu,Goalkeeper,23,Germany,SC Freiburg,€18.00m
+Andriy Lunin,Goalkeeper,26,Ukraine,Real Madrid,€18.00m
+Michele Di Gregorio,Goalkeeper,27,Italy,Juventus FC,€18.00m
+Alex Meret,Goalkeeper,28,Italy,SSC Napoli,€18.00m
+Álex Remiro,Goalkeeper,30,Spain,Real Sociedad,€18.00m
+Jordan Pickford,Goalkeeper,31,England,Everton FC,€18.00m
+Illan Meslier,Goalkeeper,25,France,Leeds United,€16.00m
+Aaron Ramsdale,Goalkeeper,27,England,Southampton FC,€16.00m
+Vanja Milinković-Savić,Goalkeeper,28,Serbia,Torino FC,€16.00m
+Antonín Kinský,Goalkeeper,22,Czech Republic,Tottenham Hotspur,€15.00m
+Julen Agirrezabala,Goalkeeper,24,Spain,Valencia CF,€15.00m
+Mads Hermansen,Goalkeeper,25,Denmark,Leicester City,€15.00m
+Anthony Patterson,Goalkeeper,25,England,Sunderland AFC,€14.00m
+Kamil Grabara,Goalkeeper,26,Poland,VfL Wolfsburg,€14.00m
+Mike Penders,Goalkeeper,19,Belgium,Chelsea FC,€12.00m
+Jonas Urbig,Goalkeeper,21,Germany,Bayern Munich,€12.00m
+Yehvann Diouf,Goalkeeper,25,Senegal,OGC Nice,€12.00m
+Josep Martínez,Goalkeeper,27,Spain,Inter Milan,€12.00m
+Alexander Nübel,Goalkeeper,28,Germany,VfB Stuttgart,€12.00m
+Brice Samba,Goalkeeper,31,France,Stade Rennais FC,€12.00m
+Marc-André ter Stegen,Goalkeeper,33,Germany,FC Barcelona,€12.00m
+Bento,Goalkeeper,26,Brazil,Al-Nassr FC,€11.00m
+Luiz Júnior,Goalkeeper,24,Brazil,Villarreal CF,€10.00m
+Hugo Souza,Goalkeeper,26,Brazil,Sport Club Corinthians Paulista,€10.00m
+Konstantinos Tzolakis,Goalkeeper,22,Greece,Olympiacos Piraeus,€10.00m
+Christos Mandas,Goalkeeper,23,Greece,SS Lazio,€10.00m
+Lucas Perri,Goalkeeper,27,Brazil,Olympique Lyon,€10.00m
+Kepa Arrizabalaga,Goalkeeper,30,Spain,Arsenal FC,€10.00m
+Mark Flekken,Goalkeeper,32,Netherlands,Bayer 04 Leverkusen,€10.00m
+Bernd Leno,Goalkeeper,33,Germany,Fulham FC,€10.00m
+Uğurcan Çakır,Goalkeeper,29,Türkiye,Trabzonspor,€9.50m
+Gavin Bazunu,Goalkeeper,23,Ireland,Southampton FC,€9.00m
+Michael Cooper,Goalkeeper,25,England,Sheffield United,€9.00m
+Senne Lammens,Goalkeeper,23,Belgium,Royal Antwerp FC,€9.00m
+Marvin Keller,Goalkeeper,23,Switzerland,BSC Young Boys,€9.00m
+Elia Caprile,Goalkeeper,23,Italy,Cagliari Calcio,€9.00m
+Dominik Kotarski,Goalkeeper,25,Croatia,FC Copenhagen,€9.00m
+Finn Dahmen,Goalkeeper,27,Germany,FC Augsburg,€9.00m
+Dominik Livakovic,Goalkeeper,30,Croatia,Fenerbahce,€9.00m
+Alphonse Areola,Goalkeeper,32,France,West Ham United,€9.00m
+Maarten Vandevoordt,Goalkeeper,23,Belgium,RB Leipzig,€8.00m
+John Victor,Goalkeeper,29,Brazil,Botafogo de Futebol e Regatas,€8.00m
+Luis Malagón,Goalkeeper,28,Mexico,CF América,€8.00m
+Altay Bayındır,Goalkeeper,27,Türkiye,Manchester United,€8.00m
+Iñaki Peña,Goalkeeper,26,Spain,FC Barcelona,€8.00m
+Viktor Johansson,Goalkeeper,26,Sweden,Stoke City,€8.00m
+Gerónimo Rulli,Goalkeeper,33,Argentina,Olympique Marseille,€8.00m
+Nick Pope,Goalkeeper,33,England,Newcastle United,€8.00m
+Predrag Rajković,Goalkeeper,29,Serbia,Al-Ittihad Club,€8.00m
+Stefan Ortega,Goalkeeper,32,Germany,Manchester City,€8.00m
+Stanislav Agkatsev,Goalkeeper,23,Russia,FC Krasnodar,€7.50m
+Diego Conde,Goalkeeper,26,Spain,Villarreal CF,€7.50m
+Maduka Okoye,Goalkeeper,25,Nigeria,Udinese Calcio,€7.50m
+Walter Benítez,Goalkeeper,32,Argentina,Crystal Palace,€7.50m
+Dmytro Riznyk,Goalkeeper,26,Ukraine,Shakhtar Donetsk,€7.00m
+Kevin Mier,Goalkeeper,25,Colombia,CD Cruz Azul,€7.00m
+Diant Ramaj,Goalkeeper,23,Germany,Borussia Dortmund,€7.00m
+Yahia Fofana,Goalkeeper,24,Cote d'Ivoire,Angers SCO,€7.00m
+Agustín Rossi,Goalkeeper,29,Argentina,CR Flamengo,€7.00m
+Léo Jardim,Goalkeeper,30,Brazil,Clube de Regatas Vasco da Gama,€7.00m
+José Sá,Goalkeeper,32,Portugal,Wolverhampton Wanderers,€7.00m
+Rui Silva,Goalkeeper,31,Portugal,Sporting CP,€7.00m
+Matz Sels,Goalkeeper,33,Belgium,Nottingham Forest,€7.00m
+Stefano Turati,Goalkeeper,23,Italy,US Sassuolo,€6.50m
+Rome Jayden Owusu-Oduro,Goalkeeper,21,Netherlands,AZ Alkmaar,€6.00m
+Lukáš Horníček,Goalkeeper,23,Czech Republic,SC Braga,€6.00m
+Filip Stanković,Goalkeeper,23,Serbia,Venezia FC,€6.00m
+Gabriel Brazão,Goalkeeper,24,Brazil,Santos FC,€6.00m
+Berke Özer,Goalkeeper,25,Türkiye,Eyüpspor,€6.00m
+Radoslaw Majecki,Goalkeeper,25,Poland,AS Monaco,€6.00m
+Dominik Greif,Goalkeeper,28,Slovakia,RCD Mallorca,€6.00m
+Antonio Sivera,Goalkeeper,28,Spain,Deportivo Alavés,€6.00m
+Augusto Batalla,Goalkeeper,29,Argentina,Rayo Vallecano,€6.00m
+Timon Wellenreuther,Goalkeeper,29,Germany,Feyenoord Rotterdam,€6.00m
+Sam Johnstone,Goalkeeper,32,England,Wolverhampton Wanderers,€6.00m
+Bono,Goalkeeper,34,Morocco,Al-Hilal SFC,€5.50m
+Raúl Rangel,Goalkeeper,25,Mexico,Deportivo Guadalajara,€5.00m
+Obed Nkambadio,Goalkeeper,22,France,Paris FC,€5.00m
+James Beadle,Goalkeeper,21,England,Birmingham City,€5.00m
+Ștefan Târnovanu,Goalkeeper,25,Romania,FCSB,€5.00m
+Leo Román,Goalkeeper,25,Spain,RCD Mallorca,€5.00m
+Matej Kovar,Goalkeeper,25,Czech Republic,PSV Eindhoven,€5.00m
+Franco Israel,Goalkeeper,25,Uruguay,Sporting CP,€5.00m
+Kjell Scherpen,Goalkeeper,25,Netherlands,Brighton & Hove Albion,€5.00m
+Edouard Mendy,Goalkeeper,33,Senegal,Al-Ahli SFC,€5.00m
+Arijanet Muric,Goalkeeper,26,Kosovo,Ipswich Town,€5.00m
+Justin Bijlow,Goalkeeper,27,Netherlands,Feyenoord Rotterdam,€5.00m
+Moritz Nicolas,Goalkeeper,27,Germany,Borussia Mönchengladbach,€5.00m
+Philipp Köhn,Goalkeeper,27,Switzerland,AS Monaco,€5.00m
+Georgiy Bushchan,Goalkeeper,31,Ukraine,Al-Shabab FC,€5.00m
+Odysseas Vlachodimos,Goalkeeper,31,Greece,Newcastle United,€5.00m
+David de Gea,Goalkeeper,34,Spain,ACF Fiorentina,€5.00m
+Aleksandr Maksimenko,Goalkeeper,27,Russia,Spartak Moscow,€4.50m
+Michael Zetterer,Goalkeeper,30,Germany,SV Werder Bremen,€4.50m
+Koen Casteels,Goalkeeper,33,Belgium,Al-Qadsiah FC,€4.50m
+Anthoni,Goalkeeper,23,Brazil,Sport Club Internacional,€4.00m
+Max Weiß,Goalkeeper,21,Germany,Burnley FC,€4.00m
+Slawomir Abramowicz,Goalkeeper,21,Poland,Jagiellonia Bialystok,€4.00m
+Kacper Trelowski,Goalkeeper,21,Poland,Raków Częstochowa,€4.00m
+Matthieu Epolo,Goalkeeper,20,Belgium,Standard Liège,€4.00m
+Robin Roefs,Goalkeeper,22,Netherlands,NEC Nijmegen,€4.00m
+Orlando Gill,Goalkeeper,25,Paraguay,CA San Lorenzo de Almagro,€4.00m
+Carlos Miguel,Goalkeeper,26,Brazil,Nottingham Forest,€4.00m
+Andrew,Goalkeeper,24,Brazil,Gil Vicente FC,€4.00m
+Tobe Leysen,Goalkeeper,23,Belgium,Oud-Heverlee Leuven,€4.00m
+Ricardo Velho,Goalkeeper,26,Portugal,SC Farense,€4.00m
+Samuel Soares,Goalkeeper,23,Portugal,SL Benfica,€4.00m
+Vitezslav Jaros,Goalkeeper,23,Czech Republic,Ajax Amsterdam,€4.00m
+Ruslan Neshcheret,Goalkeeper,23,Ukraine,Dynamo Kyiv,€4.00m
+Gabriel Batista,Goalkeeper,27,Brazil,CD Santa Clara,€4.00m
+Peter Vindahl,Goalkeeper,27,Denmark,AC Sparta Prague,€4.00m
+Patrick Sequeira,Goalkeeper,26,Costa Rica,Casa Pia AC,€4.00m
+Mark Travers,Goalkeeper,26,Ireland,Everton FC,€4.00m
+Omri Glazer,Goalkeeper,29,Israel,Red Star Belgrade,€4.00m
+Evgeniy Latyshonok,Goalkeeper,27,Russia,Zenit St. Petersburg,€4.00m
+Robin Zentner,Goalkeeper,30,Germany,1.FSV Mainz 05,€4.00m
+Yann Sommer,Goalkeeper,36,Switzerland,Inter Milan,€4.00m
+Manuel Neuer,Goalkeeper,39,Germany,Bayern Munich,€4.00m
+Tomás Marchiori,Goalkeeper,30,Argentina,CA Vélez Sarsfield,€3.80m
+Juan Pablo Cozzani,Goalkeeper,26,Argentina,Club Atlético Platense,€3.80m
+Veljko Ilic,Goalkeeper,22,Serbia,FK TSC Backa Topola,€3.50m
+Carlos Moreno,Goalkeeper,27,Mexico,CF Pachuca,€3.50m
+Gabriel Slonina,Goalkeeper,21,United States,Chelsea FC,€3.50m
+Patrick Schulte,Goalkeeper,24,United States,Columbus Crew,€3.50m
+Pascal Loretz,Goalkeeper,22,Switzerland,FC Luzern,€3.50m
+Sander Tangvik,Goalkeeper,22,Norway,Rosenborg BK,€3.50m
+Jonathan Fischer,Goalkeeper,23,Denmark,Fredrikstad FK,€3.50m
+Mailson,Goalkeeper,28,Brazil,Al-Taawoun FC,€3.50m
+Manuel Roffo,Goalkeeper,25,Argentina,Instituto ACC,€3.50m
+Dominik Takac,Goalkeeper,26,Slovakia,Slovan Bratislava,€3.50m
+Bartosz Mrozek,Goalkeeper,25,Poland,Lech Poznan,€3.50m
+Adrian Semper,Goalkeeper,27,Croatia,Pisa Sporting Club,€3.50m
+Jean Butez,Goalkeeper,30,France,Como 1907,€3.50m
+Marcos Felipe,Goalkeeper,29,Brazil,Esporte Clube Bahia,€3.50m
+Sergio Rochet,Goalkeeper,32,Uruguay,Sport Club Internacional,€3.50m
+Vasilios Barkas,Goalkeeper,31,Greece,FC Utrecht,€3.50m
+Nikola Vasilj,Goalkeeper,29,Bosnia-Herzegovina,FC St. Pauli,€3.50m
+Juan Musso,Goalkeeper,31,Argentina,Atlético de Madrid,€3.50m
+Wladimiro Falcone,Goalkeeper,30,Italy,US Lecce,€3.50m
+Freddie Woodman,Goalkeeper,28,England,Liverpool FC,€3.50m
+Nick Olij,Goalkeeper,29,Netherlands,PSV Eindhoven,€3.50m
+Franco Petroli,Goalkeeper,27,Argentina,CD Godoy Cruz Antonio Tomba,€3.20m
+Emil Audero,Goalkeeper,28,Indonesia,Como 1907,€3.20m
+Matheus Cunha,Goalkeeper,24,Brazil,CR Flamengo,€3.00m
+Álex Padilla,Goalkeeper,21,Mexico,Athletic Bilbao,€3.00m
+Felipe Zenobio,Goalkeeper,25,Argentina,Club Atlético Tigre,€3.00m
+Mycael,Goalkeeper,21,Brazil,Club Athletico Paranaense,€3.00m
+Matías Mansilla,Goalkeeper,29,Argentina,Club Atlético Tucumán,€3.00m
+Carl Rushworth,Goalkeeper,24,England,Brighton & Hove Albion,€3.00m
+Leo Kokubo,Goalkeeper,24,Japan,Sint-Truidense VV,€3.00m
+Karl Hein,Goalkeeper,23,Estonia,Arsenal FC,€3.00m
+Cezary Miszta,Goalkeeper,23,Poland,Rio Ave FC,€3.00m
+Daniel Peretz,Goalkeeper,25,Israel,Hamburger SV,€3.00m
+Cleiton,Goalkeeper,27,Brazil,Red Bull Bragantino,€3.00m
+Arnau Tenas,Goalkeeper,24,Spain,Paris Saint-Germain,€3.00m
+Amir Saipi,Goalkeeper,25,Kosovo,FC Lugano,€3.00m
+Vladan Kovačević,Goalkeeper,27,Bosnia-Herzegovina,Norwich City,€3.00m
+Luís Maximiano,Goalkeeper,26,Portugal,UD Almería,€3.00m
+Alban Lafont,Goalkeeper,26,France,Panathinaikos FC,€3.00m
+Gautier Larsonneur,Goalkeeper,28,France,AS Saint-Étienne,€3.00m
+Carlos Acevedo,Goalkeeper,29,Mexico,Santos Laguna,€3.00m
+Ezequiel Unsain,Goalkeeper,30,Argentina,Club Necaxa,€3.00m
+Nahuel Losada,Goalkeeper,32,Argentina,CA Lanús,€3.00m
+Yohei Takaoka,Goalkeeper,29,Japan,Vancouver Whitecaps FC,€3.00m
+Martin Jedlicka,Goalkeeper,27,Czech Republic,FC Viktoria Plzen,€3.00m
+Conan Ledesma,Goalkeeper,32,Argentina,CA River Plate,€3.00m
+Sergio Herrera,Goalkeeper,32,Spain,CA Osasuna,€3.00m
+Jindrich Stanek,Goalkeeper,29,Czech Republic,SK Slavia Prague,€3.00m
+David Soria,Goalkeeper,32,Spain,Getafe CF,€3.00m
+Bartlomiej Dragowski,Goalkeeper,27,Poland,Panathinaikos FC,€3.00m
+Ivan Provedel,Goalkeeper,31,Italy,SS Lazio,€3.00m
+Maxime Crépeau,Goalkeeper,31,Canada,Portland Timbers,€3.00m
+Marek Rodák,Goalkeeper,28,Slovakia,Al-Ettifaq FC,€3.00m
+Yvon Mvogo,Goalkeeper,31,Switzerland,Without Club,€3.00m
+Marco Bizot,Goalkeeper,34,Netherlands,Aston Villa,€3.00m
+Frederik Rönnow,Goalkeeper,32,Denmark,1.FC Union Berlin,€3.00m
+Oliver Baumann,Goalkeeper,35,Germany,TSG 1899 Hoffenheim,€3.00m
+Dayne St. Clair,Goalkeeper,28,Canada,Minnesota United FC,€2.80m
+İrfan Can Eğribayat,Goalkeeper,27,Türkiye,Fenerbahce,€2.80m
+Paul Bernardoni,Goalkeeper,28,France,Yverdon Sport FC,€2.80m
+Max O'Leary,Goalkeeper,28,Ireland,Bristol City,€2.80m
+Kauã Santos,Goalkeeper,22,Brazil,Eintracht Frankfurt,€2.50m
+Roman Celentano,Goalkeeper,24,United States,FC Cincinnati,€2.50m
+Dennis Seimen,Goalkeeper,19,Germany,SC Paderborn 07,€2.50m
+Georgiy Yermakov,Goalkeeper,23,Ukraine,Maccabi Haifa,€2.50m
+Chris Brady,Goalkeeper,21,United States,Chicago Fire FC,€2.50m
+Drake Callender,Goalkeeper,27,United States,Inter Miami CF,€2.50m
+André Gomes,Goalkeeper,20,Portugal,FC Alverca,€2.50m
+Lucas Arcanjo,Goalkeeper,26,Brazil,Esporte Clube Vitória,€2.50m
+Nediljko Labrovic,Goalkeeper,25,Croatia,FC Augsburg,€2.50m
+Andrés Sánchez,Goalkeeper,27,Mexico,Atlético de San Luis,€2.50m
+Răzvan Sava,Goalkeeper,23,Romania,Udinese Calcio,€2.50m
+Tjark Ernst,Goalkeeper,22,Germany,Hertha BSC,€2.50m
+Jacob Widell Zetterström,Goalkeeper,27,Sweden,Derby County,€2.50m
+Oliver Dovin,Goalkeeper,23,Sweden,Coventry City,€2.50m
+Justin Hammel,Goalkeeper,24,Switzerland,Grasshopper Club Zurich,€2.50m
+Hákon Rafn Valdimarsson,Goalkeeper,23,Iceland,Brentford FC,€2.50m
+Nikolas Polster,Goalkeeper,23,Austria,Wolfsberger AC,€2.50m
+Warleson,Goalkeeper,28,Brazil,Cercle Brugge ,€2.50m
+Matt Turner,Goalkeeper,31,United States,Nottingham Forest,€2.50m
+Álvaro Valles,Goalkeeper,27,Spain,Real Betis Balompié,€2.50m
+Arnaud Bodart,Goalkeeper,27,Belgium,LOSC Lille,€2.50m
+Niklas Hedl,Goalkeeper,24,Austria,Rapid Vienna,€2.50m
+Tobias Lawal,Goalkeeper,25,Austria,KRC Genk,€2.50m
+Jokin Ezkieta,Goalkeeper,28,Spain,Racing Santander,€2.50m
+Jasper Schendelaar,Goalkeeper,24,Netherlands,PEC Zwolle,€2.50m
+Santiago Mele,Goalkeeper,27,Uruguay,CF Monterrey,€2.50m
+Ionuț Radu,Goalkeeper,28,Romania,Celta de Vigo,€2.50m
+Pau López,Goalkeeper,30,Spain,Without Club,€2.50m
+João Paulo,Goalkeeper,30,Brazil,Santos FC,€2.50m
+Daniel Iversen,Goalkeeper,28,Denmark,Preston North End,€2.50m
+Jonas Omlin,Goalkeeper,31,Switzerland,Borussia Mönchengladbach,€2.50m
+Ilya Lantratov,Goalkeeper,29,Russia,Lokomotiv Moscow,€2.50m
+Patrick Pentz,Goalkeeper,28,Austria,Bröndby IF,€2.50m
+Thomas Strakosha,Goalkeeper,30,Albania,AEK Athens,€2.50m
+Paulo Gazzaniga,Goalkeeper,33,Argentina,Girona FC,€2.50m
+Alexander Schlager,Goalkeeper,29,Austria,Red Bull Salzburg,€2.50m
+Bruno Varela,Goalkeeper,30,Cape Verde,Vitória Guimarães SC,€2.50m
+Matheus,Goalkeeper,33,Brazil,Red Star Belgrade,€2.50m
+Stole Dimitrievski,Goalkeeper,31,North Macedonia,Valencia CF,€2.50m
+Davy Roef,Goalkeeper,31,Belgium,KAA Gent,€2.50m
+Mathew Ryan,Goalkeeper,33,Australia,Without Club,€2.50m
+Mattia Perin,Goalkeeper,32,Italy,Juventus FC,€2.50m
+Lukasz Skorupski,Goalkeeper,34,Poland,Bologna FC 1909,€2.50m
+Kevin Trapp,Goalkeeper,35,Germany,Eintracht Frankfurt,€2.50m
+Ivica Ivusic,Goalkeeper,30,Croatia,HNK Hajduk Split,€2.30m
+Horațiu Moldovan,Goalkeeper,27,Romania,Real Oviedo,€2.20m
+Muhammed Şengezer,Goalkeeper,28,Türkiye,Basaksehir FK,€2.20m
+Okan Kocuk,Goalkeeper,29,Türkiye,Samsunspor,€2.20m
+Angus Gunn,Goalkeeper,29,Scotland,Without Club,€2.20m
+Facundo Sanguinetti,Goalkeeper,24,Argentina,CA Banfield,€2.00m
+Fernando Tapia,Goalkeeper,24,Mexico,Tigres UANL,€2.00m
+Kacper Tobiasz,Goalkeeper,22,Poland,Legia Warszawa,€2.00m
+Ezequiel Centurión,Goalkeeper,28,Argentina,CS Independiente Rivadavia,€2.00m
+Radek Vítek,Goalkeeper,21,Czech Republic,Manchester United U21,€2.00m
+Mio Backhaus,Goalkeeper,21,Germany,SV Werder Bremen,€2.00m
+Alejandro Iturbe,Goalkeeper,21,Spain,Elche CF,€2.00m
+Matías Borgogno,Goalkeeper,26,Argentina,CA San Martín (San Juan),€2.00m
+Sebastiano Desplanches,Goalkeeper,22,Italy,Palermo FC,€2.00m
+Fran Vieites,Goalkeeper,26,Spain,Real Betis Balompié,€2.00m
+Lubomir Belko,Goalkeeper,23,Slovakia,MSK Zilina,€2.00m
+Tomás Durso,Goalkeeper,26,Argentina,Club Atlético Tucumán,€2.00m
+Arthur Okonkwo,Goalkeeper,23,England,Wrexham AFC,€2.00m
+Devis Vásquez,Goalkeeper,27,Colombia,AC Milan,€2.00m
+Martin Zlomislic,Goalkeeper,26,Bosnia-Herzegovina,HNK Rijeka,€2.00m
+Álvaro Fernández,Goalkeeper,27,Spain,Sevilla FC,€2.00m
+Sebastián Jurado,Goalkeeper,27,Mexico,FC Juárez,€2.00m
+Jari De Busser,Goalkeeper,25,Belgium,Go Ahead Eagles,€2.00m
+Etienne Vaessen,Goalkeeper,29,Suriname,FC Groningen,€2.00m
+Aleksandar Popovic,Goalkeeper,25,Serbia,DAC Dunajska Streda,€2.00m
+Ivor Pandur,Goalkeeper,25,Croatia,Hull City,€2.00m
+Bilal Bayazıt,Goalkeeper,26,Türkiye,Kayserispor,€2.00m
+Jiri Letacek,Goalkeeper,26,Czech Republic,Getafe CF,€2.00m
+Gaëtan Coucke,Goalkeeper,26,Belgium,Without Club,€2.00m
+Jonathan Klinsmann,Goalkeeper,28,United States,Cesena FC,€2.00m
+Jeffrey de Lange,Goalkeeper,27,Netherlands,Olympique Marseille,€2.00m
+Thiago Cardozo,Goalkeeper,28,Uruguay,Club Atlético Belgrano,€2.00m
+Aleksandar Jovanovic,Goalkeeper,32,Serbia,Kocaelispor,€2.00m
+Nikita Haikin,Goalkeeper,30,Russia,FK Bodø/Glimt,€2.00m
+Lorenzo Montipò,Goalkeeper,29,Italy,Hellas Verona,€2.00m
+Simone Scuffet,Goalkeeper,29,Italy,Cagliari Calcio,€2.00m
+Guido Herrera,Goalkeeper,33,Argentina,CA Talleres,€2.00m
+Zack Steffen,Goalkeeper,30,United States,Colorado Rapids,€2.00m
+Dénes Dibusz,Goalkeeper,34,Hungary,Ferencvárosi TC,€2.00m
+Marvin Schwäbe,Goalkeeper,30,Germany,1.FC Köln,€2.00m
+Péter Gulácsi,Goalkeeper,35,Hungary,RB Leipzig,€2.00m
+Lars Unnerstall,Goalkeeper,35,Germany,Twente Enschede FC,€2.00m
+Lukas Hradecky,Goalkeeper,35,Finland,Bayer 04 Leverkusen,€2.00m
+Alessandro Nunziante,Goalkeeper,18,Italy,Benevento Calcio,€1.80m
+Tommaso Martinelli,Goalkeeper,19,Italy,ACF Fiorentina,€1.80m
+Elis Bishesari,Goalkeeper,20,Sweden,IFK Göteborg,€1.80m
+Johannes Schenk,Goalkeeper,22,Germany,Preußen Münster,€1.80m
+Nahuel Noll,Goalkeeper,22,Germany,Hannover 96,€1.80m
+Ersin Destanoğlu,Goalkeeper,24,Türkiye,Besiktas JK,€1.80m
+Dani Cárdenas,Goalkeeper,28,Spain,Rayo Vallecano,€1.80m
+Maarten Paes,Goalkeeper,27,Indonesia,FC Dallas,€1.80m
+Ronaldo,Goalkeeper,28,Brazil,Esporte Clube Bahia,€1.80m
+Nicolas Kristof,Goalkeeper,25,Austria,SV 07 Elversberg,€1.80m
+Mateusz Lis,Goalkeeper,28,Poland,Göztepe,€1.80m
+Anton Mitryushkin,Goalkeeper,29,Russia,Lokomotiv Moscow,€1.80m
+Brayan Cortés,Goalkeeper,30,Chile,CSD Colo-Colo,€1.80m
+Ivo Grbic,Goalkeeper,29,Croatia,Sheffield United,€1.80m
+Paul Nardi,Goalkeeper,31,France,Queens Park Rangers,€1.80m
+Kristijan Kahlina,Goalkeeper,32,Croatia,Charlotte FC,€1.80m
+Anthony Moris,Goalkeeper,35,Luxembourg,Al-Khaleej FC,€1.80m
+Thomas Kaminski,Goalkeeper,32,Belgium,Charlton Athletic,€1.80m
+Joe Whitworth,Goalkeeper,21,England,Exeter City,€1.70m
+Facundo Cambeses,Goalkeeper,28,Argentina,Racing Club,€1.70m
+Keisuke Osako,Goalkeeper,25,Japan,Sanfrecce Hiroshima,€1.70m
+Laurențiu Popescu,Goalkeeper,28,Romania,CS Universitatea Craiova,€1.70m
+Hendrik Van Crombrugge,Goalkeeper,32,Belgium,KRC Genk,€1.70m
+Leandro Brey,Goalkeeper,22,Argentina,CA Boca Juniors,€1.50m
+Tiago Pereira Cardoso,Goalkeeper,19,Luxembourg,Borussia Mönchengladbach,€1.50m
+Martin Delavallée,Goalkeeper,21,Belgium,Royal Charleroi SC,€1.50m
+Gabriel Grando,Goalkeeper,25,Brazil,Grêmio Foot-Ball Porto Alegrense,€1.50m
+Plamen Andreev,Goalkeeper,20,Bulgaria,Feyenoord Rotterdam,€1.50m
+Kiril Fesyun,Goalkeeper,22,Ukraine,Shakhtar Donetsk,€1.50m
+Robin Risser,Goalkeeper,20,France,RC Lens,€1.50m
+Léo Linck,Goalkeeper,24,Brazil,Botafogo de Futebol e Regatas,€1.50m
+Bernardo,Goalkeeper,22,Brazil,CD Tondela,€1.50m
+Matheus Donelli,Goalkeeper,23,Brazil,Sport Club Corinthians Paulista,€1.50m
+Svetoslav Vutsov,Goalkeeper,23,Bulgaria,Levski Sofia,€1.50m
+Pablo Campos,Goalkeeper,23,Spain,Levante UD,€1.50m
+Andreas Jungdal,Goalkeeper,23,Denmark,KVC Westerlo,€1.50m
+Joe Gauci,Goalkeeper,25,Australia,Aston Villa,€1.50m
+Doğan Alemdar,Goalkeeper,22,Türkiye,Stade Rennais FC,€1.50m
+Cristopher Fiermarín,Goalkeeper,27,Uruguay,Deportes Tolima,€1.50m
+Nikita Kokarev,Goalkeeper,22,Russia,Krylya Sovetov Samara,€1.50m
+Abduvokhid Nematov,Goalkeeper,24,Uzbekistan,Nasaf Qarshi,€1.50m
+Adam Zadrazil,Goalkeeper,24,Czech Republic,FC Hradec Kralove,€1.50m
+Jakub Markovic,Goalkeeper,24,Czech Republic,SK Slavia Prague,€1.50m
+Oliver Christensen,Goalkeeper,26,Denmark,ACF Fiorentina,€1.50m
+Elías Ólafsson,Goalkeeper,25,Iceland,FC Midtjylland,€1.50m
+Fabian de Keijzer,Goalkeeper,25,Netherlands,Heracles Almelo,€1.50m
+Lucas Lund,Goalkeeper,25,Denmark,Viborg FF,€1.50m
+Ortwin De Wolf,Goalkeeper,28,Belgium,KV Mechelen,€1.50m
+Demba Thiam,Goalkeeper,27,Senegal,AC Monza,€1.50m
+Nathan Trott,Goalkeeper,26,England,FC Copenhagen,€1.50m
+Rustam Yatimov,Goalkeeper,27,Tajikistan,FC Rostov,€1.50m
+Ivan Lomaev,Goalkeeper,26,Russia,Without Club,€1.50m
+Kristoffer Klaesson,Goalkeeper,24,Norway,Viking FK,€1.50m
+Lucão,Goalkeeper,24,Brazil,Red Bull Bragantino,€1.50m
+Mateusz Kochalski,Goalkeeper,24,Poland,Qarabağ FK,€1.50m
+Federico Ravaglia,Goalkeeper,25,Italy,Bologna FC 1909,€1.50m
+Evgeniy Staver,Goalkeeper,27,Russia,Rubin Kazan,€1.50m
+Egil Selvik,Goalkeeper,27,Norway,Watford FC,€1.50m
+Carlos Coronel,Goalkeeper,28,Paraguay,New York Red Bulls,€1.50m
+Nico Mantl,Goalkeeper,25,Germany,FC Arouca,€1.50m
+Lazar Carević,Goalkeeper,26,Montenegro,FC Famalicão,€1.50m
+Joël Drommel,Goalkeeper,28,Netherlands,Sparta Rotterdam,€1.50m
+Ivan Nevistic,Goalkeeper,26,Croatia,GNK Dinamo Zagreb,€1.50m
+Álvaro Montero,Goalkeeper,30,Colombia,CA Vélez Sarsfield,€1.50m
+Luca Zidane,Goalkeeper,27,France,Granada CF,€1.50m
+Ivan Zlobin,Goalkeeper,28,Russia,FC Famalicão,€1.50m
+Florian Kastenmeier,Goalkeeper,28,Germany,Fortuna Düsseldorf,€1.50m
+Rodrigo Rey,Goalkeeper,34,Argentina,CA Independiente,€1.50m
+Colin Coosemans,Goalkeeper,32,Belgium,RSC Anderlecht,€1.50m
+Daniel Bentley,Goalkeeper,32,England,Wolverhampton Wanderers,€1.50m
+Nicola Leali,Goalkeeper,32,Italy,Genoa CFC,€1.50m
+Jack Butland,Goalkeeper,32,England,Rangers FC,€1.50m
+Benjamin Lecomte,Goalkeeper,34,France,Montpellier HSC,€1.50m
+Marius Müller,Goalkeeper,32,Germany,VfL Wolfsburg,€1.50m
+Neto,Goalkeeper,36,Brazil,AFC Bournemouth,€1.50m
+Esteban Andrada,Goalkeeper,34,Argentina,CF Monterrey,€1.50m
+Jason Steele,Goalkeeper,34,England,Brighton & Hove Albion,€1.50m
+Weverton,Goalkeeper,37,Brazil,Sociedade Esportiva Palmeiras,€1.50m
+Roman Bürki,Goalkeeper,34,Switzerland,St. Louis CITY SC,€1.50m
+Timothy Fayulu,Goalkeeper,25,DR Congo,FC Sion,€1.40m
+Diogo Sousa,Goalkeeper,26,Portugal,Bodrum FK,€1.40m
+Aynsley Pears,Goalkeeper,27,England,Blackburn Rovers,€1.40m
+Seny Dieng,Goalkeeper,30,Senegal,Middlesbrough FC,€1.40m
+Edvinas Gertmonas,Goalkeeper,29,Lithuania,FC Universitatea Cluj,€1.40m
+Daniel Bachmann,Goalkeeper,31,Austria,Watford FC,€1.40m
+Otto Hindrich,Goalkeeper,22,Romania,CFR Cluj,€1.30m
+Noel Törnqvist,Goalkeeper,23,Sweden,Mjällby AIF,€1.30m
+El Mehdi Benabid,Goalkeeper,27,Morocco,Wydad Casablanca,€1.30m
+Ivan,Goalkeeper,28,Brazil,Sport Club Internacional,€1.30m
+Marcos Ledesma,Goalkeeper,28,Argentina,CA Barracas Central,€1.30m
+Christian Früchtl,Goalkeeper,25,Germany,US Lecce,€1.30m
+Ivan Lucic,Goalkeeper,30,Austria,HNK Hajduk Split,€1.30m
+Andreas Hansen,Goalkeeper,29,Denmark,FC Nordsjaelland,€1.30m
+Mamour Ndiaye,Goalkeeper,19,Senegal,Sarpsborg 08 FF,€1.20m
+Niv Eliasi,Goalkeeper,23,Israel,Hapoel Beer Sheva,€1.20m
+Mohamed Koné,Goalkeeper,23,Cote d'Ivoire,Royal Charleroi SC,€1.20m
+Fedor Lapoukhov,Goalkeeper,22,Belarus,CSKA Sofia,€1.20m
+Thomas Gillier,Goalkeeper,21,Chile,Bologna FC 1909,€1.20m
+Ivan Guteša,Goalkeeper,23,Serbia,Red Star Belgrade,€1.20m
+Sam Tickle,Goalkeeper,23,England,Wigan Athletic,€1.20m
+Strahinja Manojlovic,Goalkeeper,22,Serbia,FK Radnicki Nis,€1.20m
+David Volk,Goalkeeper,24,Russia,Dinamo Makhachkala,€1.20m
+Hervé Koffi,Goalkeeper,28,Burkina Faso,Angers SCO,€1.20m
+Maxime Delanghe,Goalkeeper,24,Belgium,Cercle Brugge ,€1.20m
+Jamie Cumming,Goalkeeper,25,England,Oxford United,€1.20m
+Arthur Desmas,Goalkeeper,31,France,Without Club,€1.20m
+Matevz Vidovsek,Goalkeeper,25,Slovenia,NK Olimpija Ljubljana,€1.20m
+Ignacio de Arruabarrena,Goalkeeper,28,Uruguay,Barcelona SC Guayaquil,€1.20m
+Lucas Chaves,Goalkeeper,29,Argentina,Panetolikos GFS,€1.20m
+Dinko Horkas,Goalkeeper,26,Croatia,UD Las Palmas,€1.20m
+Karlo Letica,Goalkeeper,28,Croatia,FC Lausanne-Sport,€1.20m
+Lucas Acosta,Goalkeeper,30,Argentina,CA Sarmiento (Junin),€1.20m
+Florian Müller,Goalkeeper,27,Germany,SC Freiburg,€1.20m
+Rémy Descamps,Goalkeeper,29,France,Olympique Lyon,€1.20m
+Tadeu,Goalkeeper,33,Brazil,Goiás EC,€1.20m
+Lawrence Ati Zigi,Goalkeeper,28,Ghana,FC St. Gallen 1879,€1.20m
+Nordin Jackers,Goalkeeper,27,Belgium,Club Brugge KV,€1.20m
+Rubén Yáñez,Goalkeeper,31,Spain,Sporting Gijón,€1.20m
+Ethan Horvath,Goalkeeper,30,United States,Cardiff City,€1.20m
+Andrea Fulignati,Goalkeeper,30,Italy,US Cremonese,€1.20m
+Ilya Pomazun,Goalkeeper,28,Russia,Spartak Moscow,€1.20m
+Sergio Rico,Goalkeeper,31,Spain,Al-Gharafa SC,€1.20m
+Danny Ward,Goalkeeper,32,Wales,Wrexham AFC,€1.20m
+Cláudio Ramos,Goalkeeper,33,Portugal,FC Porto,€1.20m
+Andrey Lunev,Goalkeeper,33,Russia,Dynamo Moscow,€1.20m
+Everson,Goalkeeper,35,Brazil,Clube Atlético Mineiro,€1.20m
+Anthony Lopes,Goalkeeper,34,Portugal,FC Nantes,€1.20m
+Simon Mignolet,Goalkeeper,37,Belgium,Club Brugge KV,€1.20m
+Deniz Dönmezer,Goalkeeper,16,Türkiye,Adana Demirspor,€1.00m
+Onuralp Çevikkan,Goalkeeper,19,Türkiye,Trabzonspor,€1.00m
+Pedro Morisco,Goalkeeper,21,Brazil,Coritiba Foot Ball Club,€1.00m
+Pablo Lara,Goalkeeper,20,Mexico,UNAM Pumas,€1.00m
+Lazar Balevic,Goalkeeper,17,Serbia,FK Napredak Krusevac,€1.00m
+Jacopo Seghetti,Goalkeeper,20,Italy,FC Empoli,€1.00m
+Filip Sidklev,Goalkeeper,20,Sweden,Aris Thessaloniki,€1.00m
+João Carvalho,Goalkeeper,21,Portugal,SC Braga B,€1.00m
+Gonçalo Ribeiro,Goalkeeper,19,Portugal,FC Porto B,€1.00m
+Mamadou Diop,Goalkeeper,25,Mauritania,Grenoble Foot 38,€1.00m
+Alejandro Rodríguez,Goalkeeper,24,Colombia,Deportivo Cali,€1.00m
+Deniz Ertaş,Goalkeeper,20,Türkiye,Konyaspor,€1.00m
+Diego Callai,Goalkeeper,21,Brazil,Sporting CP B,€1.00m
+Adriel,Goalkeeper,24,Brazil,Athletic Club,€1.00m
+Theo Sander,Goalkeeper,20,Denmark,Odense Boldklub,€1.00m
+Jonathan Sirois,Goalkeeper,24,Canada,CF Montréal,€1.00m
+Tomás Ahumada,Goalkeeper,24,Chile,Audax Italiano,€1.00m
+Albert Posiadała,Goalkeeper,22,Poland,Molde FK,€1.00m
+Tomoki Hayakawa,Goalkeeper,26,Japan,Kashima Antlers,€1.00m
+Kewin,Goalkeeper,30,Brazil,Without Club,€1.00m
+Nelson Insfrán,Goalkeeper,30,Argentina,Club de Gimnasia y Esgrima La Plata,€1.00m
+Mahmoud Gad,Goalkeeper,26,Egypt,El Masry SC,€1.00m
+Jan Reichert,Goalkeeper,24,Germany,1.FC Nuremberg,€1.00m
+Rodrigo Morínigo,Goalkeeper,26,Paraguay,Club Libertad Asunción,€1.00m
+Guido Villar,Goalkeeper,27,Argentina,Independiente del Valle,€1.00m
+Josh Griffiths,Goalkeeper,23,England,West Bromwich Albion,€1.00m
+Vladislav Torop,Goalkeeper,21,Russia,CSKA Moscow,€1.00m
+Brenno,Goalkeeper,26,Brazil,Fortaleza Esporte Clube,€1.00m
+Luis Ingolotti,Goalkeeper,25,Argentina,Club de Gimnasia y Esgrima La Plata,€1.00m
+Maksim Borisko,Goalkeeper,25,Russia,Baltika Kaliningrad,€1.00m
+Balsa Popovic,Goalkeeper,25,Montenegro,OFK Beograd,€1.00m
+Daiya Maekawa,Goalkeeper,30,Japan,Vissel Kobe,€1.00m
+Jakub Stolarczyk,Goalkeeper,24,Poland,Leicester City,€1.00m
+Viljami Sinisalo,Goalkeeper,23,Finland,Celtic FC,€1.00m
+Daniel Bielica,Goalkeeper,26,Poland,NAC Breda,€1.00m
+Sipho Chaine,Goalkeeper,28,South Africa,Orlando Pirates,€1.00m
+Leopold Wahlstedt,Goalkeeper,26,Sweden,Aarhus GF,€1.00m
+Ivan Dyulgerov,Goalkeeper,26,Bulgaria,FC Sheriff Tiraspol,€1.00m
+Patrik Gunnarsson,Goalkeeper,24,Iceland,KV Kortrijk,€1.00m
+Marian Aioani,Goalkeeper,25,Romania,FC Rapid 1923,€1.00m
+Lucas França,Goalkeeper,29,Brazil,CD Nacional,€1.00m
+Keiller,Goalkeeper,28,Brazil,Ceará Sporting Club,€1.00m
+Bailey Peacock-Farrell,Goalkeeper,28,Northern Ireland,Blackpool FC,€1.00m
+Caíque França,Goalkeeper,30,Brazil,Sport Club do Recife,€1.00m
+Kosei Tani,Goalkeeper,24,Japan,Machida Zelvia,€1.00m
+Sergey Volkov,Goalkeeper,30,Russia,Akron Togliatti,€1.00m
+Ramiro Macagno,Goalkeeper,28,Argentina,Without Club,€1.00m
+Anthony Racioppi,Goalkeeper,26,Switzerland,FC Sion,€1.00m
+Steven Benda,Goalkeeper,26,Germany,Fulham FC,€1.00m
+Dragan Rosic,Goalkeeper,28,Serbia,FK Vojvodina Novi Sad,€1.00m
+Dimitry Bertaud,Goalkeeper,27,DR Congo,Without Club,€1.00m
+Facundo Altamirano,Goalkeeper,29,Argentina,CA San Lorenzo de Almagro,€1.00m
+Alessandro Plizzari,Goalkeeper,25,Italy,Venezia FC,€1.00m
+Salaheddine Chihab,Goalkeeper,32,Morocco,MAS Fès,€1.00m
+Julian Krahl,Goalkeeper,25,Germany,1.FC Kaiserslautern,€1.00m
+Daniel Naumov,Goalkeeper,27,Bulgaria,Botev Plovdiv,€1.00m
+Denis Adamov,Goalkeeper,27,Russia,Zenit St. Petersburg,€1.00m
+Cătălin Căbuz,Goalkeeper,29,Romania,FC Hermannstadt,€1.00m
+Alen Sherri,Goalkeeper,27,Albania,Frosinone Calcio,€1.00m
+Marius Adamonis,Goalkeeper,28,Lithuania,FC Südtirol,€1.00m
+Timon Weiner,Goalkeeper,26,Germany,Holstein Kiel,€1.00m
+Nicolas Schmid,Goalkeeper,28,Austria,Portsmouth FC,€1.00m
+Anthony Mandréa,Goalkeeper,28,Algeria,SM Caen,€1.00m
+Ryosuke Kojima,Goalkeeper,28,Japan,Kashiwa Reysol,€1.00m
+Samuel Portugal,Goalkeeper,31,Brazil,Al-Okhdood Club,€1.00m
+Aarón Escandell,Goalkeeper,29,Spain,Real Oviedo,€1.00m
+Rostislav Soldatenko,Goalkeeper,28,Russia,Torpedo Moscow,€1.00m
+Andries Noppert,Goalkeeper,31,Netherlands,SC Heerenveen,€1.00m
+Dimitar Mitov,Goalkeeper,28,Bulgaria,Aberdeen FC,€1.00m
+Brad Collins,Goalkeeper,28,England,Coventry City,€1.00m
+Juan Soriano,Goalkeeper,27,Spain,CD Leganés,€1.00m
+Alex Palmer,Goalkeeper,28,England,Ipswich Town,€1.00m
+Pierluigi Gollini,Goalkeeper,30,Italy,AS Roma,€1.00m
+Dominik Reimann,Goalkeeper,28,Germany,1.FC Magdeburg,€1.00m

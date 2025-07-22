@@ -1,0 +1,2001 @@
+﻿name,position,age,nation,club,value
+Lamine Yamal,Right Winger,18,Spain,FC Barcelona,€200.00m
+Erling Haaland,Centre-Forward,25,Norway,Manchester City,€180.00m
+Kylian Mbappé,Centre-Forward,26,France,Real Madrid,€180.00m
+Vinicius Junior,Left Winger,25,Brazil,Real Madrid,€170.00m
+Bukayo Saka,Right Winger,23,England,Arsenal FC,€150.00m
+Alexander Isak,Centre-Forward,25,Sweden,Newcastle United,€120.00m
+Julián Alvarez,Centre-Forward,25,Argentina,Atlético de Madrid,€100.00m
+Michael Olise,Right Winger,23,France,Bayern Munich,€100.00m
+Phil Foden,Right Winger,25,England,Manchester City,€100.00m
+Lautaro Martínez,Centre-Forward,27,Argentina,Inter Milan,€95.00m
+Désiré Doué,Right Winger,20,France,Paris Saint-Germain,€90.00m
+Khvicha Kvaratskhelia,Left Winger,24,Georgia,Paris Saint-Germain,€90.00m
+Rodrygo,Right Winger,24,Brazil,Real Madrid,€90.00m
+Raphinha,Left Winger,28,Brazil,FC Barcelona,€90.00m
+Ousmane Dembélé,Right Winger,28,France,Paris Saint-Germain,€90.00m
+Hugo Ekitiké,Centre-Forward,23,France,Eintracht Frankfurt,€75.00m
+Omar Marmoush,Centre-Forward,26,Egypt,Manchester City,€75.00m
+Viktor Gyökeres,Centre-Forward,27,Sweden,Sporting CP,€75.00m
+Marcus Thuram,Centre-Forward,27,France,Inter Milan,€75.00m
+Harry Kane,Centre-Forward,31,England,Bayern Munich,€75.00m
+Nico Williams,Left Winger,23,Spain,Athletic Bilbao,€70.00m
+Bradley Barcola,Left Winger,22,France,Paris Saint-Germain,€70.00m
+Benjamin Sesko,Centre-Forward,22,Slovenia,RB Leipzig,€70.00m
+Luis Díaz,Left Winger,28,Colombia,Liverpool FC,€70.00m
+Cody Gakpo,Left Winger,26,Netherlands,Liverpool FC,€70.00m
+Victor Osimhen,Centre-Forward,26,Nigeria,SSC Napoli,€70.00m
+Rafael Leão,Left Winger,26,Portugal,AC Milan,€70.00m
+Anthony Gordon,Left Winger,24,England,Newcastle United,€65.00m
+Kai Havertz,Centre-Forward,26,Germany,Arsenal FC,€65.00m
+Estêvão,Right Winger,18,Brazil,Chelsea FC,€60.00m
+Matheus Cunha,Second Striker,26,Brazil,Manchester United,€60.00m
+Ademola Lookman,Second Striker,27,Nigeria,Atalanta BC,€60.00m
+Ethan Nwaneri,Right Winger,18,England,Arsenal FC,€55.00m
+Gabriel Martinelli,Left Winger,24,Brazil,Arsenal FC,€55.00m
+Álex Baena,Left Winger,24,Spain,Atlético de Madrid,€55.00m
+Bryan Mbeumo,Right Winger,25,Cameroon,Manchester United,€55.00m
+Samu Aghehowa,Centre-Forward,21,Spain,FC Porto,€50.00m
+Kenan Yıldız,Left Winger,20,Türkiye,Juventus FC,€50.00m
+Nicolas Jackson,Centre-Forward,24,Senegal,Chelsea FC,€50.00m
+Savinho,Right Winger,21,Brazil,Manchester City,€50.00m
+Jamie Gittens,Left Winger,20,England,Chelsea FC,€50.00m
+João Pedro,Centre-Forward,23,Brazil,Chelsea FC,€50.00m
+Pedro Neto,Right Winger,25,Portugal,Chelsea FC,€50.00m
+Jérémy Doku,Left Winger,23,Belgium,Manchester City,€50.00m
+Loïs Openda,Centre-Forward,25,Belgium,RB Leipzig,€50.00m
+Moise Kean,Centre-Forward,25,Italy,ACF Fiorentina,€50.00m
+Christian Pulisic,Right Winger,26,United States,AC Milan,€50.00m
+Marcus Rashford,Left Winger,27,England,Manchester United,€50.00m
+Mohamed Salah,Right Winger,33,Egypt,Liverpool FC,€50.00m
+Geovany Quenda,Left Winger,18,Portugal,Sporting CP,€45.00m
+Arda Güler,Right Winger,20,Türkiye,Real Madrid,€45.00m
+Maghnes Akliouche,Right Winger,23,France,AS Monaco,€45.00m
+Rayan Cherki,Right Winger,21,France,Manchester City,€45.00m
+Mateo Retegui,Centre-Forward,26,Italy,Al-Qadsiah FC,€45.00m
+Darwin Núñez,Centre-Forward,26,Uruguay,Liverpool FC,€45.00m
+Mohammed Kudus,Right Winger,24,Ghana,Tottenham Hotspur,€45.00m
+Amad Diallo,Right Winger,23,Cote d'Ivoire,Manchester United,€45.00m
+Jonathan David,Centre-Forward,25,Canada,Juventus FC,€45.00m
+Karim Adeyemi,Right Winger,23,Germany,Borussia Dortmund,€45.00m
+Serhou Guirassy,Centre-Forward,29,Guinea,Borussia Dortmund,€45.00m
+Anthony Elanga,Right Winger,23,Sweden,Newcastle United,€42.00m
+Victor Boniface,Centre-Forward,24,Nigeria,Bayer 04 Leverkusen,€40.00m
+Liam Delap,Centre-Forward,22,England,Chelsea FC,€40.00m
+Antoine Semenyo,Left Winger,25,Ghana,AFC Bournemouth,€40.00m
+Gonçalo Ramos,Centre-Forward,24,Portugal,Paris Saint-Germain,€40.00m
+Mason Greenwood,Right Winger,23,England,Olympique Marseille,€40.00m
+Kaoru Mitoma,Left Winger,28,Japan,Brighton & Hove Albion,€40.00m
+Noni Madueke,Right Winger,23,England,Arsenal FC,€40.00m
+Brennan Johnson,Right Winger,24,Wales,Tottenham Hotspur,€40.00m
+Ferran Torres,Centre-Forward,25,Spain,FC Barcelona,€40.00m
+Ollie Watkins,Centre-Forward,29,England,Aston Villa,€40.00m
+Jarrod Bowen,Right Winger,28,England,West Ham United,€40.00m
+Brahim Díaz,Right Winger,25,Morocco,Real Madrid,€40.00m
+Dominic Solanke,Centre-Forward,27,England,Tottenham Hotspur,€40.00m
+Endrick,Centre-Forward,19,Brazil,Real Madrid,€35.00m
+Santiago Castro,Centre-Forward,20,Argentina,Bologna FC 1909,€35.00m
+Mathys Tel,Centre-Forward,20,France,Tottenham Hotspur,€35.00m
+Giuliano Simeone,Right Winger,22,Argentina,Atlético de Madrid,€35.00m
+Evanilson,Centre-Forward,25,Brazil,AFC Bournemouth,€35.00m
+Igor Paixão,Left Winger,25,Brazil,Feyenoord Rotterdam,€35.00m
+Jhon Durán,Centre-Forward,21,Colombia,Fenerbahce,€35.00m
+Rasmus Højlund,Centre-Forward,22,Denmark,Manchester United,€35.00m
+Antony,Right Winger,25,Brazil,Manchester United,€35.00m
+Francisco Trincão,Right Winger,25,Portugal,Sporting CP,€35.00m
+Harvey Barnes,Left Winger,27,England,Newcastle United,€35.00m
+Dan Ndoye,Right Winger,24,Switzerland,Bologna FC 1909,€35.00m
+Dušan Vlahović,Centre-Forward,25,Serbia,Juventus FC,€35.00m
+Christopher Nkunku,Centre-Forward,27,France,Chelsea FC,€35.00m
+Jonathan Burkardt,Centre-Forward,25,Germany,Eintracht Frankfurt,€35.00m
+Vangelis Pavlidis,Centre-Forward,26,Greece,SL Benfica,€35.00m
+Mohamed Amoura,Centre-Forward,25,Algeria,VfL Wolfsburg,€32.00m
+Georginio Rutter,Centre-Forward,23,France,Brighton & Hove Albion,€32.00m
+Yoane Wissa,Centre-Forward,28,DR Congo,Brentford FC,€32.00m
+Gabriel Jesus,Centre-Forward,28,Brazil,Arsenal FC,€32.00m
+Leroy Sané,Right Winger,29,Germany,Galatasaray,€32.00m
+Jesús Rodríguez,Left Winger,19,Spain,Como 1907,€30.00m
+Assane Diao,Left Winger,19,Senegal,Como 1907,€30.00m
+Franco Mastantuono,Right Winger,17,Argentina,CA River Plate,€30.00m
+Yankuba Minteh,Right Winger,21,The Gambia,Brighton & Hove Albion,€30.00m
+Malick Fofana,Left Winger,20,Belgium,Olympique Lyon,€30.00m
+Matías Soulé,Right Winger,22,Argentina,AS Roma,€30.00m
+Yéremy Pino,Right Winger,22,Spain,Villarreal CF,€30.00m
+Mika Biereth,Centre-Forward,22,Denmark,AS Monaco,€30.00m
+Johan Bakayoko,Right Winger,22,Belgium,RB Leipzig,€30.00m
+Santiago Gimenez,Centre-Forward,24,Mexico,AC Milan,€30.00m
+Randal Kolo Muani,Centre-Forward,26,France,Paris Saint-Germain,€30.00m
+Kevin Schade,Left Winger,23,Germany,Brentford FC,€30.00m
+David Neres,Right Winger,28,Brazil,SSC Napoli,€30.00m
+Nick Woltemade,Second Striker,23,Germany,VfB Stuttgart,€30.00m
+Joshua Zirkzee,Centre-Forward,24,Netherlands,Manchester United,€30.00m
+Jørgen Strand Larsen,Centre-Forward,25,Norway,Wolverhampton Wanderers,€30.00m
+Pedro Gonçalves,Left Winger,27,Portugal,Sporting CP,€30.00m
+Jean-Philippe Mateta,Centre-Forward,28,France,Crystal Palace,€30.00m
+Amine Gouiri,Centre-Forward,25,Algeria,Olympique Marseille,€30.00m
+Takefusa Kubo,Right Winger,24,Japan,Real Sociedad,€30.00m
+Moussa Diaby,Right Winger,26,France,Al-Ittihad Club,€30.00m
+Artem Dovbyk,Centre-Forward,28,Ukraine,AS Roma,€30.00m
+Kingsley Coman,Left Winger,29,France,Bayern Munich,€30.00m
+Antonio Nusa,Left Winger,20,Norway,RB Leipzig,€28.00m
+Dango Ouattara,Left Winger,23,Burkina Faso,AFC Bournemouth,€28.00m
+Eliesse Ben Seghir,Left Winger,20,Morocco,AS Monaco,€28.00m
+Simon Adingra,Left Winger,23,Cote d'Ivoire,Sunderland AFC,€28.00m
+Francisco Conceição,Right Winger,22,Portugal,FC Porto,€28.00m
+Jadon Sancho,Left Winger,25,England,Manchester United,€28.00m
+Leon Bailey,Right Winger,27,Jamaica,Aston Villa,€28.00m
+Alex Iwobi,Left Winger,29,Nigeria,Fulham FC,€28.00m
+Jack Grealish,Left Winger,29,England,Manchester City,€28.00m
+Patrik Schick,Centre-Forward,29,Czech Republic,Bayer 04 Leverkusen,€27.00m
+Pio Esposito,Centre-Forward,20,Italy,Inter Milan,€25.00m
+Tyler Dibling,Right Winger,19,England,Southampton FC,€25.00m
+Luiz Henrique,Right Winger,24,Brazil,Zenit St. Petersburg,€25.00m
+Alberto Moleiro,Left Winger,21,Spain,Villarreal CF,€25.00m
+Brajan Gruda,Right Winger,21,Germany,Brighton & Hove Albion,€25.00m
+Oscar Bobb,Right Winger,22,Norway,Manchester City,€25.00m
+Evan Ferguson,Centre-Forward,20,Ireland,Brighton & Hove Albion,€25.00m
+Dwight McNeil,Left Winger,25,England,Everton FC,€25.00m
+Maximilian Beier,Centre-Forward,22,Germany,Borussia Dortmund,€25.00m
+Emanuel Emegha,Centre-Forward,22,Netherlands,RC Strasbourg Alsace,€25.00m
+Kang-in Lee,Right Winger,24,"Korea, South",Paris Saint-Germain,€25.00m
+Dilane Bakwa,Right Winger,22,France,RC Strasbourg Alsace,€25.00m
+Taty Castellanos,Centre-Forward,26,Argentina,SS Lazio,€25.00m
+Evann Guessand,Centre-Forward,24,Cote d'Ivoire,OGC Nice,€25.00m
+Edon Zhegrova,Right Winger,26,Kosovo,LOSC Lille,€25.00m
+Christos Tzolis,Left Winger,23,Greece,Club Brugge KV,€25.00m
+Ismaïla Sarr,Right Winger,27,Senegal,Crystal Palace,€25.00m
+Giacomo Raspadori,Second Striker,25,Italy,SSC Napoli,€25.00m
+Callum Hudson-Odoi,Left Winger,24,England,Nottingham Forest,€25.00m
+Riccardo Orsolini,Right Winger,28,Italy,Bologna FC 1909,€25.00m
+Ritsu Doan,Right Winger,27,Japan,SC Freiburg,€25.00m
+Mikel Oyarzabal,Centre-Forward,28,Spain,Real Sociedad,€25.00m
+Noa Lang,Left Winger,26,Netherlands,SSC Napoli,€25.00m
+Donyell Malen,Right Winger,26,Netherlands,Aston Villa,€25.00m
+Ivan Toney,Centre-Forward,29,England,Al-Ahli SFC,€25.00m
+Alexander Sørloth,Centre-Forward,29,Norway,Atlético de Madrid,€25.00m
+Conrad Harder,Centre-Forward,20,Denmark,Sporting CP,€24.00m
+Nico González,Right Winger,27,Argentina,Juventus FC,€24.00m
+Galeno,Left Winger,27,Brazil,Al-Ahli SFC,€24.00m
+Youssef En-Nesyri,Centre-Forward,28,Morocco,Fenerbahce,€24.00m
+Kerem Aktürkoğlu,Left Winger,26,Türkiye,SL Benfica,€24.00m
+Gianluca Scamacca,Centre-Forward,26,Italy,Atalanta BC,€24.00m
+Stefanos Tzimas,Centre-Forward,19,Greece,Brighton & Hove Albion,€22.00m
+Roger,Right Winger,19,Portugal,SC Braga,€22.00m
+Georges Mikautadze,Centre-Forward,24,Georgia,Olympique Lyon,€22.00m
+Samuel Lino,Left Winger,25,Brazil,Atlético de Madrid,€22.00m
+Elye Wahi,Centre-Forward,22,France,Eintracht Frankfurt,€22.00m
+Wilfried Gnonto,Right Winger,21,Italy,Leeds United,€22.00m
+Iliman Ndiaye,Left Winger,25,Senegal,Everton FC,€22.00m
+Beto,Centre-Forward,27,Guinea-Bissau,Everton FC,€22.00m
+Arnaud Kalimuendo,Centre-Forward,23,France,Stade Rennais FC,€22.00m
+Lorenzo Lucca,Centre-Forward,24,Italy,SSC Napoli,€22.00m
+Pepê,Right Winger,28,Brazil,FC Porto,€22.00m
+Yuri Alberto,Centre-Forward,24,Brazil,Sport Club Corinthians Paulista,€22.00m
+Crysencio Summerville,Left Winger,23,Netherlands,West Ham United,€22.00m
+Brian Brobbey,Centre-Forward,23,Netherlands,Ajax Amsterdam,€22.00m
+Pedro,Centre-Forward,28,Brazil,CR Flamengo,€22.00m
+Ermedin Demirovic,Centre-Forward,27,Bosnia-Herzegovina,VfB Stuttgart,€22.00m
+Serge Gnabry,Left Winger,30,Germany,Bayern Munich,€22.00m
+Leandro Trossard,Left Winger,30,Belgium,Arsenal FC,€22.00m
+Romelu Lukaku,Centre-Forward,32,Belgium,SSC Napoli,€22.00m
+Barış Alper Yılmaz,Left Winger,25,Türkiye,Galatasaray,€21.00m
+Vitor Roque,Centre-Forward,20,Brazil,Sociedade Esportiva Palmeiras,€20.00m
+Thierno Barry,Centre-Forward,22,France,Everton FC,€20.00m
+Ange-Yoan Bonny,Centre-Forward,21,France,Inter Milan,€20.00m
+Wilson Odobert,Right Winger,20,France,Tottenham Hotspur,€20.00m
+Rodrigo Muniz,Centre-Forward,24,Brazil,Fulham FC,€20.00m
+Jamie Leweling,Right Winger,24,Germany,VfB Stuttgart,€20.00m
+Fábio Silva,Centre-Forward,23,Portugal,Wolverhampton Wanderers,€20.00m
+Gustav Isaksen,Right Winger,24,Denmark,SS Lazio,€20.00m
+João Félix,Second Striker,25,Portugal,Chelsea FC,€20.00m
+Richarlison,Centre-Forward,28,Brazil,Tottenham Hotspur,€20.00m
+Sergio Gómez,Left Winger,24,Spain,Real Sociedad,€20.00m
+Deniz Undav,Centre-Forward,29,Germany,VfB Stuttgart,€20.00m
+Dodi Lukébakio,Right Winger,27,Belgium,Sevilla FC,€20.00m
+Mattia Zaccagni,Left Winger,30,Italy,SS Lazio,€20.00m
+Heung-min Son,Left Winger,33,"Korea, South",Tottenham Hotspur,€20.00m
+Mikey Moore,Left Winger,17,England,Tottenham Hotspur,€18.00m
+Igor Thiago,Centre-Forward,24,Brazil,Brentford FC,€18.00m
+Tolu Arokodare,Centre-Forward,24,Nigeria,KRC Genk,€18.00m
+Marcos Leonardo,Centre-Forward,22,Brazil,Al-Hilal SFC,€18.00m
+Matthis Abline,Centre-Forward,22,France,FC Nantes,€18.00m
+Lucas Stassin,Centre-Forward,20,Belgium,AS Saint-Étienne,€18.00m
+Adam Hlozek,Second Striker,22,Czech Republic,TSG 1899 Hoffenheim,€18.00m
+Amine Adli,Left Winger,25,Morocco,Bayer 04 Leverkusen,€18.00m
+Jesper Lindstrøm,Right Winger,25,Denmark,SSC Napoli,€18.00m
+Folarin Balogun,Centre-Forward,24,United States,AS Monaco,€18.00m
+Cucho Hernández,Centre-Forward,26,Colombia,Real Betis Balompié,€18.00m
+Emmanuel Latte Lath,Centre-Forward,26,Cote d'Ivoire,Atlanta United FC,€18.00m
+Joël Piroe,Centre-Forward,25,Netherlands,Leeds United,€18.00m
+Eddie Nketiah,Centre-Forward,26,England,Crystal Palace,€18.00m
+Daniel James,Right Winger,27,Wales,Leeds United,€18.00m
+Albert Gudmundsson,Second Striker,28,Iceland,ACF Fiorentina,€18.00m
+Ludovic Blas,Right Winger,27,France,Stade Rennais FC,€18.00m
+Viktor Tsygankov,Right Winger,27,Ukraine,Girona FC,€18.00m
+Antoine Griezmann,Centre-Forward,34,France,Atlético de Madrid,€18.00m
+Aleksandar Mitrović,Centre-Forward,30,Serbia,Al-Hilal SFC,€18.00m
+Lionel Messi,Right Winger,38,Argentina,Inter Miami CF,€18.00m
+Jean-Mattéo Bahoya,Left Winger,20,France,Eintracht Frankfurt,€17.00m
+Jhon Arias,Right Winger,27,Colombia,Wolverhampton Wanderers,€17.00m
+Martin Terrier,Left Winger,28,France,Bayer 04 Leverkusen,€17.00m
+Alexis Saelemaekers,Right Winger,26,Belgium,AC Milan,€17.00m
+Timothy Weah,Right Winger,25,United States,Juventus FC,€17.00m
+Tim Kleindienst,Centre-Forward,29,Germany,Borussia Mönchengladbach,€17.00m
+Jaden Philogene,Left Winger,23,England,Ipswich Town,€16.00m
+Ricardo Pepi,Centre-Forward,22,United States,PSV Eindhoven,€16.00m
+Konstantin Tyukavin,Centre-Forward,23,Russia,Dynamo Moscow,€16.00m
+Paulinho,Left Winger,25,Brazil,Sociedade Esportiva Palmeiras,€16.00m
+Josh Sargent,Centre-Forward,25,United States,Norwich City,€16.00m
+Reiss Nelson,Right Winger,25,England,Arsenal FC,€16.00m
+Dominic Calvert-Lewin,Centre-Forward,28,England,Without Club,€16.00m
+Taiwo Awoniyi,Centre-Forward,27,Nigeria,Nottingham Forest,€16.00m
+Jacob Murphy,Right Winger,30,England,Newcastle United,€16.00m
+George Ilenikhena,Centre-Forward,18,Nigeria,AS Monaco,€15.00m
+Luis Guilherme,Right Winger,19,Brazil,West Ham United,€15.00m
+Benja Domínguez,Left Winger,21,Argentina,Bologna FC 1909,€15.00m
+Eli Junior Kroupi,Centre-Forward,19,France,AFC Bournemouth,€15.00m
+Ernest Nuamah,Right Winger,21,Ghana,Olympique Lyon,€15.00m
+Sindre Walle Egeli,Right Winger,19,Norway,FC Nordsjaelland,€15.00m
+Yáser Asprilla,Right Winger,21,Colombia,Girona FC,€15.00m
+Karim Konaté,Centre-Forward,21,Cote d'Ivoire,Red Bull Salzburg,€15.00m
+Matías Fernández-Pardo,Centre-Forward,20,Spain,LOSC Lille,€15.00m
+Ilias Akhomach,Right Winger,21,Morocco,Villarreal CF,€15.00m
+Geny Catamo,Right Winger,24,Mozambique,Sporting CP,€15.00m
+Mohamed-Ali Cho,Right Winger,21,France,OGC Nice,€15.00m
+Andreas Schjelderup,Left Winger,21,Norway,SL Benfica,€15.00m
+Jota Silva,Right Winger,25,Portugal,Nottingham Forest,€15.00m
+Orri Óskarsson,Centre-Forward,20,Iceland,Real Sociedad,€15.00m
+El Bilal Touré,Centre-Forward,23,Mali,Atalanta BC,€15.00m
+Manfred Ugalde,Centre-Forward,23,Costa Rica,Spartak Moscow,€15.00m
+Yeremay Hernández,Left Winger,22,Spain,Deportivo de La Coruña,€15.00m
+Vladyslav Vanat,Centre-Forward,23,Ukraine,Dynamo Kyiv,€15.00m
+Boulaye Dia,Centre-Forward,28,Senegal,SS Lazio,€15.00m
+Diego López,Right Winger,23,Spain,Valencia CF,€15.00m
+Ander Barrenetxea,Left Winger,23,Spain,Real Sociedad,€15.00m
+Armand Laurienté,Left Winger,26,France,US Sassuolo,€15.00m
+Mathias Kvistgaarden,Centre-Forward,23,Denmark,Norwich City,€15.00m
+Jack Clarke,Left Winger,24,England,Ipswich Town,€15.00m
+Terem Moffi,Centre-Forward,26,Nigeria,OGC Nice,€15.00m
+Bryan Gil,Left Winger,24,Spain,Tottenham Hotspur,€15.00m
+Patrick Wimmer,Right Winger,24,Austria,VfL Wolfsburg,€15.00m
+Fotis Ioannidis,Centre-Forward,25,Greece,Panathinaikos FC,€15.00m
+Luis Sinisterra,Left Winger,26,Colombia,AFC Bournemouth,€15.00m
+Nikola Krstović,Centre-Forward,25,Montenegro,US Lecce,€15.00m
+Igor Jesus,Centre-Forward,24,Brazil,Nottingham Forest,€15.00m
+Ansgar Knauff,Right Winger,23,Germany,Eintracht Frankfurt,€15.00m
+Daizen Maeda,Left Winger,27,Japan,Celtic FC,€15.00m
+Ché Adams,Centre-Forward,29,Scotland,Torino FC,€15.00m
+Nathan Tella,Right Winger,26,Nigeria,Bayer 04 Leverkusen,€15.00m
+Tammy Abraham,Centre-Forward,27,England,Besiktas JK,€15.00m
+Andrea Pinamonti,Centre-Forward,26,Italy,US Sassuolo,€15.00m
+Harry Wilson,Right Winger,28,Wales,Fulham FC,€15.00m
+Chris Führich,Left Winger,27,Germany,VfB Stuttgart,€15.00m
+Iñaki Williams,Right Winger,31,Ghana,Athletic Bilbao,€15.00m
+Takumi Minamino,Left Winger,30,Japan,AS Monaco,€15.00m
+Rayan,Right Winger,18,Brazil,Clube de Regatas Vasco da Gama,€14.00m
+Anis Hadj Moussa,Right Winger,23,Algeria,Feyenoord Rotterdam,€14.00m
+Ben Doak,Right Winger,19,Scotland,Liverpool FC,€14.00m
+Samuel Mbangula,Left Winger,21,Belgium,Juventus FC,€14.00m
+Borja Sainz,Left Winger,24,Spain,FC Porto,€14.00m
+Hugo Duro,Centre-Forward,25,Spain,Valencia CF,€14.00m
+Troy Parrott,Centre-Forward,23,Ireland,AZ Alkmaar,€14.00m
+Kévin Denkey,Centre-Forward,24,Togo,FC Cincinnati,€14.00m
+Facundo Torres,Left Winger,25,Uruguay,Sociedade Esportiva Palmeiras,€14.00m
+Maksim Glushenkov,Second Striker,25,Russia,Zenit St. Petersburg,€14.00m
+Andreas Skov Olsen,Right Winger,25,Denmark,VfL Wolfsburg,€14.00m
+Jack Harrison,Right Winger,28,England,Leeds United,€14.00m
+Eljif Elmas,Left Winger,25,North Macedonia,RB Leipzig,€14.00m
+Yunus Akgün,Right Winger,25,Türkiye,Galatasaray,€14.00m
+Manor Solomon,Left Winger,25,Israel,Tottenham Hotspur,€14.00m
+Simon Banza,Centre-Forward,28,DR Congo,SC Braga,€14.00m
+Federico Chiesa,Right Winger,27,Italy,Liverpool FC,€14.00m
+Steven Bergwijn,Left Winger,27,Netherlands,Al-Ittihad Club,€14.00m
+Franculino,Centre-Forward,21,Guinea-Bissau,FC Midtjylland,€13.00m
+Kamaldeen Sulemana,Left Winger,23,Ghana,Atalanta BC,€13.00m
+Franjo Ivanovic,Centre-Forward,21,Croatia,Union Saint-Gilloise,€13.00m
+Noah Okafor,Left Winger,25,Switzerland,AC Milan,€13.00m
+Kasper Dolberg,Centre-Forward,27,Denmark,RSC Anderlecht,€13.00m
+Allan Saint-Maximin,Left Winger,28,France,Al-Ahli SFC,€13.00m
+Gabriel Carvalho,Right Winger,17,Brazil,Sport Club Internacional,€12.00m
+Charalampos Kostoulas,Centre-Forward,18,Greece,Brighton & Hove Albion,€12.00m
+Eliezer Mayenda,Centre-Forward,20,Spain,Sunderland AFC,€12.00m
+Romain Esse,Right Winger,20,England,Crystal Palace,€12.00m
+Kevin,Left Winger,22,Brazil,Shakhtar Donetsk,€12.00m
+Semih Kılıçsoy,Centre-Forward,19,Türkiye,Besiktas JK,€12.00m
+Luciano Gondou,Centre-Forward,24,Argentina,Zenit St. Petersburg,€12.00m
+Luca Koleosho,Right Winger,20,Italy,Burnley FC,€12.00m
+Ramón Sosa,Left Winger,25,Paraguay,Sociedade Esportiva Palmeiras,€12.00m
+Abde Ezzalzouli,Left Winger,23,Morocco,Real Betis Balompié,€12.00m
+Bryan Zaragoza,Left Winger,23,Spain,Bayern Munich,€12.00m
+Jonathan Rowe,Left Winger,22,England,Olympique Marseille,€12.00m
+Dorgeles Nene,Left Winger,22,Mali,Red Bull Salzburg,€12.00m
+Tiago Tomás,Centre-Forward,23,Portugal,VfL Wolfsburg,€12.00m
+Osame Sahraoui,Left Winger,24,Morocco,LOSC Lille,€12.00m
+Armando Broja,Centre-Forward,23,Albania,Chelsea FC,€12.00m
+Zeki Amdouni,Centre-Forward,24,Switzerland,Burnley FC,€12.00m
+Thijs Dallinga,Centre-Forward,24,Netherlands,Bologna FC 1909,€12.00m
+Cameron Archer,Centre-Forward,23,England,Southampton FC,€12.00m
+Wilson Isidor,Centre-Forward,24,France,Sunderland AFC,€12.00m
+Rodrigo Riquelme,Left Winger,25,Spain,Real Betis Balompié,€12.00m
+Benedict Hollerbach,Centre-Forward,24,Germany,1.FSV Mainz 05,€12.00m
+Roberto Piccoli,Centre-Forward,24,Italy,Cagliari Calcio,€12.00m
+Julián Quiñones,Centre-Forward,28,Mexico,Al-Qadsiah FC,€12.00m
+Zakaria Aboukhlal,Right Winger,25,Morocco,FC Toulouse,€12.00m
+Jonas Wind,Centre-Forward,26,Denmark,VfL Wolfsburg,€12.00m
+Levi García,Centre-Forward,27,Trinidad and Tobago,Spartak Moscow,€12.00m
+Nicolas Kühn,Right Winger,25,Germany,Como 1907,€12.00m
+Marcus Edwards,Right Winger,26,England,Burnley FC,€12.00m
+Hee-chan Hwang,Centre-Forward,29,"Korea, South",Wolverhampton Wanderers,€12.00m
+Robin Hack,Left Winger,26,Germany,Borussia Mönchengladbach,€12.00m
+Moses Simon,Left Winger,30,Nigeria,Paris FC,€12.00m
+Ricardo Horta,Right Winger,30,Portugal,SC Braga,€12.00m
+Adam Armstrong,Centre-Forward,28,England,Southampton FC,€12.00m
+Breel Embolo,Centre-Forward,28,Switzerland,AS Monaco,€12.00m
+Franck Honorat,Right Winger,28,France,Borussia Mönchengladbach,€12.00m
+Jhon Córdoba,Centre-Forward,32,Colombia,FC Krasnodar,€12.00m
+Robert Lewandowski,Centre-Forward,36,Poland,FC Barcelona,€12.00m
+Cristiano Ronaldo,Centre-Forward,40,Portugal,Al-Nassr FC,€12.00m
+Kauã Elias,Centre-Forward,19,Brazil,Shakhtar Donetsk,€11.00m
+Rômulo,Centre-Forward,23,Brazil,Göztepe,€11.00m
+Promise David,Centre-Forward,24,Canada,Union Saint-Gilloise,€11.00m
+Issahaku Fatawu,Right Winger,21,Ghana,Leicester City,€11.00m
+Jarne Steuckers,Right Winger,23,Belgium,KRC Genk,€11.00m
+Jay Stansfield,Centre-Forward,22,England,Birmingham City,€11.00m
+Oğuz Aydın,Left Winger,24,Türkiye,Fenerbahce,€11.00m
+Tetê,Right Winger,25,Brazil,Panathinaikos FC,€11.00m
+Gonçalo Guedes,Left Winger,28,Portugal,Wolverhampton Wanderers,€11.00m
+Álvaro Morata,Centre-Forward,32,Spain,Galatasaray,€11.00m
+Ibrahim Osman,Left Winger,20,Ghana,AJ Auxerre,€10.00m
+Gustavo Nunes,Left Winger,19,Brazil,Brentford FC,€10.00m
+Francesco Camarda,Centre-Forward,17,Italy,US Lecce,€10.00m
+Maroan Sannadi,Centre-Forward,24,Morocco,Athletic Bilbao,€10.00m
+Gift Orban,Centre-Forward,23,Nigeria,TSG 1899 Hoffenheim,€10.00m
+Pedro,Left Winger,19,Brazil,Zenit St. Petersburg,€10.00m
+Tyrique George,Left Winger,19,England,Chelsea FC,€10.00m
+Bénie Traoré,Left Winger,22,Cote d'Ivoire,FC Basel 1893,€10.00m
+José Manuel López,Centre-Forward,24,Argentina,Sociedade Esportiva Palmeiras,€10.00m
+Nelson Weiper,Centre-Forward,20,Germany,1.FSV Mainz 05,€10.00m
+Mika Godts,Left Winger,20,Belgium,Ajax Amsterdam,€10.00m
+Gabriel Pec,Right Winger,24,Brazil,Los Angeles Galaxy,€10.00m
+Tom Cannon,Centre-Forward,22,Ireland,Sheffield United,€10.00m
+Loum Tchaouna,Right Winger,21,France,Burnley FC,€10.00m
+Ernest Muci,Left Winger,24,Albania,Besiktas JK,€10.00m
+Samuel Iling-Junior,Left Winger,21,England,Aston Villa,€10.00m
+Sofiane Diop,Left Winger,25,Morocco,OGC Nice,€10.00m
+Carlos Vicente,Right Winger,26,Spain,Deportivo Alavés,€10.00m
+Anastasios Douvikas,Centre-Forward,25,Greece,Como 1907,€10.00m
+Morgan Whittaker,Right Winger,24,England,Middlesbrough FC,€10.00m
+Youssoufa Moukoko,Centre-Forward,20,Germany,FC Copenhagen,€10.00m
+Willem Geubbels,Centre-Forward,23,France,FC St. Gallen 1879,€10.00m
+Josh Maja,Centre-Forward,26,Nigeria,West Bromwich Albion,€10.00m
+Zuriko Davitashvili,Left Winger,24,Georgia,AS Saint-Étienne,€10.00m
+Alexis Vega,Left Winger,27,Mexico,Deportivo Toluca,€10.00m
+Javi Puado,Left Winger,27,Spain,RCD Espanyol Barcelona,€10.00m
+Samuel Chukwueze,Right Winger,26,Nigeria,AC Milan,€10.00m
+Dennis Man,Right Winger,26,Romania,Parma Calcio 1913,€10.00m
+Arthur Cabral,Centre-Forward,27,Brazil,Botafogo de Futebol e Regatas,€10.00m
+Mateo Cassierra,Centre-Forward,28,Colombia,Zenit St. Petersburg,€10.00m
+Stephy Mavididi,Left Winger,27,England,Leicester City,€10.00m
+Roland Sallai,Right Winger,28,Hungary,Galatasaray,€10.00m
+Hirving Lozano,Left Winger,29,Mexico,San Diego FC,€10.00m
+Saïd Benrahma,Left Winger,29,Algeria,NEOM SC,€10.00m
+David Brooks,Right Winger,28,Wales,AFC Bournemouth,€10.00m
+Miguel Almirón,Right Winger,31,Paraguay,Atlanta United FC,€10.00m
+Ángel Correa,Right Winger,30,Argentina,Tigres UANL,€10.00m
+Enes Ünal,Centre-Forward,28,Türkiye,AFC Bournemouth,€10.00m
+Ayoze Pérez,Centre-Forward,31,Spain,Villarreal CF,€10.00m
+Jérémie Boga,Left Winger,28,Cote d'Ivoire,OGC Nice,€10.00m
+Memphis Depay,Centre-Forward,31,Netherlands,Sport Club Corinthians Paulista,€10.00m
+Matteo Politano,Right Winger,31,Italy,SSC Napoli,€10.00m
+Raheem Sterling,Right Winger,30,England,Chelsea FC,€10.00m
+Chris Wood,Centre-Forward,33,New Zealand,Nottingham Forest,€10.00m
+Niclas Füllkrug,Centre-Forward,32,Germany,West Ham United,€10.00m
+Alisson,Right Winger,19,Brazil,Shakhtar Donetsk,€9.00m
+Bazoumana Touré,Left Winger,19,Cote d'Ivoire,TSG 1899 Hoffenheim,€9.00m
+William Gomes,Left Winger,19,Brazil,FC Porto,€9.00m
+Kevin Zenón,Left Winger,23,Argentina,CA Boca Juniors,€9.00m
+Abdallah Sima,Left Winger,24,Senegal,Brighton & Hove Albion,€9.00m
+Nicolò Tresoldi,Centre-Forward,20,Germany,Club Brugge KV,€9.00m
+Jaidon Anthony,Left Winger,25,England,Burnley FC,€9.00m
+Wesley,Left Winger,26,Brazil,Sport Club Internacional,€9.00m
+Kyogo Furuhashi,Centre-Forward,30,Japan,Birmingham City,€9.00m
+Hugo Cuypers,Centre-Forward,28,Belgium,Chicago Fire FC,€9.00m
+Patson Daka,Centre-Forward,26,Zambia,Leicester City,€9.00m
+Róger Guedes,Second Striker,28,Brazil,Al-Rayyan SC,€9.00m
+Anders Dreyer,Right Winger,27,Denmark,San Diego FC,€9.00m
+Gorka Guruzeta,Centre-Forward,28,Spain,Athletic Bilbao,€9.00m
+Álex Berenguer,Left Winger,30,Spain,Athletic Bilbao,€9.00m
+Rafa Silva,Second Striker,32,Portugal,Besiktas JK,€9.00m
+Adama Traoré,Right Winger,29,Spain,Fulham FC,€9.00m
+Mauro Icardi,Centre-Forward,32,Argentina,Galatasaray,€9.00m
+Julien Duranville,Left Winger,19,Belgium,Borussia Dortmund,€8.50m
+Sebastiano Esposito,Second Striker,23,Italy,Inter Milan,€8.50m
+Nicolò Cambiaghi,Left Winger,24,Italy,Bologna FC 1909,€8.50m
+Krzysztof Piatek,Centre-Forward,30,Poland,Al-Duhail SC,€8.50m
+Cyriaque Irié,Right Winger,20,Burkina Faso,SC Freiburg,€8.00m
+Deivid Washington,Centre-Forward,20,Brazil,Santos FC,€8.00m
+Moussa Yeo,Right Winger,21,Mali,Red Bull Salzburg,€8.00m
+Gianluca Prestianni,Right Winger,19,Argentina,SL Benfica,€8.00m
+Anan Khalaili,Right Winger,20,Israel,Union Saint-Gilloise,€8.00m
+Marc Guiu,Centre-Forward,19,Spain,Chelsea FC,€8.00m
+Gonzalo García,Centre-Forward,21,Spain,Real Madrid,€8.00m
+Tom Watson,Left Winger,19,England,Brighton & Hove Albion,€8.00m
+Darío Osorio,Right Winger,21,Chile,FC Midtjylland,€8.00m
+Luciano Rodríguez,Centre-Forward,22,Uruguay,Esporte Clube Bahia,€8.00m
+Yoann Cathline,Left Winger,23,France,FC Utrecht,€8.00m
+Ângelo,Right Winger,20,Brazil,Al-Nassr FC,€8.00m
+Chemsdine Talbi,Right Winger,20,Morocco,Sunderland AFC,€8.00m
+Carlos Forbs,Left Winger,21,Portugal,Club Brugge KV,€8.00m
+Ruben van Bommel,Left Winger,20,Netherlands,PSV Eindhoven,€8.00m
+Ferreirinha,Left Winger,27,Brazil,São Paulo Futebol Clube,€8.00m
+Mexx Meerdink,Centre-Forward,21,Netherlands,AZ Alkmaar,€8.00m
+Facundo Pellistri,Right Winger,23,Uruguay,Panathinaikos FC,€8.00m
+Chermiti,Centre-Forward,21,Portugal,Everton FC,€8.00m
+Jacob Ondrejka,Left Winger,22,Sweden,Parma Calcio 1913,€8.00m
+Eren Dinkçi,Right Winger,23,Türkiye,SC Freiburg,€8.00m
+William Bøving,Centre-Forward,22,Denmark,SK Sturm Graz,€8.00m
+Ferran Jutglà,Centre-Forward,26,Spain,Celta de Vigo,€8.00m
+Ayase Ueda,Centre-Forward,26,Japan,Feyenoord Rotterdam,€8.00m
+Vitinha,Centre-Forward,25,Portugal,Genoa CFC,€8.00m
+Ante Crnac,Centre-Forward,21,Croatia,Norwich City,€8.00m
+Kasper Høgh,Centre-Forward,24,Denmark,FK Bodø/Glimt,€8.00m
+Joseph Paintsil,Right Winger,27,Ghana,Los Angeles Galaxy,€8.00m
+Fisnik Asllani,Centre-Forward,22,Kosovo,TSG 1899 Hoffenheim,€8.00m
+Mirlind Daku,Centre-Forward,27,Albania,Rubin Kazan,€8.00m
+Sergey Pinyaev,Left Winger,20,Russia,Lokomotiv Moscow,€8.00m
+Benjamín Rollheiser,Right Winger,25,Argentina,Santos FC,€8.00m
+David Strelec,Centre-Forward,24,Slovakia,Slovan Bratislava,€8.00m
+Yann Gboho,Left Winger,24,France,FC Toulouse,€8.00m
+Artur,Right Winger,27,Brazil,Botafogo de Futebol e Regatas,€8.00m
+Luis Suárez,Centre-Forward,27,Colombia,UD Almería,€8.00m
+Keito Nakamura,Left Winger,24,Japan,Stade Reims,€8.00m
+Tyrese Campbell,Centre-Forward,25,England,Sheffield United,€8.00m
+Cyril Ngonge,Right Winger,25,Belgium,SSC Napoli,€8.00m
+Gaëtan Perrin,Right Winger,29,France,AJ Auxerre,€8.00m
+Álex Zendejas,Right Winger,27,United States,CF América,€8.00m
+Odsonne Edouard,Centre-Forward,27,France,Crystal Palace,€8.00m
+Akram Afif,Left Winger,28,Qatar,Al-Sadd SC,€8.00m
+Jota,Left Winger,26,Portugal,Celtic FC,€8.00m
+Everton,Left Winger,29,Brazil,CR Flamengo,€8.00m
+Haji Wright,Centre-Forward,27,United States,Coventry City,€8.00m
+Oleksandr Zubkov,Right Winger,28,Ukraine,Trabzonspor,€8.00m
+Vaclav Cerny,Right Winger,27,Czech Republic,VfL Wolfsburg,€8.00m
+Denis Bouanga,Left Winger,30,Gabon,Los Angeles FC,€8.00m
+Maxwel Cornet,Left Winger,28,Cote d'Ivoire,West Ham United,€8.00m
+Moussa Dembélé,Centre-Forward,29,France,Al-Ettifaq FC,€8.00m
+Kiril Despodov,Right Winger,28,Bulgaria,PAOK Thessaloniki,€8.00m
+Neal Maupay,Centre-Forward,28,France,Olympique Marseille,€8.00m
+Andrija Zivkovic,Right Winger,29,Serbia,PAOK Thessaloniki,€8.00m
+Paulo Dybala,Second Striker,31,Argentina,AS Roma,€8.00m
+Sadio Mané,Left Winger,33,Senegal,Al-Nassr FC,€8.00m
+Sardar Azmoun,Centre-Forward,30,Iran,Shabab Al-Ahli Club,€8.00m
+Domenico Berardi,Right Winger,30,Italy,US Sassuolo,€8.00m
+Riyad Mahrez,Right Winger,34,Algeria,Al-Ahli SFC,€8.00m
+Bertrand Traoré,Right Winger,29,Burkina Faso,Ajax Amsterdam,€8.00m
+Callum Wilson,Centre-Forward,33,England,Without Club,€8.00m
+Christopher Bonsu Baah,Left Winger,20,Ghana,Al-Qadsiah FC,€7.50m
+Hugo Álvarez,Left Winger,22,Spain,Celta de Vigo,€7.50m
+Matija Frigan,Centre-Forward,22,Croatia,KVC Westerlo,€7.50m
+Ismaël Gharbi,Left Winger,21,Spain,SC Braga,€7.50m
+Tommy Conway,Centre-Forward,22,Scotland,Middlesbrough FC,€7.50m
+Roony Bardghji,Right Winger,19,Sweden,FC Barcelona Atlètic,€7.50m
+Vitinho,Left Winger,26,Brazil,Sport Club Internacional,€7.50m
+Raúl Moro,Left Winger,22,Spain,Ajax Amsterdam,€7.50m
+Largie Ramazani,Left Winger,24,Belgium,Leeds United,€7.50m
+Tijjani Noslin,Right Winger,26,Netherlands,SS Lazio,€7.50m
+Ben Brereton Díaz,Centre-Forward,26,Chile,Southampton FC,€7.50m
+Brandon Vazquez,Centre-Forward,26,United States,Austin FC,€7.50m
+Rafa Mujica,Centre-Forward,26,Spain,Al-Sadd SC,€7.50m
+Cengiz Ünder,Right Winger,28,Türkiye,Fenerbahce,€7.50m
+Myrto Uzuni,Left Winger,30,Albania,Austin FC,€7.50m
+Borja Mayoral,Centre-Forward,28,Spain,Getafe CF,€7.50m
+Fedor Chalov,Centre-Forward,27,Russia,PAOK Thessaloniki,€7.50m
+Michael Olunga,Centre-Forward,31,Kenya,Al-Arabi SC,€7.50m
+Cristian Arango,Centre-Forward,30,Colombia,San Jose Earthquakes,€7.50m
+Lukas Haraslin,Left Winger,29,Slovakia,AC Sparta Prague,€7.50m
+Paulinho,Centre-Forward,32,Portugal,Deportivo Toluca,€7.50m
+Anthony Martial,Centre-Forward,29,France,AEK Athens,€7.50m
+Keny Arroyo,Right Winger,19,Ecuador,Besiktas JK,€7.00m
+Joaquín Panichelli,Centre-Forward,22,Argentina,Deportivo Alavés,€7.00m
+Sondre Ørjasæter,Left Winger,21,Norway,Sarpsborg 08 FF,€7.00m
+Rafiu Durosinmi,Centre-Forward,22,Nigeria,FC Viktoria Plzen,€7.00m
+Jude Bellingham,Attacking Midfield,22,England,Real Madrid,€180.00m
+Pedri,Central Midfield,22,Spain,FC Barcelona,€140.00m
+Florian Wirtz,Attacking Midfield,22,Germany,Liverpool FC,€140.00m
+Jamal Musiala,Attacking Midfield,22,Germany,Bayern Munich,€140.00m
+Federico Valverde,Central Midfield,27,Uruguay,Real Madrid,€130.00m
+Cole Palmer,Attacking Midfield,23,England,Chelsea FC,€120.00m
+Declan Rice,Central Midfield,26,England,Arsenal FC,€120.00m
+Rodri,Defensive Midfield,29,Spain,Manchester City,€110.00m
+Alexis Mac Allister,Central Midfield,26,Argentina,Liverpool FC,€100.00m
+Moisés Caicedo,Defensive Midfield,23,Ecuador,Chelsea FC,€90.00m
+Martin Ødegaard,Attacking Midfield,26,Norway,Arsenal FC,€85.00m
+João Neves,Defensive Midfield,20,Portugal,Paris Saint-Germain,€80.00m
+Bruno Guimarães,Defensive Midfield,27,Brazil,Newcastle United,€80.00m
+Vitinha,Central Midfield,25,Portugal,Paris Saint-Germain,€80.00m
+Dominik Szoboszlai,Attacking Midfield,24,Hungary,Liverpool FC,€80.00m
+Enzo Fernández,Central Midfield,24,Argentina,Chelsea FC,€75.00m
+Ryan Gravenberch,Defensive Midfield,23,Netherlands,Liverpool FC,€75.00m
+Aurélien Tchouaméni,Defensive Midfield,25,France,Real Madrid,€75.00m
+Nicolò Barella,Central Midfield,28,Italy,Inter Milan,€75.00m
+Xavi Simons,Attacking Midfield,22,Netherlands,RB Leipzig,€70.00m
+Gavi,Central Midfield,20,Spain,FC Barcelona,€60.00m
+Eduardo Camavinga,Central Midfield,22,France,Real Madrid,€60.00m
+Oihan Sancet,Attacking Midfield,25,Spain,Athletic Bilbao,€60.00m
+Tijjani Reijnders,Central Midfield,26,Netherlands,Manchester City,€60.00m
+Martín Zubimendi,Defensive Midfield,26,Spain,Arsenal FC,€60.00m
+Sandro Tonali,Central Midfield,25,Italy,Newcastle United,€60.00m
+Dani Olmo,Attacking Midfield,27,Spain,FC Barcelona,€60.00m
+Warren Zaïre-Emery,Central Midfield,19,France,Paris Saint-Germain,€55.00m
+Aleksandar Pavlovic,Defensive Midfield,21,Germany,Bayern Munich,€55.00m
+Pablo Barrios,Central Midfield,22,Spain,Atlético de Madrid,€55.00m
+Morgan Rogers,Attacking Midfield,22,England,Aston Villa,€55.00m
+Eberechi Eze,Attacking Midfield,27,England,Crystal Palace,€55.00m
+Kobbie Mainoo,Central Midfield,20,England,Manchester United,€50.00m
+Fermín López,Attacking Midfield,22,Spain,FC Barcelona,€50.00m
+Éderson,Central Midfield,26,Brazil,Atalanta BC,€50.00m
+Amadou Onana,Defensive Midfield,23,Belgium,Aston Villa,€50.00m
+Morten Hjulmand,Defensive Midfield,26,Denmark,Sporting CP,€50.00m
+Dejan Kulusevski,Attacking Midfield,25,Sweden,Tottenham Hotspur,€50.00m
+Morgan Gibbs-White,Attacking Midfield,25,England,Nottingham Forest,€50.00m
+Scott McTominay,Central Midfield,28,Scotland,SSC Napoli,€50.00m
+Bruno Fernandes,Attacking Midfield,30,Portugal,Manchester United,€50.00m
+Alejandro Garnacho,Attacking Midfield,21,Argentina,Manchester United,€45.00m
+Adam Wharton,Defensive Midfield,21,England,Crystal Palace,€45.00m
+Manuel Ugarte,Defensive Midfield,24,Uruguay,Manchester United,€45.00m
+Angelo Stiller,Defensive Midfield,24,Germany,VfB Stuttgart,€45.00m
+Curtis Jones,Central Midfield,24,England,Liverpool FC,€45.00m
+Frenkie de Jong,Central Midfield,28,Netherlands,FC Barcelona,€45.00m
+Joshua Kimmich,Defensive Midfield,30,Germany,Bayern Munich,€45.00m
+James Maddison,Attacking Midfield,28,England,Tottenham Hotspur,€42.00m
+Carlos Baleba,Defensive Midfield,21,Cameroon,Brighton & Hove Albion,€40.00m
+Rodrigo Mora,Attacking Midfield,18,Portugal,FC Porto,€40.00m
+Hugo Larsson,Central Midfield,21,Sweden,Eintracht Frankfurt,€40.00m
+João Gomes,Central Midfield,24,Brazil,Wolverhampton Wanderers,€40.00m
+Roméo Lavia,Defensive Midfield,21,Belgium,Chelsea FC,€40.00m
+Manu Koné,Central Midfield,24,France,AS Roma,€40.00m
+Conor Gallagher,Central Midfield,25,England,Atlético de Madrid,€40.00m
+Nico González,Central Midfield,23,Spain,Manchester City,€40.00m
+Khéphren Thuram,Central Midfield,24,France,Juventus FC,€40.00m
+Exequiel Palacios,Central Midfield,26,Argentina,Bayer 04 Leverkusen,€40.00m
+Boubacar Kamara,Defensive Midfield,25,France,Aston Villa,€40.00m
+Fabián Ruiz,Central Midfield,29,Spain,Paris Saint-Germain,€40.00m
+Archie Gray,Defensive Midfield,19,England,Tottenham Hotspur,€38.00m
+Lucas Bergvall,Central Midfield,19,Sweden,Tottenham Hotspur,€38.00m
+Youri Tielemans,Central Midfield,28,Belgium,Aston Villa,€38.00m
+Bernardo Silva,Attacking Midfield,30,Portugal,Manchester City,€38.00m
+Nico Paz,Attacking Midfield,20,Argentina,Como 1907,€35.00m
+Andrey Santos,Central Midfield,21,Brazil,Chelsea FC,€35.00m
+Matheus Nunes,Central Midfield,26,Portugal,Manchester City,€35.00m
+Enzo Millot,Attacking Midfield,23,France,VfB Stuttgart,€35.00m
+Charles De Ketelaere,Attacking Midfield,24,Belgium,Atalanta BC,€35.00m
+Davide Frattesi,Central Midfield,25,Italy,Inter Milan,€35.00m
+Teun Koopmeiners,Attacking Midfield,27,Netherlands,Juventus FC,€35.00m
+Mikel Merino,Central Midfield,29,Spain,Arsenal FC,€35.00m
+Joelinton,Central Midfield,28,Brazil,Newcastle United,€35.00m
+Justin Kluivert,Attacking Midfield,26,Netherlands,AFC Bournemouth,€35.00m
+Alan Varela,Defensive Midfield,24,Argentina,FC Porto,€32.00m
+Georgiy Sudakov,Attacking Midfield,22,Ukraine,Shakhtar Donetsk,€32.00m
+Ardon Jashari,Defensive Midfield,22,Switzerland,Club Brugge KV,€32.00m
+Pape Matar Sarr,Central Midfield,22,Senegal,Tottenham Hotspur,€32.00m
+Elliot Anderson,Central Midfield,22,England,Nottingham Forest,€32.00m
+Jacob Ramsey,Left Midfield,24,England,Aston Villa,€32.00m
+Malik Tillman,Attacking Midfield,23,United States,Bayer 04 Leverkusen,€32.00m
+Mattéo Guendouzi,Central Midfield,26,France,SS Lazio,€32.00m
+Mikel Jauregizar,Central Midfield,21,Spain,Athletic Bilbao,€30.00m
+Tom Bischof,Central Midfield,20,Germany,Bayern Munich,€30.00m
+Marc Casadó,Defensive Midfield,21,Spain,FC Barcelona,€30.00m
+Youssouf Fofana,Defensive Midfield,26,France,AC Milan,€30.00m
+Harvey Elliott,Attacking Midfield,22,England,Liverpool FC,€30.00m
+Nicolò Rovella,Defensive Midfield,23,Italy,SS Lazio,€30.00m
+Samuele Ricci,Defensive Midfield,23,Italy,AC Milan,€30.00m
+Orkun Kökçü,Central Midfield,24,Türkiye,Besiktas JK,€30.00m
+Douglas Luiz,Central Midfield,27,Brazil,Juventus FC,€30.00m
+Quinten Timber,Central Midfield,24,Netherlands,Feyenoord Rotterdam,€30.00m
+Emile Smith Rowe,Attacking Midfield,24,England,Fulham FC,€30.00m
+Rodrigo Bentancur,Defensive Midfield,28,Uruguay,Tottenham Hotspur,€30.00m
+Denis Zakaria,Defensive Midfield,28,Switzerland,AS Monaco,€30.00m
+Manuel Locatelli,Defensive Midfield,27,Italy,Juventus FC,€30.00m
+João Palhinha,Defensive Midfield,30,Portugal,Bayern Munich,€30.00m
+Hakan Çalhanoğlu,Defensive Midfield,31,Türkiye,Inter Milan,€30.00m
+Ayyoub Bouaddi,Central Midfield,17,France,LOSC Lille,€28.00m
+Danilo,Defensive Midfield,24,Brazil,Botafogo de Futebol e Regatas,€28.00m
+André,Defensive Midfield,24,Brazil,Wolverhampton Wanderers,€28.00m
+Bilal El Khannouss,Attacking Midfield,21,Morocco,Leicester City,€28.00m
+Mikkel Damsgaard,Attacking Midfield,25,Denmark,Brentford FC,€28.00m
+Kenneth Taylor,Central Midfield,23,Netherlands,Ajax Amsterdam,€28.00m
+Lucas Paquetá,Attacking Midfield,27,Brazil,West Ham United,€28.00m
+Lewis Ferguson,Central Midfield,25,Scotland,Bologna FC 1909,€28.00m
+Felix Nmecha,Central Midfield,24,Germany,Borussia Dortmund,€28.00m
+Mason Mount,Attacking Midfield,26,England,Manchester United,€28.00m
+Ismael Saibari,Central Midfield,24,Morocco,PSV Eindhoven,€27.00m
+Frank Anguissa,Central Midfield,29,Cameroon,SSC Napoli,€27.00m
+Javi Guerra,Central Midfield,22,Spain,Valencia CF,€25.00m
+Luis Henrique,Right Midfield,23,Brazil,Inter Milan,€25.00m
+Johnny Cardoso,Central Midfield,23,United States,Atlético de Madrid,€25.00m
+Thiago Almada,Attacking Midfield,24,Argentina,Atlético de Madrid,€25.00m
+Cheick Doucouré,Defensive Midfield,25,Mali,Crystal Palace,€25.00m
+Eduard Spertsyan,Attacking Midfield,25,Armenia,FC Krasnodar,€25.00m
+Mats Wieffer,Defensive Midfield,25,Netherlands,Brighton & Hove Albion,€25.00m
+Yves Bissouma,Defensive Midfield,28,Mali,Tottenham Hotspur,€25.00m
+Joey Veerman,Central Midfield,26,Netherlands,PSV Eindhoven,€25.00m
+Edson Álvarez,Defensive Midfield,27,Mexico,West Ham United,€25.00m
+Gerson,Central Midfield,28,Brazil,Zenit St. Petersburg,€25.00m
+Sander Berge,Defensive Midfield,27,Norway,Fulham FC,€25.00m
+Marcos Llorente,Right Midfield,30,Spain,Atlético de Madrid,€25.00m
+Rodrigo De Paul,Central Midfield,31,Argentina,Atlético de Madrid,€25.00m
+Rúben Neves,Defensive Midfield,28,Portugal,Al-Hilal SFC,€25.00m
+Stanislav Lobotka,Defensive Midfield,30,Slovakia,SSC Napoli,€25.00m
+Julian Brandt,Attacking Midfield,29,Germany,Borussia Dortmund,€25.00m
+Adrien Rabiot,Central Midfield,30,France,Olympique Marseille,€25.00m
+Jack Hinshelwood,Central Midfield,20,England,Brighton & Hove Albion,€24.00m
+Paul Nebel,Attacking Midfield,22,Germany,1.FSV Mainz 05,€24.00m
+Ibrahim Sangaré,Defensive Midfield,27,Cote d'Ivoire,Nottingham Forest,€24.00m
+Raoul Bellanova,Right Midfield,25,Italy,Atalanta BC,€24.00m
+Arthur Vermeeren,Defensive Midfield,20,Belgium,RB Leipzig,€22.00m
+Lewis Miley,Central Midfield,19,England,Newcastle United,€22.00m
+Lamine Camara,Central Midfield,21,Senegal,AS Monaco,€22.00m
+Jobe Bellingham,Central Midfield,19,England,Borussia Dortmund,€22.00m
+Omari Hutchinson,Attacking Midfield,21,England,Ipswich Town,€22.00m
+Yasin Ayari,Central Midfield,21,Sweden,Brighton & Hove Albion,€22.00m
+Julio Enciso,Attacking Midfield,21,Paraguay,Brighton & Hove Albion,€22.00m
+Martin Baturina,Attacking Midfield,22,Croatia,Como 1907,€22.00m
+Gabriel Sara,Central Midfield,26,Brazil,Galatasaray,€22.00m
+Fábio Vieira,Attacking Midfield,25,Portugal,Arsenal FC,€22.00m
+Matt O'Riley,Central Midfield,24,Denmark,Brighton & Hove Albion,€22.00m
+Florentino,Defensive Midfield,25,Portugal,SL Benfica,€22.00m
+Jerdy Schouten,Defensive Midfield,28,Netherlands,PSV Eindhoven,€22.00m
+Joe Willock,Central Midfield,25,England,Newcastle United,€22.00m
+Weston McKennie,Central Midfield,26,United States,Juventus FC,€22.00m
+Malcom,Attacking Midfield,28,Brazil,Al-Hilal SFC,€22.00m
+Brais Méndez,Attacking Midfield,28,Spain,Real Sociedad,€22.00m
+Leon Goretzka,Central Midfield,30,Germany,Bayern Munich,€22.00m
+Konstantinos Karetsas,Attacking Midfield,17,Greece,KRC Genk,€20.00m
+Facundo Buonanotte,Attacking Midfield,20,Argentina,Brighton & Hove Albion,€20.00m
+Chris Rigg,Attacking Midfield,18,England,Sunderland AFC,€20.00m
+Oscar Gloukh,Attacking Midfield,21,Israel,Red Bull Salzburg,€20.00m
+Habib Diarra,Central Midfield,21,Senegal,Sunderland AFC,€20.00m
+Alex Scott,Central Midfield,21,England,AFC Bournemouth,€20.00m
+Raphael Onyedika,Defensive Midfield,24,Nigeria,Club Brugge KV,€20.00m
+Dário Essugo,Defensive Midfield,20,Portugal,Chelsea FC,€20.00m
+Kaishu Sano,Defensive Midfield,24,Japan,1.FSV Mainz 05,€20.00m
+James McAtee,Attacking Midfield,22,England,Manchester City,€20.00m
+Yunus Musah,Central Midfield,22,United States,AC Milan,€20.00m
+Morten Frendrup,Central Midfield,24,Denmark,Genoa CFC,€20.00m
+Kiernan Dewsbury-Hall,Central Midfield,26,England,Chelsea FC,€20.00m
+Billy Gilmour,Defensive Midfield,24,Scotland,SSC Napoli,€20.00m
+Angel Gomes,Attacking Midfield,24,England,Olympique Marseille,€20.00m
+Hamed Junior Traoré,Attacking Midfield,25,Cote d'Ivoire,AFC Bournemouth,€20.00m
+Sean Longstaff,Central Midfield,27,England,Leeds United,€20.00m
+Riqui Puig,Central Midfield,25,Spain,Los Angeles Galaxy,€20.00m
+Marco Asensio,Attacking Midfield,29,Spain,Paris Saint-Germain,€20.00m
+Vitaly Janelt,Defensive Midfield,27,Germany,Brentford FC,€20.00m
+Aleksandr Golovin,Attacking Midfield,29,Russia,AS Monaco,€20.00m
+Aleix García,Central Midfield,28,Spain,Bayer 04 Leverkusen,€20.00m
+Nadiem Amiri,Central Midfield,28,Germany,1.FSV Mainz 05,€20.00m
+Fredrik Aursnes,Central Midfield,29,Norway,SL Benfica,€20.00m
+Pierre-Emile Højbjerg,Defensive Midfield,29,Denmark,Olympique Marseille,€20.00m
+Kevin De Bruyne,Attacking Midfield,34,Belgium,SSC Napoli,€20.00m
+Mateo Kovacic,Central Midfield,31,Croatia,Manchester City,€20.00m
+El Hadji Malick Diouf,Left Midfield,20,Senegal,West Ham United,€18.00m
+Claudio Echeverri,Attacking Midfield,19,Argentina,Manchester City,€18.00m
+Paul Wanner,Attacking Midfield,19,Germany,Bayern Munich,€18.00m
+Can Uzun,Attacking Midfield,19,Türkiye,Eintracht Frankfurt,€18.00m
+Nico O'Reilly,Attacking Midfield,20,England,Manchester City,€18.00m
+Lesley Ugochukwu,Defensive Midfield,21,France,Chelsea FC,€18.00m
+Gabri Veiga,Attacking Midfield,23,Spain,FC Porto,€18.00m
+Antoni Milambo,Attacking Midfield,20,Netherlands,Brentford FC,€18.00m
+Carney Chukwuemeka,Central Midfield,21,England,Chelsea FC,€18.00m
+Diego Moreira,Left Midfield,20,Belgium,RC Strasbourg Alsace,€18.00m
+Hákon Arnar Haraldsson,Attacking Midfield,22,Iceland,LOSC Lille,€18.00m
+Enzo Le Fée,Central Midfield,25,France,Sunderland AFC,€18.00m
+Lucas Beltrán,Attacking Midfield,24,Argentina,ACF Fiorentina,€18.00m
+Beñat Prados,Central Midfield,24,Spain,Athletic Bilbao,€18.00m
+Rodrigo Zalazar,Central Midfield,25,Uruguay,SC Braga,€18.00m
+Sebastian Nanasi,Left Midfield,23,Sweden,RC Strasbourg Alsace,€18.00m
+James Garner,Defensive Midfield,24,England,Everton FC,€18.00m
+Wendel,Central Midfield,27,Brazil,Zenit St. Petersburg,€18.00m
+Nicolás Domínguez,Central Midfield,27,Argentina,Nottingham Forest,€18.00m
+Jean-Ricner Bellegarde,Central Midfield,27,France,Wolverhampton Wanderers,€18.00m
+Nicolò Fagioli,Central Midfield,24,Italy,ACF Fiorentina,€18.00m
+Nicolas Seiwald,Central Midfield,24,Austria,RB Leipzig,€18.00m
+Marcus Tavernier,Left Midfield,26,England,AFC Bournemouth,€18.00m
+Nicolás de la Cruz,Central Midfield,28,Uruguay,CR Flamengo,€18.00m
+Carlos Soler,Central Midfield,28,Spain,Paris Saint-Germain,€18.00m
+Gedson Fernandes,Central Midfield,26,Portugal,Besiktas JK,€18.00m
+Tyler Adams,Defensive Midfield,26,United States,AFC Bournemouth,€18.00m
+Orel Mangala,Defensive Midfield,27,Belgium,Olympique Lyon,€18.00m
+Tomas Soucek,Defensive Midfield,30,Czech Republic,West Ham United,€18.00m
+Andreas Pereira,Attacking Midfield,29,Brazil,Fulham FC,€18.00m
+Malick Yalcouyé,Central Midfield,19,Cote d'Ivoire,Brighton & Hove Albion,€17.00m
+Giannis Konstantelias,Attacking Midfield,22,Greece,PAOK Thessaloniki,€17.00m
+Maxi Araújo,Left Midfield,25,Uruguay,Sporting CP,€17.00m
+Lazar Samardžić,Attacking Midfield,23,Serbia,Atalanta BC,€17.00m
+Lovro Majer,Attacking Midfield,27,Croatia,VfL Wolfsburg,€17.00m
+Romano Schmid,Attacking Midfield,25,Austria,SV Werder Bremen,€17.00m
+Sofyan Amrabat,Defensive Midfield,28,Morocco,Fenerbahce,€17.00m
+Sergej Milinković-Savić,Central Midfield,30,Serbia,Al-Hilal SFC,€17.00m
+Gustavo Sá,Attacking Midfield,20,Portugal,FC Famalicão,€16.00m
+Richard Ríos,Defensive Midfield,25,Colombia,Sociedade Esportiva Palmeiras,€16.00m
+Sem Steijn,Attacking Midfield,23,Netherlands,Feyenoord Rotterdam,€16.00m
+Finn Azaz,Attacking Midfield,24,Ireland,Middlesbrough FC,€16.00m
+Ivan Ilić,Central Midfield,24,Serbia,Torino FC,€16.00m
+Amadou Haidara,Central Midfield,27,Mali,RB Leipzig,€16.00m
+Maxence Caqueret,Central Midfield,25,France,Como 1907,€16.00m
+Gustavo Hamer,Central Midfield,28,Netherlands,Sheffield United,€16.00m
+John McGinn,Central Midfield,30,Scotland,Aston Villa,€16.00m
+Christantus Uche,Attacking Midfield,22,Nigeria,Getafe CF,€15.00m
+Ngal'ayel Mukau,Defensive Midfield,20,DR Congo,LOSC Lille,€15.00m
+Andrija Maksimovic,Attacking Midfield,18,Serbia,RB Leipzig,€15.00m
+Sverre Nypan,Central Midfield,18,Norway,Manchester City,€15.00m
+Senny Mayulu,Central Midfield,19,France,Paris Saint-Germain,€15.00m
+Neil El Aynaoui,Central Midfield,24,Morocco,AS Roma,€15.00m
+Mateus Fernandes,Central Midfield,21,Portugal,Southampton FC,€15.00m
+Yegor Yarmolyuk,Central Midfield,21,Ukraine,Brentford FC,€15.00m
+Andy Diouf,Central Midfield,22,France,RC Lens,€15.00m
+Rodrigo Gomes,Right Midfield,22,Portugal,Wolverhampton Wanderers,€15.00m
+Vini Souza,Defensive Midfield,26,Brazil,VfL Wolfsburg,€15.00m
+Samú Costa,Defensive Midfield,24,Portugal,RCD Mallorca,€15.00m
+Aimar Oroz,Attacking Midfield,23,Spain,CA Osasuna,€15.00m
+Cesare Casadei,Central Midfield,22,Italy,Torino FC,€15.00m
+Hicham Boudaoui,Central Midfield,25,Algeria,OGC Nice,€15.00m
+Luka Sucic,Central Midfield,22,Croatia,Real Sociedad,€15.00m
+Pape Gueye,Defensive Midfield,26,Senegal,Villarreal CF,€15.00m
+Rocco Reitz,Central Midfield,23,Germany,Borussia Mönchengladbach,€15.00m
+Adrián Bernabé,Central Midfield,24,Spain,Parma Calcio 1913,€15.00m
+Sergi Altimira,Central Midfield,23,Spain,Real Betis Balompié,€15.00m
+Raphael Veiga,Attacking Midfield,30,Brazil,Sociedade Esportiva Palmeiras,€15.00m
+Marshall Munetsi,Central Midfield,29,Zimbabwe,Wolverhampton Wanderers,€15.00m
+Claudinho,Attacking Midfield,28,Brazil,Al-Sadd SC,€15.00m
+Brenden Aaronson,Attacking Midfield,24,United States,Leeds United,€15.00m
+Yangel Herrera,Central Midfield,27,Venezuela,Girona FC,€15.00m
+Leandro Barreiro,Central Midfield,25,Luxembourg,SL Benfica,€15.00m
+Ismaël Bennacer,Defensive Midfield,27,Algeria,AC Milan,€15.00m
+Giovani Lo Celso,Attacking Midfield,29,Argentina,Real Betis Balompié,€15.00m
+Emiliano Buendía,Attacking Midfield,28,Argentina,Aston Villa,€15.00m
+Sebastian Szymański,Attacking Midfield,26,Poland,Fenerbahce,€15.00m
+Wilfred Ndidi,Defensive Midfield,28,Nigeria,Leicester City,€15.00m
+Lewis Cook,Central Midfield,28,England,AFC Bournemouth,€15.00m
+Giorgian de Arrascaeta,Attacking Midfield,31,Uruguay,CR Flamengo,€15.00m
+Otávio,Attacking Midfield,30,Portugal,Al-Nassr FC,€15.00m
+Fabinho,Defensive Midfield,31,Brazil,Al-Ittihad Club,€15.00m
+Diego Gómez,Central Midfield,22,Paraguay,Brighton & Hove Albion,€14.00m
+Carlos Alcaraz,Central Midfield,22,Argentina,Everton FC,€14.00m
+Petar Sučić,Defensive Midfield,21,Croatia,Inter Milan,€14.00m
+Alvyn Sanches,Central Midfield,22,Switzerland,FC Lausanne-Sport,€14.00m
+Fabio Miretti,Central Midfield,21,Italy,Juventus FC,€14.00m
+Rodrigo Garro,Attacking Midfield,27,Argentina,Sport Club Corinthians Paulista,€14.00m
+Fábio Carvalho,Attacking Midfield,22,Portugal,Brentford FC,€14.00m
+Mohamed Camara,Defensive Midfield,25,Mali,Al-Sadd SC,€14.00m
+Esequiel Barco,Attacking Midfield,26,Argentina,Spartak Moscow,€14.00m
+Anton Stach,Defensive Midfield,26,Germany,TSG 1899 Hoffenheim,€14.00m
+Evander,Attacking Midfield,27,Brazil,FC Cincinnati,€14.00m
+Mathias Jensen,Central Midfield,29,Denmark,Brentford FC,€14.00m
+Franck Kessié,Central Midfield,28,Cote d'Ivoire,Al-Ahli SFC,€14.00m
+Josh Brownhill,Central Midfield,29,England,Without Club,€14.00m
+Jens Stage,Central Midfield,28,Denmark,SV Werder Bremen,€14.00m
+Saša Lukić,Defensive Midfield,28,Serbia,Fulham FC,€14.00m
+Thomas Partey,Defensive Midfield,32,Ghana,Without Club,€14.00m
+Ezechiel Banzuzi,Central Midfield,20,Netherlands,RB Leipzig,€13.00m
+Niccolò Pisilli,Central Midfield,20,Italy,AS Roma,€13.00m
+Tomás Händel,Defensive Midfield,24,Portugal,Vitória Guimarães SC,€13.00m
+Kristjan Asllani,Defensive Midfield,23,Albania,Inter Milan,€13.00m
+Hidemasa Morita,Central Midfield,30,Japan,Sporting CP,€13.00m
+Flynn Downes,Defensive Midfield,26,England,Southampton FC,€13.00m
+Reo Hatate,Central Midfield,27,Japan,Celtic FC,€13.00m
+Cameron Puertas,Attacking Midfield,26,Spain,Al-Qadsiah FC,€13.00m
+Lucas Torreira,Defensive Midfield,29,Uruguay,Galatasaray,€13.00m
+Breno Bidon,Central Midfield,20,Brazil,Sport Club Corinthians Paulista,€12.00m
+Christos Mouzakitis,Central Midfield,18,Greece,Olympiacos Piraeus,€12.00m
+Victor Froholdt,Central Midfield,19,Denmark,FC Copenhagen,€12.00m
+Ibrahim Maza,Attacking Midfield,19,Algeria,Bayer 04 Leverkusen,€12.00m
+Valentín Barco,Central Midfield,20,Argentina,RC Strasbourg Alsace,€12.00m
+Bence Dárdai,Attacking Midfield,19,Hungary,VfL Wolfsburg,€12.00m
+Valentín Carboni,Attacking Midfield,20,Argentina,Genoa CFC,€12.00m
+Soungoutou Magassa,Defensive Midfield,21,France,AS Monaco,€12.00m
+Santiago Hezze,Defensive Midfield,23,Argentina,Olympiacos Piraeus,€12.00m
+Noah Sadiki,Central Midfield,20,DR Congo,Sunderland AFC,€12.00m
+Aleksey Batrakov,Attacking Midfield,20,Russia,Lokomotiv Moscow,€12.00m
+Mandela Keita,Defensive Midfield,23,Belgium,Parma Calcio 1913,€12.00m
+Bitello,Attacking Midfield,25,Brazil,Dynamo Moscow,€12.00m
+Volodymyr Brazhko,Defensive Midfield,23,Ukraine,Dynamo Kyiv,€12.00m
+Máximo Perrone,Defensive Midfield,22,Argentina,Como 1907,€12.00m
+Ezequiel Fernández,Defensive Midfield,22,Argentina,Al-Qadsiah FC,€12.00m
+Jack Rudoni,Central Midfield,24,England,Coventry City,€12.00m
+Tommaso Baldanzi,Attacking Midfield,22,Italy,AS Roma,€12.00m
+Giovanni Fabbian,Attacking Midfield,22,Italy,Bologna FC 1909,€12.00m
+Merlin Röhl,Attacking Midfield,23,Germany,SC Freiburg,€12.00m
+Hannibal,Attacking Midfield,22,Tunisia,Burnley FC,€12.00m
+Mario Stroeykens,Attacking Midfield,20,Belgium,RSC Anderlecht,€12.00m
+Arne Engels,Central Midfield,21,Belgium,Celtic FC,€12.00m
+Nicola Zalewski,Left Midfield,23,Poland,Inter Milan,€12.00m
+Hayden Hackney,Defensive Midfield,23,England,Middlesbrough FC,€12.00m
+Jens Cajuste,Defensive Midfield,25,Sweden,SSC Napoli,€12.00m
+Daniel Bragança,Central Midfield,26,Portugal,Sporting CP,€12.00m
+Ryan Yates,Central Midfield,27,England,Nottingham Forest,€12.00m
+Nicolò Zaniolo,Attacking Midfield,26,Italy,Galatasaray,€12.00m
+Alexis Claude-Maurice,Attacking Midfield,27,France,FC Augsburg,€12.00m
+Jakub Moder,Central Midfield,26,Poland,Feyenoord Rotterdam,€12.00m
+Guus Til,Attacking Midfield,27,Netherlands,PSV Eindhoven,€12.00m
+Daichi Kamada,Attacking Midfield,28,Japan,Crystal Palace,€12.00m
+Kalvin Phillips,Defensive Midfield,29,England,Manchester City,€12.00m
+Jens Odgaard,Attacking Midfield,26,Denmark,Bologna FC 1909,€12.00m
+Boubakary Soumaré,Defensive Midfield,26,France,Leicester City,€12.00m
+Mattias Svanberg,Central Midfield,26,Sweden,VfL Wolfsburg,€12.00m
+Christoph Baumgartner,Attacking Midfield,25,Austria,RB Leipzig,€12.00m
+Rolando Mandragora,Defensive Midfield,28,Italy,ACF Fiorentina,€12.00m
+Mauro Arambarri,Central Midfield,29,Uruguay,Getafe CF,€12.00m
+Atakan Karazor,Defensive Midfield,28,Türkiye,VfB Stuttgart,€12.00m
+Corentin Tolisso,Central Midfield,30,France,Olympique Lyon,€12.00m
+Granit Xhaka,Defensive Midfield,32,Switzerland,Bayer 04 Leverkusen,€12.00m
+Neymar,Attacking Midfield,33,Brazil,Santos FC,€12.00m
+Lorran,Attacking Midfield,19,Brazil,CR Flamengo,€11.00m
+Aleksandar Stanković,Defensive Midfield,19,Serbia,Inter Milan,€11.00m
+Juan Ignacio Nardoni,Central Midfield,23,Argentina,Racing Club,€11.00m
+Mauricio,Attacking Midfield,24,Brazil,Sociedade Esportiva Palmeiras,€11.00m
+Aníbal Moreno,Defensive Midfield,26,Argentina,Sociedade Esportiva Palmeiras,€11.00m
+İsmail Yüksek,Defensive Midfield,26,Türkiye,Fenerbahce,€11.00m
+Christos Zafeiris,Central Midfield,22,Greece,SK Slavia Prague,€11.00m
+Albert Grønbæk,Attacking Midfield,24,Denmark,Genoa CFC,€11.00m
+Yacine Adli,Defensive Midfield,24,France,AC Milan,€11.00m
+Mykola Shaparenko,Central Midfield,26,Ukraine,Dynamo Kyiv,€11.00m
+Bryan Heynen,Central Midfield,28,Belgium,KRC Genk,€11.00m
+Matheus Pereira,Attacking Midfield,29,Brazil,Cruzeiro Esporte Clube,€11.00m
+Christian Nørgaard,Defensive Midfield,31,Denmark,Arsenal FC,€11.00m
+Kendry Páez,Attacking Midfield,18,Ecuador,Chelsea FC,€10.00m
+Mathis Amougou,Central Midfield,19,France,RC Strasbourg Alsace,€10.00m
+Reda Belahyane,Defensive Midfield,21,Morocco,SS Lazio,€10.00m
+Valentin Atangana,Central Midfield,19,France,Stade Reims,€10.00m
+Martinelli,Defensive Midfield,23,Brazil,Fluminense Football Club,€10.00m
+Shea Charles,Defensive Midfield,21,Northern Ireland,Southampton FC,€10.00m
+Matheus França,Attacking Midfield,21,Brazil,Crystal Palace,€10.00m
+Manu Silva,Defensive Midfield,24,Portugal,SL Benfica,€10.00m
+Jacopo Fazzini,Central Midfield,22,Italy,ACF Fiorentina,€10.00m
+Enzo Barrenechea,Defensive Midfield,24,Argentina,SL Benfica,€10.00m
+Yuito Suzuki,Attacking Midfield,23,Japan,SC Freiburg,€10.00m
+Marlon Gomes,Central Midfield,21,Brazil,Shakhtar Donetsk,€10.00m
+Leon Avdullahu,Defensive Midfield,21,Switzerland,TSG 1899 Hoffenheim,€10.00m
+Félix Lemaréchal,Attacking Midfield,21,France,RC Strasbourg Alsace,€10.00m
+Warren Bondo,Central Midfield,21,France,AC Milan,€10.00m
+Aaron Ramsey,Attacking Midfield,22,England,Burnley FC,€10.00m
+Beñat Turrientes,Central Midfield,23,Spain,Real Sociedad,€10.00m
+Tom Fellows,Right Midfield,21,England,West Bromwich Albion,€10.00m
+Maurits Kjaergaard,Central Midfield,22,Denmark,Red Bull Salzburg,€10.00m
+Azzedine Ounahi,Central Midfield,25,Morocco,Olympique Marseille,€10.00m
+Daniel Maldini,Attacking Midfield,23,Italy,Atalanta BC,€10.00m
+Artem Bondarenko,Attacking Midfield,24,Ukraine,Shakhtar Donetsk,€10.00m
+Stephen Eustaquio,Central Midfield,28,Canada,FC Porto,€10.00m
+Pavel Sulc,Attacking Midfield,24,Czech Republic,FC Viktoria Plzen,€10.00m
+Lucas Da Cunha,Central Midfield,24,France,Como 1907,€10.00m
+Antonio Blanco,Defensive Midfield,24,Spain,Deportivo Alavés,€10.00m
+Ao Tanaka,Defensive Midfield,26,Japan,Leeds United,€10.00m
+Mads Bidstrup,Central Midfield,24,Denmark,Red Bull Salzburg,€10.00m
+Patrick Osterhage,Defensive Midfield,25,Germany,SC Freiburg,€10.00m
+Tommy Doyle,Central Midfield,23,England,Birmingham City,€10.00m
+Toni Fruk,Attacking Midfield,24,Croatia,HNK Rijeka,€10.00m
+Nicolas Raskin,Central Midfield,24,Belgium,Rangers FC,€10.00m
+Oliver Skipp,Defensive Midfield,24,England,Leicester City,€10.00m
+Oscar,Central Midfield,27,Liberia,SK Slavia Prague,€10.00m
+Batista Mendy,Defensive Midfield,25,France,Trabzonspor,€10.00m
+Salvatore Esposito,Defensive Midfield,24,Italy,Spezia Calcio,€10.00m
+André Almeida,Attacking Midfield,25,Portugal,Valencia CF,€10.00m
+In-beom Hwang,Central Midfield,28,"Korea, South",Feyenoord Rotterdam,€10.00m
+Peer Koopmeiners,Defensive Midfield,25,Netherlands,AZ Alkmaar,€10.00m
+Guido Rodríguez,Defensive Midfield,31,Argentina,West Ham United,€10.00m
+Philip Billing,Central Midfield,29,Denmark,AFC Bournemouth,€10.00m
+Dani Ceballos,Central Midfield,28,Spain,Real Madrid,€10.00m
+Jefferson Savarino,Attacking Midfield,28,Venezuela,Botafogo de Futebol e Regatas,€10.00m
+Sammie Szmodics,Attacking Midfield,29,Ireland,Ipswich Town,€10.00m
+Jefferson Lerma,Defensive Midfield,30,Colombia,Crystal Palace,€10.00m
+Talisca,Attacking Midfield,31,Brazil,Fenerbahce,€10.00m
+Xaver Schlager,Central Midfield,27,Austria,RB Leipzig,€10.00m
+Mario Pasalić,Central Midfield,30,Croatia,Atalanta BC,€10.00m
+Ruben Loftus-Cheek,Central Midfield,29,England,AC Milan,€10.00m
+Fred,Central Midfield,32,Brazil,Fenerbahce,€10.00m
+Maximilian Eggestein,Central Midfield,28,Germany,SC Freiburg,€10.00m
+Ryan Christie,Defensive Midfield,30,Scotland,AFC Bournemouth,€10.00m
+Seko Fofana,Central Midfield,30,Cote d'Ivoire,Stade Rennais FC,€10.00m
+Piotr Zieliński,Central Midfield,31,Poland,Inter Milan,€10.00m
+Marcelo Brozović,Defensive Midfield,32,Croatia,Al-Nassr FC,€10.00m
+Marco Verratti,Central Midfield,32,Italy,Al-Duhail SC,€10.00m
+Casemiro,Defensive Midfield,33,Brazil,Manchester United,€10.00m
+Andrea Colpani,Attacking Midfield,26,Italy,AC Monza,€9.50m
+Mahamadou Doumbia,Central Midfield,21,Mali,Royal Antwerp FC,€9.00m
+Ismaël Koné,Central Midfield,23,Canada,Olympique Marseille,€9.00m
+Pablo Maia,Defensive Midfield,23,Brazil,São Paulo Futebol Clube,€9.00m
+Stefan Bajcetic,Defensive Midfield,20,Spain,Liverpool FC,€9.00m
+Farès Chaïbi,Attacking Midfield,22,Algeria,Eintracht Frankfurt,€9.00m
+Felipe Loyola,Central Midfield,24,Chile,CA Independiente,€9.00m
+Mathias Delorge,Central Midfield,20,Belgium,KAA Gent,€9.00m
+Tim Iroegbunam,Central Midfield,22,England,Everton FC,€9.00m
+Sven Mijnans,Attacking Midfield,25,Netherlands,AZ Alkmaar,€9.00m
+Kristian Thorstvedt,Attacking Midfield,26,Norway,US Sassuolo,€9.00m
+Arsen Zakharyan,Attacking Midfield,22,Russia,Real Sociedad,€9.00m
+Ivan Oblyakov,Attacking Midfield,27,Russia,CSKA Moscow,€9.00m
+Tommaso Pobega,Central Midfield,26,Italy,AC Milan,€9.00m
+Senne Lynen,Defensive Midfield,26,Belgium,SV Werder Bremen,€9.00m
+Valentin Rongier,Central Midfield,30,France,Stade Rennais FC,€9.00m
+Pepelu,Defensive Midfield,26,Spain,Valencia CF,€9.00m
+Mahdi Camara,Central Midfield,27,France,Stade Brestois 29,€9.00m
+Lorenzo Pellegrini,Attacking Midfield,29,Italy,AS Roma,€9.00m
+Álvaro Fidalgo,Central Midfield,28,Spain,CF América,€9.00m
+Aleksey Miranchuk,Attacking Midfield,29,Russia,Atlanta United FC,€9.00m
+Harry Winks,Defensive Midfield,29,England,Leicester City,€9.00m
+Robert Andrich,Defensive Midfield,30,Germany,Bayer 04 Leverkusen,€9.00m
+Amir Richardson,Central Midfield,23,Morocco,ACF Fiorentina,€8.50m
+Hans Nicolussi Caviglia,Central Midfield,25,Italy,Venezia FC,€8.50m
+Houssem Aouar,Attacking Midfield,27,Algeria,Al-Ittihad Club,€8.50m
+Diego Rossi,Attacking Midfield,27,Uruguay,Columbus Crew,€8.50m
+Sandi Lovrić,Central Midfield,27,Slovenia,Udinese Calcio,€8.50m
+Jorthy Mokio,Defensive Midfield,17,Belgium,Ajax Amsterdam,€8.00m
+Gabriel Moscardo,Defensive Midfield,19,Brazil,SC Braga,€8.00m
+Ibrahima Sory Bangoura,Defensive Midfield,21,Guinea,KRC Genk,€8.00m
+Djaoui Cissé,Central Midfield,21,France,Stade Rennais FC,€8.00m
+Johan Manzambi,Central Midfield,19,Switzerland,SC Freiburg,€8.00m
+Lennon Miller,Central Midfield,18,Scotland,Motherwell FC,€8.00m
+Pablo Marín,Attacking Midfield,22,Spain,Real Sociedad,€8.00m
+Diego Luna,Left Midfield,21,United States,Real Salt Lake City,€8.00m
+Kevin Castaño,Defensive Midfield,24,Colombia,CA River Plate,€8.00m
+Arthur Atta,Central Midfield,22,France,Udinese Calcio,€8.00m
+Paxten Aaronson,Central Midfield,21,United States,Eintracht Frankfurt,€8.00m
+Abbosbek Fayzullaev,Attacking Midfield,21,Uzbekistan,CSKA Moscow,€8.00m
+Kévin Danois,Central Midfield,21,France,AJ Auxerre,€8.00m
+Jordan James,Central Midfield,21,Wales,Stade Rennais FC,€8.00m
+Cristian Medina,Central Midfield,23,Argentina,Club Estudiantes de La Plata,€8.00m
+Christian,Central Midfield,24,Brazil,Cruzeiro Esporte Clube,€8.00m
+Mohamed Diomandé,Central Midfield,23,Cote d'Ivoire,Rangers FC,€8.00m
+Matvey Kislyak,Central Midfield,19,Russia,CSKA Moscow,€8.00m
+Lucas Gourna-Douath,Defensive Midfield,21,France,Red Bull Salzburg,€8.00m
+Érik Lira,Defensive Midfield,25,Mexico,CD Cruz Azul,€8.00m
+Jean Lucas,Central Midfield,27,Brazil,Esporte Clube Bahia,€8.00m
+Danil Glebov,Defensive Midfield,25,Russia,Dynamo Moscow,€8.00m
+Lucien Agoumé,Defensive Midfield,23,France,Sevilla FC,€8.00m
+Sergio Arribas,Attacking Midfield,23,Spain,UD Almería,€8.00m
+Anass Zaroury,Attacking Midfield,24,Morocco,RC Lens,€8.00m
+Rodrigo Nestor,Central Midfield,24,Brazil,Esporte Clube Bahia,€8.00m
+Marco Brescianini,Central Midfield,25,Italy,Atalanta BC,€8.00m
+Mathías Villasanti,Defensive Midfield,28,Paraguay,Grêmio Foot-Ball Porto Alegrense,€8.00m
+Aleksandr Chernikov,Defensive Midfield,25,Russia,FC Krasnodar,€8.00m
+Fran Beltrán,Central Midfield,26,Spain,Celta de Vigo,€8.00m
+Daniil Fomin,Defensive Midfield,28,Russia,Dynamo Moscow,€8.00m
+Albert Sambi Lokonga,Central Midfield,25,Belgium,Arsenal FC,€8.00m
+Santi Comesaña,Central Midfield,28,Spain,Villarreal CF,€8.00m
+Moatasem Al-Musrati,Defensive Midfield,29,Libya,Besiktas JK,€8.00m
+Amine Harit,Attacking Midfield,28,Morocco,Olympique Marseille,€8.00m
+Pablo Rosario,Defensive Midfield,28,Dominican Republic,OGC Nice,€8.00m
+Luis Chávez,Defensive Midfield,29,Mexico,Dynamo Moscow,€8.00m
+Michal Sadílek,Central Midfield,26,Czech Republic,SK Slavia Prague,€8.00m
+Timi Max Elsnik,Central Midfield,27,Slovenia,Red Star Belgrade,€8.00m
+Azor Matusiwa,Defensive Midfield,27,Netherlands,Ipswich Town,€8.00m
+Nikola Vlašić,Attacking Midfield,27,Croatia,Torino FC,€8.00m
+Dmitriy Barinov,Defensive Midfield,28,Russia,Lokomotiv Moscow,€8.00m
+Wilmar Barrios,Defensive Midfield,31,Colombia,Zenit St. Petersburg,€8.00m
+James Ward-Prowse,Central Midfield,30,England,West Ham United,€8.00m
+Wataru Endo,Defensive Midfield,32,Japan,Liverpool FC,€8.00m
+Marcel Sabitzer,Central Midfield,31,Austria,Borussia Dortmund,€8.00m
+Koke,Central Midfield,33,Spain,Atlético de Madrid,€8.00m
+Oscar Højlund,Central Midfield,20,Denmark,Eintracht Frankfurt,€7.50m
+Sydie Peck,Central Midfield,20,England,Sheffield United,€7.50m
+Kevin Paredes,Left Midfield,22,United States,VfL Wolfsburg,€7.50m
+Marcel Ruiz,Central Midfield,24,Mexico,Deportivo Toluca,€7.50m
+Dan Neil,Central Midfield,23,England,Sunderland AFC,€7.50m
+Fisayo Dele-Bashiru,Attacking Midfield,24,Nigeria,SS Lazio,€7.50m
+Mady Camara,Central Midfield,28,Guinea,PAOK Thessaloniki,€7.50m
+Daniel Boloca,Defensive Midfield,26,Italy,US Sassuolo,€7.50m
+Mateusz Bogusz,Attacking Midfield,23,Poland,CD Cruz Azul,€7.50m
+Darius Olaru,Attacking Midfield,27,Romania,FCSB,€7.50m
+Leonardo Fernández,Attacking Midfield,26,Uruguay,CA Peñarol,€7.50m
+Gustavo Scarpa,Attacking Midfield,31,Brazil,Clube Atlético Mineiro,€7.50m
+Ellyes Skhiri,Defensive Midfield,30,Tunisia,Eintracht Frankfurt,€7.50m
+Michel Aebischer,Central Midfield,28,Switzerland,Bologna FC 1909,€7.50m
+Djibril Sow,Central Midfield,28,Switzerland,Sevilla FC,€7.50m
+Mario Lemina,Defensive Midfield,31,Gabon,Galatasaray,€7.50m
+Christian Ordóñez,Central Midfield,20,Argentina,Parma Calcio 1913,€7.00m
+Hércules,Central Midfield,24,Brazil,Fluminense Football Club,€7.00m
+Ibrahim Sulemana,Defensive Midfield,22,Ghana,Atalanta BC,€7.00m
+Jhon Jhon,Attacking Midfield,22,Brazil,Red Bull Bragantino,€7.00m
+Assan Ouédraogo,Central Midfield,19,Germany,RB Leipzig,€7.00m
+Muhammed Damar,Attacking Midfield,21,Germany,TSG 1899 Hoffenheim,€7.00m
+Emiliano Martínez,Defensive Midfield,25,Uruguay,Sociedade Esportiva Palmeiras,€7.00m
+Caspar Jander,Central Midfield,22,Germany,1.FC Nuremberg,€7.00m
+Aljoscha Kemlein,Defensive Midfield,20,Germany,1.FC Union Berlin,€7.00m
+Pau Cubarsí,Centre-Back,18,Spain,FC Barcelona,€80.00m
+William Saliba,Centre-Back,24,France,Arsenal FC,€80.00m
+Achraf Hakimi,Right-Back,26,Morocco,Paris Saint-Germain,€80.00m
+Alessandro Bastoni,Centre-Back,26,Italy,Inter Milan,€80.00m
+Josko Gvardiol,Left-Back,23,Croatia,Manchester City,€75.00m
+Gabriel Magalhães,Centre-Back,27,Brazil,Arsenal FC,€75.00m
+Trent Alexander-Arnold,Right-Back,26,England,Real Madrid,€75.00m
+Nuno Mendes,Left-Back,23,Portugal,Paris Saint-Germain,€70.00m
+Willian Pacho,Centre-Back,23,Ecuador,Paris Saint-Germain,€65.00m
+Jules Koundé,Right-Back,26,France,FC Barcelona,€65.00m
+Rúben Dias,Centre-Back,28,Portugal,Manchester City,€65.00m
+Dean Huijsen,Centre-Back,20,Spain,Real Madrid,€60.00m
+Alejandro Balde,Left-Back,21,Spain,FC Barcelona,€60.00m
+Ibrahima Konaté,Centre-Back,26,France,Liverpool FC,€60.00m
+Murillo,Centre-Back,23,Brazil,Nottingham Forest,€55.00m
+Leny Yoro,Centre-Back,19,France,Manchester United,€55.00m
+Levi Colwill,Centre-Back,22,England,Chelsea FC,€55.00m
+Jurrien Timber,Right-Back,24,Netherlands,Arsenal FC,€55.00m
+Jarrad Branthwaite,Centre-Back,23,England,Everton FC,€50.00m
+Piero Hincapié,Centre-Back,23,Ecuador,Bayer 04 Leverkusen,€50.00m
+Micky van de Ven,Centre-Back,24,Netherlands,Tottenham Hotspur,€50.00m
+Bremer,Centre-Back,28,Brazil,Juventus FC,€50.00m
+Jeremie Frimpong,Right-Back,24,Netherlands,Liverpool FC,€50.00m
+Alphonso Davies,Left-Back,24,Canada,Bayern Munich,€50.00m
+Alessandro Buongiorno,Centre-Back,26,Italy,SSC Napoli,€50.00m
+Cristian Romero,Centre-Back,27,Argentina,Tottenham Hotspur,€50.00m
+Dayot Upamecano,Centre-Back,26,France,Bayern Munich,€50.00m
+Federico Dimarco,Left-Back,27,Italy,Inter Milan,€50.00m
+Ousmane Diomande,Centre-Back,21,Cote d'Ivoire,Sporting CP,€45.00m
+Myles Lewis-Skelly,Left-Back,18,England,Arsenal FC,€45.00m
+Milos Kerkez,Left-Back,21,Hungary,Liverpool FC,€45.00m
+Gonçalo Inácio,Centre-Back,23,Portugal,Sporting CP,€45.00m
+Marc Guéhi,Centre-Back,25,England,Crystal Palace,€45.00m
+Ben White,Right-Back,27,England,Arsenal FC,€45.00m
+Ilya Zabarnyi,Centre-Back,22,Ukraine,AFC Bournemouth,€42.00m
+Sven Botman,Centre-Back,25,Netherlands,Newcastle United,€42.00m
+Raúl Asencio,Centre-Back,22,Spain,Real Madrid,€40.00m
+Rico Lewis,Right-Back,20,England,Manchester City,€40.00m
+Castello Lukeba,Centre-Back,22,France,RB Leipzig,€40.00m
+Destiny Udogie,Left-Back,22,Italy,Tottenham Hotspur,€40.00m
+Dani Vivian,Centre-Back,26,Spain,Athletic Bilbao,€40.00m
+Tino Livramento,Right-Back,22,England,Newcastle United,€40.00m
+Min-jae Kim,Centre-Back,28,"Korea, South",Bayern Munich,€40.00m
+Lisandro Martínez,Centre-Back,27,Argentina,Manchester United,€40.00m
+Nico Schlotterbeck,Centre-Back,25,Germany,Borussia Dortmund,€40.00m
+Robin Le Normand,Centre-Back,28,Spain,Atlético de Madrid,€40.00m
+Pedro Porro,Right-Back,25,Spain,Tottenham Hotspur,€38.00m
+Matthijs de Ligt,Centre-Back,25,Netherlands,Manchester United,€38.00m
+Jorrel Hato,Left-Back,19,Netherlands,Ajax Amsterdam,€35.00m
+Álvaro Carreras,Left-Back,22,Spain,Real Madrid,€35.00m
+Abdukodir Khusanov,Centre-Back,21,Uzbekistan,Manchester City,€35.00m
+Malo Gusto,Right-Back,22,France,Chelsea FC,€35.00m
+Rayan Aït-Nouri,Left-Back,24,Algeria,Manchester City,€35.00m
+Giorgio Scalvini,Centre-Back,21,Italy,Atalanta BC,€35.00m
+Edmond Tapsoba,Centre-Back,26,Burkina Faso,Bayer 04 Leverkusen,€35.00m
+Riccardo Calafiori,Left-Back,23,Italy,Arsenal FC,€35.00m
+Ronald Araujo,Centre-Back,26,Uruguay,FC Barcelona,€35.00m
+Andrea Cambiaso,Left-Back,25,Italy,Juventus FC,€35.00m
+Yann Bisseck,Centre-Back,24,Germany,Inter Milan,€35.00m
+Nikola Milenković,Centre-Back,27,Serbia,Nottingham Forest,€35.00m
+Ezri Konsa,Centre-Back,27,England,Aston Villa,€35.00m
+Antonee Robinson,Left-Back,27,United States,Fulham FC,€35.00m
+Theo Hernández,Left-Back,27,France,Al-Hilal SFC,€35.00m
+Denzel Dumfries,Right-Back,29,Netherlands,Inter Milan,€35.00m
+Marc Cucurella,Left-Back,27,Spain,Chelsea FC,€35.00m
+Marquinhos,Centre-Back,31,Brazil,Paris Saint-Germain,€35.00m
+Lewis Hall,Left-Back,20,England,Newcastle United,€32.00m
+António Silva,Centre-Back,21,Portugal,SL Benfica,€32.00m
+Jan Paul van Hecke,Centre-Back,25,Netherlands,Brighton & Hove Albion,€32.00m
+Tomás Araújo,Centre-Back,23,Portugal,SL Benfica,€32.00m
+Josip Stanisic,Right-Back,25,Croatia,Bayern Munich,€32.00m
+Pau Torres,Centre-Back,28,Spain,Aston Villa,€32.00m
+Vitor Reis,Centre-Back,19,Brazil,Manchester City,€30.00m
+Cristhian Mosquera,Centre-Back,21,Spain,Valencia CF,€30.00m
+Conor Bradley,Right-Back,22,Northern Ireland,Liverpool FC,€30.00m
+Mario Gila,Centre-Back,24,Spain,SS Lazio,€30.00m
+Zeno Debast,Centre-Back,21,Belgium,Sporting CP,€30.00m
+Isak Hien,Centre-Back,26,Sweden,Atalanta BC,€30.00m
+Reece James,Right-Back,25,England,Chelsea FC,€30.00m
+Dávid Hancko,Centre-Back,27,Slovakia,Feyenoord Rotterdam,€30.00m
+Éder Militão,Centre-Back,27,Brazil,Real Madrid,€30.00m
+Evan Ndicka,Centre-Back,25,Cote d'Ivoire,AS Roma,€30.00m
+Diogo Dalot,Right-Back,26,Portugal,Manchester United,€30.00m
+Pervis Estupiñán,Left-Back,27,Ecuador,Brighton & Hove Albion,€30.00m
+Jonathan Tah,Centre-Back,29,Germany,Bayern Munich,€30.00m
+Alejandro Grimaldo,Left-Back,29,Spain,Bayer 04 Leverkusen,€30.00m
+Joel Ordóñez,Centre-Back,21,Ecuador,Club Brugge KV,€28.00m
+Toti,Centre-Back,26,Portugal,Wolverhampton Wanderers,€28.00m
+Pierre Kalulu,Centre-Back,25,France,Juventus FC,€28.00m
+Ian Maatsen,Left-Back,23,Netherlands,Aston Villa,€28.00m
+Nathan Collins,Centre-Back,24,Ireland,Brentford FC,€28.00m
+Bafodé Diakité,Centre-Back,24,France,LOSC Lille,€28.00m
+Sam Beukema,Centre-Back,26,Netherlands,SSC Napoli,€28.00m
+Jakub Kiwior,Centre-Back,25,Poland,Arsenal FC,€28.00m
+Vitaliy Mykolenko,Left-Back,26,Ukraine,Everton FC,€28.00m
+Manuel Akanji,Centre-Back,30,Switzerland,Manchester City,€28.00m
+Joachim Andersen,Centre-Back,29,Denmark,Fulham FC,€27.00m
+Carlos Augusto,Left-Back,26,Brazil,Inter Milan,€26.00m
+Patrick Dorgu,Left-Back,20,Denmark,Manchester United,€25.00m
+Lucas Beraldo,Centre-Back,21,Brazil,Paris Saint-Germain,€25.00m
+Renato Veiga,Centre-Back,21,Portugal,Chelsea FC,€25.00m
+Pietro Comuzzo,Centre-Back,20,Italy,ACF Fiorentina,€25.00m
+Tyrick Mitchell,Left-Back,25,England,Crystal Palace,€25.00m
+Loïc Badé,Centre-Back,25,France,Sevilla FC,€25.00m
+Konstantinos Koulierakis,Centre-Back,21,Greece,VfL Wolfsburg,€25.00m
+Wilfried Singo,Centre-Back,24,Cote d'Ivoire,AS Monaco,€25.00m
+Odilon Kossounou,Centre-Back,24,Cote d'Ivoire,Atalanta BC,€25.00m
+Jean-Clair Todibo,Centre-Back,25,France,West Ham United,€25.00m
+Radu Drăgușin,Centre-Back,23,Romania,Tottenham Hotspur,€25.00m
+Nuno Tavares,Left-Back,25,Portugal,SS Lazio,€25.00m
+Maximilian Kilman,Centre-Back,28,England,West Ham United,€25.00m
+Daniel Muñoz,Right-Back,29,Colombia,Crystal Palace,€25.00m
+Wesley Fofana,Centre-Back,24,France,Chelsea FC,€25.00m
+Facundo Medina,Centre-Back,26,Argentina,Olympique Marseille,€25.00m
+Calvin Bassey,Centre-Back,25,Nigeria,Fulham FC,€25.00m
+Maxence Lacroix,Centre-Back,25,France,Crystal Palace,€25.00m
+Matty Cash,Right-Back,27,Poland,Aston Villa,€25.00m
+Ferdi Kadıoğlu,Left-Back,25,Türkiye,Brighton & Hove Albion,€25.00m
+Hiroki Ito,Centre-Back,26,Japan,Bayern Munich,€25.00m
+Benjamin Pavard,Centre-Back,29,France,Inter Milan,€25.00m
+Trevoh Chalobah,Centre-Back,26,England,Chelsea FC,€25.00m
+Noussair Mazraoui,Right-Back,27,Morocco,Manchester United,€25.00m
+Lucas Hernández,Left-Back,29,France,Paris Saint-Germain,€25.00m
+Kevin Danso,Centre-Back,26,Austria,Tottenham Hotspur,€25.00m
+Konrad Laimer,Right-Back,28,Austria,Bayern Munich,€25.00m
+John Stones,Centre-Back,31,England,Manchester City,€25.00m
+Nathan Aké,Centre-Back,30,Netherlands,Manchester City,€25.00m
+Federico Gatti,Centre-Back,27,Italy,Juventus FC,€24.00m
+Aaron Wan-Bissaka,Right-Back,27,DR Congo,West Ham United,€24.00m
+Dodô,Right-Back,26,Brazil,ACF Fiorentina,€24.00m
+Josip Sutalo,Centre-Back,25,Croatia,Ajax Amsterdam,€24.00m
+Arthur Theate,Centre-Back,25,Belgium,Eintracht Frankfurt,€24.00m
+Mohamed Simakan,Centre-Back,25,France,Al-Nassr FC,€23.00m
+Keane Lewis-Potter,Left-Back,24,England,Brentford FC,€23.00m
+Virgil van Dijk,Centre-Back,34,Netherlands,Liverpool FC,€23.00m
+Nathaniel Brown,Left-Back,22,Germany,Eintracht Frankfurt,€22.00m
+Leif Davis,Left-Back,25,England,Ipswich Town,€22.00m
+Aitor Paredes,Centre-Back,25,Spain,Athletic Bilbao,€22.00m
+Chrislain Matsima,Centre-Back,23,France,FC Augsburg,€22.00m
+Sepp van den Berg,Centre-Back,23,Netherlands,Brentford FC,€22.00m
+Taylor Harwood-Bellis,Centre-Back,23,England,Southampton FC,€22.00m
+Koni De Winter,Centre-Back,23,Belgium,Genoa CFC,€22.00m
+Marcos Senesi,Centre-Back,28,Argentina,AFC Bournemouth,€22.00m
+Benoît Badiashile,Centre-Back,24,France,Chelsea FC,€22.00m
+Jhon Lucumí,Centre-Back,27,Colombia,Bologna FC 1909,€22.00m
+Axel Disasi,Centre-Back,27,France,Chelsea FC,€22.00m
+Ola Aina,Right-Back,28,Nigeria,Nottingham Forest,€22.00m
+Wesley,Right-Back,21,Brazil,CR Flamengo,€20.00m
+Finn Jeltsch,Centre-Back,19,Germany,VfB Stuttgart,€20.00m
+Mamadou Sarr,Centre-Back,19,France,Chelsea FC,€20.00m
+Maxime Estève,Centre-Back,23,France,Burnley FC,€20.00m
+Vanderson,Right-Back,24,Brazil,AS Monaco,€20.00m
+Emmanuel Agbadou,Centre-Back,28,Cote d'Ivoire,Wolverhampton Wanderers,€20.00m
+Alexsandro,Centre-Back,25,Brazil,LOSC Lille,€20.00m
+Jarell Quansah,Centre-Back,22,England,Bayer 04 Leverkusen,€20.00m
+Yan Couto,Right-Back,23,Brazil,Borussia Dortmund,€20.00m
+Ryan Flamingo,Centre-Back,22,Netherlands,PSV Eindhoven,€20.00m
+Leonardo Balerdi,Centre-Back,26,Argentina,Olympique Marseille,€20.00m
+Enzo Boyomo,Centre-Back,23,Cameroon,CA Osasuna,€20.00m
+Miguel Gutiérrez,Left-Back,23,Spain,Girona FC,€20.00m
+Neco Williams,Right-Back,24,Wales,Nottingham Forest,€20.00m
+Djed Spence,Left-Back,24,England,Tottenham Hotspur,€20.00m
+Nahuel Molina,Right-Back,27,Argentina,Atlético de Madrid,€20.00m
+Lutsharel Geertruida,Right-Back,25,Netherlands,RB Leipzig,€20.00m
+Ethan Ampadu,Centre-Back,24,Wales,Leeds United,€20.00m
+Igor,Centre-Back,27,Brazil,Brighton & Hove Albion,€20.00m
+Mathías Olivera,Left-Back,27,Uruguay,SSC Napoli,€20.00m
+Julian Ryerson,Right-Back,27,Norway,Borussia Dortmund,€20.00m
+Davinson Sánchez,Centre-Back,29,Colombia,Galatasaray,€20.00m
+Óscar Mingueza,Right-Back,26,Spain,Celta de Vigo,€20.00m
+Olivier Boscagli,Centre-Back,27,France,Brighton & Hove Albion,€20.00m
+David Raum,Left-Back,27,Germany,RB Leipzig,€20.00m
+Fikayo Tomori,Centre-Back,27,England,AC Milan,€20.00m
+Maximilian Mittelstädt,Left-Back,28,Germany,VfB Stuttgart,€20.00m
+Angeliño,Left-Back,28,Spain,AS Roma,€20.00m
+Tosin Adarabioyo,Centre-Back,27,England,Chelsea FC,€20.00m
+Joe Gomez,Centre-Back,28,England,Liverpool FC,€20.00m
+José María Giménez,Centre-Back,30,Uruguay,Atlético de Madrid,€20.00m
+Thilo Kehrer,Centre-Back,28,Germany,AS Monaco,€20.00m
+Oleksandr Zinchenko,Left-Back,28,Ukraine,Arsenal FC,€20.00m
+Antonio Rüdiger,Centre-Back,32,Germany,Real Madrid,€20.00m
+Giovanni Leoni,Centre-Back,18,Italy,Parma Calcio 1913,€18.00m
+Michael Kayode,Right-Back,21,Italy,Brentford FC,€18.00m
+El Chadaille Bitshiabu,Centre-Back,20,France,RB Leipzig,€18.00m
+Ismaël Doukouré,Centre-Back,21,France,RC Strasbourg Alsace,€18.00m
+Guéla Doué,Right-Back,22,Cote d'Ivoire,RC Strasbourg Alsace,€18.00m
+Jake O'Brien,Right-Back,24,Ireland,Everton FC,€18.00m
+Jacob Greaves,Centre-Back,24,England,Ipswich Town,€18.00m
+Strahinja Pavlović,Centre-Back,24,Serbia,AC Milan,€18.00m
+Malick Thiaw,Centre-Back,23,Germany,AC Milan,€18.00m
+Eduardo Quaresma,Centre-Back,23,Portugal,Sporting CP,€18.00m
+Logan Costa,Centre-Back,24,Cape Verde,Villarreal CF,€18.00m
+Sacha Boey,Right-Back,24,France,Bayern Munich,€18.00m
+Eric García,Centre-Back,24,Spain,FC Barcelona,€18.00m
+Oumar Solet,Centre-Back,25,France,Udinese Calcio,€18.00m
+Pascal Struijk,Centre-Back,25,Netherlands,Leeds United,€18.00m
+Anel Ahmedhodzic,Centre-Back,26,Bosnia-Herzegovina,Sheffield United,€18.00m
+Jaka Bijol,Centre-Back,26,Slovenia,Leeds United,€18.00m
+Nayef Aguerd,Centre-Back,29,Morocco,West Ham United,€18.00m
+Fran García,Left-Back,25,Spain,Real Madrid,€18.00m
+Konstantinos Tsimikas,Left-Back,29,Greece,Liverpool FC,€18.00m
+Takehiro Tomiyasu,Right-Back,26,Japan,Without Club,€18.00m
+Robin Koch,Centre-Back,29,Germany,Eintracht Frankfurt,€18.00m
+Kristoffer Ajer,Centre-Back,27,Norway,Brentford FC,€18.00m
+Andrew Robertson,Left-Back,31,Scotland,Liverpool FC,€18.00m
+Waldemar Anton,Centre-Back,29,Germany,Borussia Dortmund,€18.00m
+Roger Ibañez,Centre-Back,26,Brazil,Al-Ahli SFC,€17.00m
+Konstantinos Mavropanos,Centre-Back,27,Greece,West Ham United,€17.00m
+Diogo Leite,Centre-Back,26,Portugal,1.FC Union Berlin,€17.00m
+Givairo Read,Right-Back,19,Netherlands,Feyenoord Rotterdam,€16.00m
+Matteo Ruggeri,Left-Back,23,Italy,Atlético de Madrid,€16.00m
+CJ Egan-Riley,Centre-Back,22,England,Olympique Marseille,€16.00m
+Lloyd Kelly,Centre-Back,26,England,Juventus FC,€16.00m
+Maxim De Cuyper,Left-Back,24,Belgium,Brighton & Hove Albion,€16.00m
+Sergiño Dest,Right-Back,24,United States,PSV Eindhoven,€16.00m
+Mykola Matvienko,Centre-Back,29,Ukraine,Shakhtar Donetsk,€16.00m
+Javi Rodríguez,Centre-Back,22,Spain,Celta de Vigo,€15.00m
+Joane Gadou,Centre-Back,18,France,Red Bull Salzburg,€15.00m
+Christian Mawissa,Centre-Back,20,France,AS Monaco,€15.00m
+Nathan Zézé,Centre-Back,20,France,FC Nantes,€15.00m
+Jeanuël Belocian,Centre-Back,20,France,Bayer 04 Leverkusen,€15.00m
+Omar El Hilali,Right-Back,21,Morocco,RCD Espanyol Barcelona,€15.00m
+Callum Doyle,Centre-Back,21,England,Manchester City U21,€15.00m
+Tiago Santos,Right-Back,22,Portugal,LOSC Lille,€15.00m
+Álex Jiménez,Right-Back,20,Spain,AC Milan,€15.00m
+Chadi Riad,Centre-Back,22,Morocco,Crystal Palace,€15.00m
+Jon Aramburu,Right-Back,22,Venezuela,Real Sociedad,€15.00m
+Adrien Truffert,Left-Back,23,France,AFC Bournemouth,€15.00m
+Victor Kristiansen,Left-Back,22,Denmark,Leicester City,€15.00m
+Quentin Merlin,Left-Back,23,France,Olympique Marseille,€15.00m
+Tuta,Centre-Back,26,Brazil,Eintracht Frankfurt,€15.00m
+Melvin Bard,Left-Back,24,France,OGC Nice,€15.00m
+Juan Foyth,Right-Back,27,Argentina,Villarreal CF,€15.00m
+Francisco Moura,Left-Back,25,Portugal,FC Porto,€15.00m
+Nathan Patterson,Right-Back,23,Scotland,Everton FC,€15.00m
+Caio Henrique,Left-Back,27,Brazil,AS Monaco,€15.00m
+Ryan Sessegnon,Left-Back,25,England,Fulham FC,€15.00m
+Juan Miranda,Left-Back,25,Spain,Bologna FC 1909,€15.00m
+Kyle Walker-Peters,Right-Back,28,England,West Ham United,€15.00m
+Rico Henry,Left-Back,28,England,Brentford FC,€15.00m
+Ben Chilwell,Left-Back,28,England,Chelsea FC,€15.00m
+Wout Faes,Centre-Back,27,Belgium,Leicester City,€15.00m
+Moussa Niakhaté,Centre-Back,29,Senegal,Olympique Lyon,€15.00m
+Gianluca Mancini,Centre-Back,29,Italy,AS Roma,€15.00m
+Milan Škriniar,Centre-Back,30,Slovakia,Paris Saint-Germain,€15.00m
+Benjamin Henrichs,Right-Back,28,Germany,RB Leipzig,€15.00m
+João Cancelo,Right-Back,31,Portugal,Al-Hilal SFC,€15.00m
+Aymeric Laporte,Centre-Back,31,Spain,Al-Nassr FC,€15.00m
+Morato,Centre-Back,24,Brazil,Nottingham Forest,€14.00m
+Chris Richards,Centre-Back,25,United States,Crystal Palace,€14.00m
+Johan Vásquez,Centre-Back,26,Mexico,Genoa CFC,€14.00m
+Quilindschy Hartman,Left-Back,23,Netherlands,Burnley FC,€14.00m
+Joaquín Piquerez,Left-Back,26,Uruguay,Sociedade Esportiva Palmeiras,€14.00m
+Dara O'Shea,Centre-Back,26,Ireland,Ipswich Town,€14.00m
+Rasmus Kristensen,Right-Back,28,Denmark,Eintracht Frankfurt,€14.00m
+Joakim Maehle,Left-Back,28,Denmark,VfL Wolfsburg,€14.00m
+Cameron Carter-Vickers,Centre-Back,27,United States,Celtic FC,€14.00m
+Matteo Gabbia,Centre-Back,25,Italy,AC Milan,€14.00m
+Ferland Mendy,Left-Back,30,France,Real Madrid,€14.00m
+Issa Diop,Centre-Back,28,France,Fulham FC,€14.00m
+Matte Smets,Centre-Back,21,Belgium,KRC Genk,€13.00m
+Jair Cunha,Centre-Back,20,Brazil,Nottingham Forest,€13.00m
+Leopold Querfeld,Centre-Back,21,Austria,1.FC Union Berlin,€13.00m
+Jayden Oosterwolde,Left-Back,24,Netherlands,Fenerbahce,€13.00m
+Mattia Zanotti,Right-Back,22,Italy,FC Lugano,€13.00m
+Nehuén Pérez,Centre-Back,25,Argentina,FC Porto,€13.00m
+Renan Lodi,Left-Back,27,Brazil,Al-Hilal SFC,€13.00m
+James Justin,Right-Back,27,England,Leicester City,€13.00m
+Danilho Doekhi,Centre-Back,27,Suriname,1.FC Union Berlin,€13.00m
+Léo Ortiz,Centre-Back,29,Brazil,CR Flamengo,€13.00m
+Merih Demiral,Centre-Back,27,Türkiye,Al-Ahli SFC,€13.00m
+Timothy Castagne,Right-Back,29,Belgium,Fulham FC,€13.00m
+Kenny Tete,Right-Back,29,Netherlands,Fulham FC,€13.00m
+Harry Maguire,Centre-Back,32,England,Manchester United,€13.00m
+Yusuf Akçiçek,Centre-Back,19,Türkiye,Fenerbahce,€12.00m
+Martim Fernandes,Right-Back,19,Portugal,FC Porto,€12.00m
+Luka Vuskovic,Centre-Back,18,Croatia,Tottenham Hotspur,€12.00m
+Zakaria El Ouahdi,Right-Back,23,Morocco,KRC Genk,€12.00m
+José Ángel Carmona,Right-Back,23,Spain,Sevilla FC,€12.00m
+Nicolò Savona,Right-Back,22,Italy,Juventus FC,€12.00m
+Gerard Martín,Left-Back,23,Spain,FC Barcelona,€12.00m
+Juanlu Sánchez,Right-Back,21,Spain,Sevilla FC,€12.00m
+Youssouf Ndayishimiye,Centre-Back,26,Burundi,OGC Nice,€12.00m
+Kevin Lomónaco,Centre-Back,23,Argentina,CA Independiente,€12.00m
+Albian Hajdari,Centre-Back,22,Switzerland,FC Lugano,€12.00m
+Daniel Svensson,Left-Back,23,Sweden,Borussia Dortmund,€12.00m
+Mohammed Salisu,Centre-Back,26,Ghana,AS Monaco,€12.00m
+Youri Baas,Centre-Back,22,Netherlands,Ajax Amsterdam,€12.00m
+Harrison Burrows,Left-Back,23,England,Sheffield United,€12.00m
+Andrei Rațiu,Right-Back,27,Romania,Rayo Vallecano,€12.00m
+Amar Dedic,Right-Back,22,Bosnia-Herzegovina,SL Benfica,€12.00m
+Trai Hume,Right-Back,23,Northern Ireland,Sunderland AFC,€12.00m
+Jesús Areso,Right-Back,26,Spain,CA Osasuna,€12.00m
+Anthony Caci,Right-Back,28,France,1.FSV Mainz 05,€12.00m
+Vitão,Centre-Back,25,Brazil,Sport Club Internacional,€12.00m
+Ko Itakura,Centre-Back,28,Japan,Borussia Mönchengladbach,€12.00m
+Igor Zubeldia,Centre-Back,28,Spain,Real Sociedad,€12.00m
+Luca Ranieri,Centre-Back,26,Italy,ACF Fiorentina,€12.00m
+Ladislav Krejci,Centre-Back,26,Czech Republic,Girona FC,€12.00m
+Mauro Júnior,Left-Back,26,Brazil,PSV Eindhoven,€12.00m
+Jeff Chabot,Centre-Back,27,Germany,VfB Stuttgart,€12.00m
+Ainsley Maitland-Niles,Right-Back,27,England,Olympique Lyon,€12.00m
+Amir Rrahmani,Centre-Back,31,Kosovo,SSC Napoli,€12.00m
+Philipp Lienhart,Centre-Back,29,Austria,SC Freiburg,€12.00m
+Andreas Christensen,Centre-Back,29,Denmark,FC Barcelona,€12.00m
+Luke Shaw,Left-Back,30,England,Manchester United,€12.00m
+Giovanni Di Lorenzo,Right-Back,31,Italy,SSC Napoli,€12.00m
+Marco Friedl,Centre-Back,27,Austria,SV Werder Bremen,€12.00m
+Martin Vitík,Centre-Back,22,Czech Republic,Bologna FC 1909,€11.00m
+Igoh Ogbu,Centre-Back,25,Nigeria,SK Slavia Prague,€11.00m
+Nino,Centre-Back,28,Brazil,Zenit St. Petersburg,€11.00m
+Tariq Lamptey,Right-Back,24,Ghana,Brighton & Hove Albion,€11.00m
+Koki Machida,Centre-Back,27,Japan,TSG 1899 Hoffenheim,€11.00m
+Yukinari Sugawara,Right-Back,25,Japan,Southampton FC,€11.00m
+Adam Webster,Centre-Back,30,England,Brighton & Hove Albion,€11.00m
+Moïse Bombito,Centre-Back,25,Canada,OGC Nice,€10.00m
+Jérémy Jacquet,Centre-Back,20,France,Stade Rennais FC,€10.00m
+Valentín Gómez,Centre-Back,22,Argentina,CA Vélez Sarsfield,€10.00m
+Abakar Sylla,Centre-Back,22,Cote d'Ivoire,RC Strasbourg Alsace,€10.00m
+Héctor Fort,Right-Back,18,Spain,FC Barcelona,€10.00m
+Alberto Costa,Right-Back,21,Portugal,Juventus FC,€10.00m
+Nasser Djiga,Centre-Back,22,Burkina Faso,Rangers FC,€10.00m
+Kosta Nedeljkovic,Right-Back,19,Serbia,RB Leipzig,€10.00m
+Arnau Martínez,Right-Back,22,Spain,Girona FC,€10.00m
+Otávio,Centre-Back,23,Brazil,FC Porto,€10.00m
+Tom Rothe,Left-Back,20,Germany,1.FC Union Berlin,€10.00m
+Zeno Van Den Bosch,Centre-Back,22,Belgium,Royal Antwerp FC,€10.00m
+César Tárrega,Centre-Back,23,Spain,Valencia CF,€10.00m
+Anthony Rouault,Centre-Back,24,France,Stade Rennais FC,€10.00m
+Nnamdi Collins,Centre-Back,21,Germany,Eintracht Frankfurt,€10.00m
+Sergi Cardona,Left-Back,26,Spain,Villarreal CF,€10.00m
+Diego Coppola,Centre-Back,21,Italy,Brighton & Hove Albion,€10.00m
+Wouter Goes,Centre-Back,21,Netherlands,AZ Alkmaar,€10.00m
+Alistair Johnston,Right-Back,26,Canada,Celtic FC,€10.00m
+Mika Mármol,Centre-Back,24,Spain,UD Las Palmas,€10.00m
+Charlie Cresswell,Centre-Back,22,England,FC Toulouse,€10.00m
+Aaron Hickey,Right-Back,23,Scotland,Brentford FC,€10.00m
+Saúl Coco,Centre-Back,26,Equatorial Guinea,Torino FC,€10.00m
+Milan van Ewijk,Right-Back,24,Netherlands,Coventry City,€10.00m
+Devyne Rensch,Right-Back,22,Netherlands,AS Roma,€10.00m
+Kiliann Sildillia,Right-Back,23,France,PSV Eindhoven,€10.00m
+João Mário,Right-Back,25,Portugal,FC Porto,€10.00m
+Julián Araujo,Right-Back,23,Mexico,AFC Bournemouth,€10.00m
+Joe Scally,Right-Back,22,United States,Borussia Mönchengladbach,€10.00m
+David Carmo,Centre-Back,26,Angola,Nottingham Forest,€10.00m
+Lilian Brassier,Centre-Back,25,France,Stade Rennais FC,€10.00m
+Caleb Okoli,Centre-Back,24,Italy,Leicester City,€10.00m
+Alexander Bah,Right-Back,27,Denmark,SL Benfica,€10.00m
+Josha Vagnoman,Right-Back,24,Germany,VfB Stuttgart,€10.00m
+Santiago Bueno,Centre-Back,26,Uruguay,Wolverhampton Wanderers,€10.00m
+Victor Nelsson,Centre-Back,26,Denmark,Galatasaray,€10.00m
+Leo Østigård,Centre-Back,25,Norway,Stade Rennais FC,€10.00m
+Amir Murillo,Right-Back,29,Panama,Olympique Marseille,€10.00m
+Nordi Mukiele,Right-Back,27,France,Paris Saint-Germain,€10.00m
+Guilherme Arana,Left-Back,28,Brazil,Clube Atlético Mineiro,€10.00m
+Joe Rodon,Centre-Back,27,Wales,Leeds United,€10.00m
+Marin Pongracic,Centre-Back,27,Croatia,ACF Fiorentina,€10.00m
+Emerson,Left-Back,30,Italy,West Ham United,€10.00m
+Kurt Zouma,Centre-Back,30,France,Without Club,€10.00m
+Lucas Digne,Left-Back,32,France,Aston Villa,€10.00m
+Diego Carlos,Centre-Back,32,Brazil,Fenerbahce,€9.50m
+Marco Di Césare,Centre-Back,23,Argentina,Racing Club,€9.00m
+Bradley Locko,Left-Back,23,France,Stade Brestois 29,€9.00m
+Alidu Seidu,Centre-Back,25,Ghana,Stade Rennais FC,€9.00m
+Jaouen Hadjam,Left-Back,22,Algeria,BSC Young Boys,€9.00m
+Natan,Centre-Back,24,Brazil,Real Betis Balompié,€9.00m
+Lorenz Assignon,Right-Back,25,France,VfB Stuttgart,€9.00m
+Juan Cabal,Left-Back,24,Colombia,Juventus FC,€9.00m
+David Møller Wolfe,Left-Back,23,Norway,AZ Alkmaar,€9.00m
+Tsuyoshi Watanabe,Centre-Back,28,Japan,KAA Gent,€9.00m
+Gastón Álvarez,Centre-Back,25,Uruguay,Al-Qadsiah FC,€9.00m
+Strahinja Erakovic,Centre-Back,24,Serbia,Zenit St. Petersburg,€9.00m
+Souffian El Karouani,Left-Back,24,Morocco,FC Utrecht,€9.00m
+Ben Cabango,Centre-Back,25,Wales,Swansea City,€9.00m
+Alexandre Penetra,Centre-Back,23,Portugal,AZ Alkmaar,€9.00m
+Emerson Royal,Right-Back,26,Brazil,AC Milan,€9.00m
+Armel Bella-Kotchap,Centre-Back,23,Germany,Southampton FC,€9.00m
+Jayden Bogle,Right-Back,24,England,Leeds United,€9.00m
+Jordan Teze,Right-Back,25,Netherlands,AS Monaco,€9.00m
+Ridle Baku,Right-Back,27,Germany,RB Leipzig,€9.00m
+Kieran Tierney,Left-Back,28,Scotland,Celtic FC,€9.00m
+Nuno Santos,Left-Back,30,Portugal,Sporting CP,€9.00m
+Jan Bednarek,Centre-Back,29,Poland,Southampton FC,€9.00m
+Nélson Semedo,Right-Back,31,Portugal,Without Club,€9.00m
+José Gayà,Left-Back,30,Spain,Valencia CF,€9.00m
+Douglas Santos,Left-Back,31,Brazil,Zenit St. Petersburg,€9.00m
+James Tarkowski,Centre-Back,32,England,Everton FC,€9.00m
+Niccolò Fortini,Left-Back,19,Italy,ACF Fiorentina,€8.50m
+Aarón Anselmino,Centre-Back,20,Argentina,Chelsea FC,€8.00m
+Jon Martín,Centre-Back,19,Spain,Real Sociedad,€8.00m
+Julio Soler,Left-Back,20,Argentina,AFC Bournemouth,€8.00m
+Josh Acheampong,Right-Back,19,England,Chelsea FC,€8.00m
+Joaquin Seys,Left-Back,20,Belgium,Club Brugge KV,€8.00m
+Iván Fresneda,Right-Back,20,Spain,Sporting CP,€8.00m
+Oliver Scarles,Left-Back,19,England,West Ham United,€8.00m
+Saba Goglichidze,Centre-Back,21,Georgia,FC Empoli,€8.00m
+Cuiabano,Left-Back,22,Brazil,Botafogo de Futebol e Regatas,€8.00m
+Alessandro Circati,Centre-Back,21,Australia,Parma Calcio 1913,€8.00m
+Agustín Giay,Right-Back,21,Argentina,Sociedade Esportiva Palmeiras,€8.00m
+Jackson Tchatchoua,Right-Back,23,Cameroon,Hellas Verona,€8.00m
+Jan-Carlo Simić,Centre-Back,20,Serbia,RSC Anderlecht,€8.00m
+Alfie Gilchrist,Right-Back,21,England,Chelsea FC,€8.00m
+Lukas Ullrich,Left-Back,21,Germany,Borussia Mönchengladbach,€8.00m
+Arouna Sangante,Centre-Back,23,Senegal,Le Havre AC,€8.00m
+Kike Salas,Centre-Back,23,Spain,Sevilla FC,€8.00m
+Caleb Wiley,Left-Back,20,United States,Chelsea FC,€8.00m
+Elias Baum,Right-Back,19,Germany,Eintracht Frankfurt,€8.00m
+Jonas Adjetey,Centre-Back,21,Ghana,FC Basel 1893,€8.00m
+Yerson Mosquera,Centre-Back,24,Colombia,Wolverhampton Wanderers,€8.00m
+Hugo Bueno,Left-Back,22,Spain,Wolverhampton Wanderers,€8.00m
+Lucas Piton,Left-Back,24,Italy,Clube de Regatas Vasco da Gama,€8.00m
+Soumaïla Coulibaly,Centre-Back,21,France,RC Strasbourg Alsace,€8.00m
+Samson Baidoo,Centre-Back,21,Austria,RC Lens,€8.00m
+Andrew Omobamidele,Centre-Back,23,Ireland,RC Strasbourg Alsace,€8.00m
+Max Rosenfelder,Centre-Back,22,Germany,SC Freiburg,€8.00m
+Thomas Beelen,Centre-Back,24,Netherlands,Feyenoord Rotterdam,€8.00m
+Eiran Cashin,Centre-Back,23,Ireland,Brighton & Hove Albion,€8.00m
+Santiago Sosa,Centre-Back,26,Argentina,Racing Club,€8.00m
+Dennis Cirkin,Left-Back,23,England,Sunderland AFC,€8.00m
+Diego Costa,Centre-Back,26,Brazil,FC Krasnodar,€8.00m
+Georgios Vagiannidis,Right-Back,23,Greece,Panathinaikos FC,€8.00m
+Igor Diveev,Centre-Back,25,Russia,CSKA Moscow,€8.00m
+Daniel Ballard,Centre-Back,25,Northern Ireland,Sunderland AFC,€8.00m
+Mujaid Sadick,Centre-Back,25,Spain,KRC Genk,€8.00m
+Emil Holm,Right-Back,25,Sweden,Bologna FC 1909,€8.00m
+Anass Salah-Eddine,Left-Back,23,Netherlands,AS Roma,€8.00m
+Ben Johnson,Right-Back,25,England,Ipswich Town,€8.00m
+Fabrício Bruno,Centre-Back,29,Brazil,Cruzeiro Esporte Clube,€8.00m
+Tiago Djaló,Centre-Back,25,Portugal,Juventus FC,€8.00m
+Sikou Niakaté,Centre-Back,26,Mali,SC Braga,€8.00m
+Felix Agu,Left-Back,25,Nigeria,SV Werder Bremen,€8.00m
+Alberto Dossena,Centre-Back,26,Italy,Como 1907,€8.00m
+Junior Firpo,Left-Back,28,Dominican Republic,Real Betis Balompié,€8.00m
+Omar Alderete,Centre-Back,28,Paraguay,Getafe CF,€8.00m
+Tyrell Malacia,Left-Back,25,Netherlands,Manchester United,€8.00m
+Léo Pereira,Centre-Back,29,Brazil,CR Flamengo,€8.00m
+Robin Gosens,Left-Back,31,Germany,ACF Fiorentina,€8.00m
+Maximilian Wöber,Centre-Back,27,Austria,SV Werder Bremen,€8.00m
+Stefan Posch,Centre-Back,28,Austria,Bologna FC 1909,€8.00m
+Lukas Klostermann,Centre-Back,29,Germany,RB Leipzig,€8.00m
+Nico Elvedi,Centre-Back,28,Switzerland,Borussia Mönchengladbach,€8.00m
+Victor Lindelöf,Centre-Back,31,Sweden,Without Club,€8.00m
+Eric Dier,Centre-Back,31,England,AS Monaco,€8.00m
+Raphaël Guerreiro,Left-Back,31,Portugal,Bayern Munich,€8.00m
+Niklas Süle,Centre-Back,29,Germany,Borussia Dortmund,€8.00m
+Daniel Carvajal,Right-Back,33,Spain,Real Madrid,€8.00m
+Willi Orbán,Centre-Back,32,Hungary,RB Leipzig,€8.00m
+Ousmane Diao,Centre-Back,21,Senegal,FC Midtjylland,€7.50m
+Yasin Özcan,Centre-Back,19,Türkiye,Aston Villa,€7.50m
+Robert Renan,Centre-Back,21,Brazil,Zenit St. Petersburg,€7.50m
+Yarek Gasiorowski,Centre-Back,20,Spain,PSV Eindhoven,€7.50m
+Luca Marianucci,Centre-Back,20,Italy,SSC Napoli,€7.50m
+Aurèle Amenda,Centre-Back,21,Switzerland,Eintracht Frankfurt,€7.50m
+Ameen Al-Dakhil,Centre-Back,23,Belgium,VfB Stuttgart,€7.50m
+Javi López,Left-Back,23,Spain,Real Sociedad,€7.50m
+Abdel Abqar,Centre-Back,26,Morocco,Without Club,€7.50m
+Jay Idzes,Centre-Back,25,Indonesia,Venezia FC,€7.50m
+Kevin Mac Allister,Centre-Back,27,Argentina,Union Saint-Gilloise,€7.50m
+Marash Kumbulla,Centre-Back,25,Albania,AS Roma,€7.50m
+Clément Lenglet,Centre-Back,30,France,Atlético de Madrid,€7.50m
+Andrés García,Right-Back,22,Spain,Aston Villa,€7.00m
+Chibuike Nwaiwu,Centre-Back,21,Nigeria,Wolfsberger AC,€7.00m
+Arthur,Right-Back,22,Brazil,Bayer 04 Leverkusen,€7.00m
+Saël Kumbedi,Right-Back,20,France,Olympique Lyon,€7.00m
+Kassoum Ouattara,Left-Back,20,France,AS Monaco,€7.00m
+Martim Marques,Left-Back,21,Portugal,FC Lugano,€7.00m
+Fredrik Sjøvold,Right-Back,21,Norway,FK Bodø/Glimt,€7.00m
+Alan Matturro,Centre-Back,20,Uruguay,Levante UD,€7.00m
+Alexandro Bernabei,Left-Back,24,Argentina,Sport Club Internacional,€7.00m
+Isaak Touré,Centre-Back,22,France,FC Lorient,€7.00m
+Anton Gaaei,Right-Back,22,Denmark,Ajax Amsterdam,€7.00m
+Tarik Muharemović,Centre-Back,22,Bosnia-Herzegovina,US Sassuolo,€7.00m
+Rafa Marín,Centre-Back,23,Spain,Villarreal CF,€7.00m
+Elias Jelert,Right-Back,22,Denmark,Galatasaray,€7.00m
+Abner,Left-Back,25,Brazil,Olympique Lyon,€7.00m
+Étienne Youté Kinkoué,Centre-Back,23,France,Le Havre AC,€7.00m
+Bashir Humphreys,Left-Back,22,England,Burnley FC,€7.00m
+Samuel Dahl,Left-Back,22,Sweden,SL Benfica,€7.00m
+Archie Brown,Left-Back,23,England,Fenerbahce,€7.00m
+Valentin Gendrey,Right-Back,25,France,TSG 1899 Hoffenheim,€7.00m
+Mark McGuinness,Centre-Back,24,Ireland,Luton Town,€7.00m
+Vítor Tormena,Centre-Back,29,Brazil,FC Krasnodar,€7.00m
+Adrià Pedrosa,Left-Back,27,Spain,Sevilla FC,€7.00m
+Carlos Cuesta,Centre-Back,26,Colombia,Galatasaray,€7.00m
+Murilo,Centre-Back,28,Brazil,Sociedade Esportiva Palmeiras,€7.00m
+Joseph Okumu,Centre-Back,28,Kenya,Stade Reims,€7.00m
+Ethan Pinnock,Centre-Back,32,Jamaica,Brentford FC,€7.00m
+Matías Viña,Left-Back,27,Uruguay,CR Flamengo,€7.00m
+Cédric Zesiger,Centre-Back,27,Switzerland,FC Augsburg,€7.00m
+Ismail Jakobs,Left-Back,25,Senegal,Galatasaray,€7.00m
+Gijs Smal,Left-Back,27,Netherlands,Feyenoord Rotterdam,€7.00m
+Lucas Martínez Quarta,Centre-Back,29,Argentina,CA River Plate,€7.00m
+Gabriel Gudmundsson,Left-Back,26,Sweden,Leeds United,€7.00m
+Mitchel Bakker,Left-Back,25,Netherlands,Atalanta BC,€7.00m
+Simone Canestrelli,Centre-Back,24,Italy,Pisa Sporting Club,€7.00m
+Sergio Akieme,Left-Back,27,Spain,Stade Reims,€7.00m
+Ayrton Lucas,Left-Back,28,Brazil,CR Flamengo,€7.00m
+Çağlar Söyüncü,Centre-Back,29,Türkiye,Fenerbahce,€7.00m
+David García,Centre-Back,31,Spain,Al-Rayyan SC,€7.00m
+Ramy Bensebaini,Left-Back,30,Algeria,Borussia Dortmund,€7.00m
+Diogo Costa,Goalkeeper,25,Portugal,FC Porto,€40.00m
+Gianluigi Donnarumma,Goalkeeper,26,Italy,Paris Saint-Germain,€40.00m
+David Raya,Goalkeeper,29,Spain,Arsenal FC,€40.00m
+Gregor Kobel,Goalkeeper,27,Switzerland,Borussia Dortmund,€40.00m
+Guglielmo Vicario,Goalkeeper,28,Italy,Tottenham Hotspur,€32.00m
+Bart Verbruggen,Goalkeeper,22,Netherlands,Brighton & Hove Albion,€30.00m
+Giorgi Mamardashvili,Goalkeeper,24,Georgia,Liverpool FC,€30.00m
+Lucas Chevalier,Goalkeeper,23,France,LOSC Lille,€30.00m
+Anatoliy Trubin,Goalkeeper,23,Ukraine,SL Benfica,€28.00m
+Unai Simón,Goalkeeper,28,Spain,Athletic Bilbao,€28.00m
+Joan García,Goalkeeper,24,Spain,FC Barcelona,€25.00m
+Marco Carnesecchi,Goalkeeper,25,Italy,Atalanta BC,€25.00m
+Mile Svilar,Goalkeeper,25,Serbia,AS Roma,€25.00m
+André Onana,Goalkeeper,29,Cameroon,Manchester United,€25.00m
+Mike Maignan,Goalkeeper,30,France,AC Milan,€25.00m
+James Trafford,Goalkeeper,22,England,Burnley FC,€22.00m
+Guillaume Restes,Goalkeeper,20,France,FC Toulouse,€20.00m
+Marcin Bulka,Goalkeeper,25,Poland,NEOM SC,€20.00m
+Djordje Petrovic,Goalkeeper,25,Serbia,AFC Bournemouth,€20.00m
+Zion Suzuki,Goalkeeper,22,Japan,Parma Calcio 1913,€20.00m
+Robert Sánchez,Goalkeeper,27,Spain,Chelsea FC,€20.00m
+Caoimhín Kelleher,Goalkeeper,26,Ireland,Brentford FC,€20.00m
+Matvey Safonov,Goalkeeper,26,Russia,Paris Saint-Germain,€20.00m
+Dean Henderson,Goalkeeper,28,England,Crystal Palace,€20.00m
+Ederson,Goalkeeper,31,Brazil,Manchester City,€20.00m
+Jan Oblak,Goalkeeper,32,Slovenia,Atlético de Madrid,€20.00m
+Emiliano Martínez,Goalkeeper,32,Argentina,Aston Villa,€20.00m
+Thibaut Courtois,Goalkeeper,33,Belgium,Real Madrid,€20.00m
+Alisson,Goalkeeper,32,Brazil,Liverpool FC,€20.00m
+Filip Jørgensen,Goalkeeper,23,Denmark,Chelsea FC,€18.00m
+Noah Atubolu,Goalkeeper,23,Germany,SC Freiburg,€18.00m
+Andriy Lunin,Goalkeeper,26,Ukraine,Real Madrid,€18.00m
+Michele Di Gregorio,Goalkeeper,27,Italy,Juventus FC,€18.00m
+Alex Meret,Goalkeeper,28,Italy,SSC Napoli,€18.00m
+Álex Remiro,Goalkeeper,30,Spain,Real Sociedad,€18.00m
+Jordan Pickford,Goalkeeper,31,England,Everton FC,€18.00m
+Illan Meslier,Goalkeeper,25,France,Leeds United,€16.00m
+Aaron Ramsdale,Goalkeeper,27,England,Southampton FC,€16.00m
+Vanja Milinković-Savić,Goalkeeper,28,Serbia,Torino FC,€16.00m
+Antonín Kinský,Goalkeeper,22,Czech Republic,Tottenham Hotspur,€15.00m
+Julen Agirrezabala,Goalkeeper,24,Spain,Valencia CF,€15.00m
+Mads Hermansen,Goalkeeper,25,Denmark,Leicester City,€15.00m
+Anthony Patterson,Goalkeeper,25,England,Sunderland AFC,€14.00m
+Kamil Grabara,Goalkeeper,26,Poland,VfL Wolfsburg,€14.00m
+Mike Penders,Goalkeeper,19,Belgium,Chelsea FC,€12.00m
+Jonas Urbig,Goalkeeper,21,Germany,Bayern Munich,€12.00m
+Yehvann Diouf,Goalkeeper,25,Senegal,OGC Nice,€12.00m
+Josep Martínez,Goalkeeper,27,Spain,Inter Milan,€12.00m
+Alexander Nübel,Goalkeeper,28,Germany,VfB Stuttgart,€12.00m
+Brice Samba,Goalkeeper,31,France,Stade Rennais FC,€12.00m
+Marc-André ter Stegen,Goalkeeper,33,Germany,FC Barcelona,€12.00m
+Bento,Goalkeeper,26,Brazil,Al-Nassr FC,€11.00m
+Luiz Júnior,Goalkeeper,24,Brazil,Villarreal CF,€10.00m
+Hugo Souza,Goalkeeper,26,Brazil,Sport Club Corinthians Paulista,€10.00m
+Konstantinos Tzolakis,Goalkeeper,22,Greece,Olympiacos Piraeus,€10.00m
+Christos Mandas,Goalkeeper,23,Greece,SS Lazio,€10.00m
+Lucas Perri,Goalkeeper,27,Brazil,Olympique Lyon,€10.00m
+Kepa Arrizabalaga,Goalkeeper,30,Spain,Arsenal FC,€10.00m
+Mark Flekken,Goalkeeper,32,Netherlands,Bayer 04 Leverkusen,€10.00m
+Bernd Leno,Goalkeeper,33,Germany,Fulham FC,€10.00m
+Uğurcan Çakır,Goalkeeper,29,Türkiye,Trabzonspor,€9.50m
+Gavin Bazunu,Goalkeeper,23,Ireland,Southampton FC,€9.00m
+Michael Cooper,Goalkeeper,25,England,Sheffield United,€9.00m
+Senne Lammens,Goalkeeper,23,Belgium,Royal Antwerp FC,€9.00m
+Marvin Keller,Goalkeeper,23,Switzerland,BSC Young Boys,€9.00m
+Elia Caprile,Goalkeeper,23,Italy,Cagliari Calcio,€9.00m
+Dominik Kotarski,Goalkeeper,25,Croatia,FC Copenhagen,€9.00m
+Finn Dahmen,Goalkeeper,27,Germany,FC Augsburg,€9.00m
+Dominik Livakovic,Goalkeeper,30,Croatia,Fenerbahce,€9.00m
+Alphonse Areola,Goalkeeper,32,France,West Ham United,€9.00m
+Maarten Vandevoordt,Goalkeeper,23,Belgium,RB Leipzig,€8.00m
+John Victor,Goalkeeper,29,Brazil,Botafogo de Futebol e Regatas,€8.00m
+Luis Malagón,Goalkeeper,28,Mexico,CF América,€8.00m
+Altay Bayındır,Goalkeeper,27,Türkiye,Manchester United,€8.00m
+Iñaki Peña,Goalkeeper,26,Spain,FC Barcelona,€8.00m
+Viktor Johansson,Goalkeeper,26,Sweden,Stoke City,€8.00m
+Gerónimo Rulli,Goalkeeper,33,Argentina,Olympique Marseille,€8.00m
+Nick Pope,Goalkeeper,33,England,Newcastle United,€8.00m
+Predrag Rajković,Goalkeeper,29,Serbia,Al-Ittihad Club,€8.00m
+Stefan Ortega,Goalkeeper,32,Germany,Manchester City,€8.00m
+Stanislav Agkatsev,Goalkeeper,23,Russia,FC Krasnodar,€7.50m
+Diego Conde,Goalkeeper,26,Spain,Villarreal CF,€7.50m
+Maduka Okoye,Goalkeeper,25,Nigeria,Udinese Calcio,€7.50m
+Walter Benítez,Goalkeeper,32,Argentina,Crystal Palace,€7.50m
+Dmytro Riznyk,Goalkeeper,26,Ukraine,Shakhtar Donetsk,€7.00m
+Kevin Mier,Goalkeeper,25,Colombia,CD Cruz Azul,€7.00m
+Diant Ramaj,Goalkeeper,23,Germany,Borussia Dortmund,€7.00m
+Yahia Fofana,Goalkeeper,24,Cote d'Ivoire,Angers SCO,€7.00m
+Agustín Rossi,Goalkeeper,29,Argentina,CR Flamengo,€7.00m
+Léo Jardim,Goalkeeper,30,Brazil,Clube de Regatas Vasco da Gama,€7.00m
+José Sá,Goalkeeper,32,Portugal,Wolverhampton Wanderers,€7.00m
+Rui Silva,Goalkeeper,31,Portugal,Sporting CP,€7.00m
+Matz Sels,Goalkeeper,33,Belgium,Nottingham Forest,€7.00m
+Stefano Turati,Goalkeeper,23,Italy,US Sassuolo,€6.50m
+Rome Jayden Owusu-Oduro,Goalkeeper,21,Netherlands,AZ Alkmaar,€6.00m
+Lukáš Horníček,Goalkeeper,23,Czech Republic,SC Braga,€6.00m
+Filip Stanković,Goalkeeper,23,Serbia,Venezia FC,€6.00m
+Gabriel Brazão,Goalkeeper,24,Brazil,Santos FC,€6.00m
+Berke Özer,Goalkeeper,25,Türkiye,Eyüpspor,€6.00m
+Radoslaw Majecki,Goalkeeper,25,Poland,AS Monaco,€6.00m
+Dominik Greif,Goalkeeper,28,Slovakia,RCD Mallorca,€6.00m
+Antonio Sivera,Goalkeeper,28,Spain,Deportivo Alavés,€6.00m
+Augusto Batalla,Goalkeeper,29,Argentina,Rayo Vallecano,€6.00m
+Timon Wellenreuther,Goalkeeper,29,Germany,Feyenoord Rotterdam,€6.00m
+Sam Johnstone,Goalkeeper,32,England,Wolverhampton Wanderers,€6.00m
+Bono,Goalkeeper,34,Morocco,Al-Hilal SFC,€5.50m
+Raúl Rangel,Goalkeeper,25,Mexico,Deportivo Guadalajara,€5.00m
+Obed Nkambadio,Goalkeeper,22,France,Paris FC,€5.00m
+James Beadle,Goalkeeper,21,England,Birmingham City,€5.00m
+Ștefan Târnovanu,Goalkeeper,25,Romania,FCSB,€5.00m
+Leo Román,Goalkeeper,25,Spain,RCD Mallorca,€5.00m
+Matej Kovar,Goalkeeper,25,Czech Republic,PSV Eindhoven,€5.00m
+Franco Israel,Goalkeeper,25,Uruguay,Sporting CP,€5.00m
+Kjell Scherpen,Goalkeeper,25,Netherlands,Brighton & Hove Albion,€5.00m
+Edouard Mendy,Goalkeeper,33,Senegal,Al-Ahli SFC,€5.00m
+Arijanet Muric,Goalkeeper,26,Kosovo,Ipswich Town,€5.00m
+Justin Bijlow,Goalkeeper,27,Netherlands,Feyenoord Rotterdam,€5.00m
+Moritz Nicolas,Goalkeeper,27,Germany,Borussia Mönchengladbach,€5.00m
+Philipp Köhn,Goalkeeper,27,Switzerland,AS Monaco,€5.00m
+Georgiy Bushchan,Goalkeeper,31,Ukraine,Al-Shabab FC,€5.00m
+Odysseas Vlachodimos,Goalkeeper,31,Greece,Newcastle United,€5.00m
+David de Gea,Goalkeeper,34,Spain,ACF Fiorentina,€5.00m
+Aleksandr Maksimenko,Goalkeeper,27,Russia,Spartak Moscow,€4.50m
+Michael Zetterer,Goalkeeper,30,Germany,SV Werder Bremen,€4.50m
+Koen Casteels,Goalkeeper,33,Belgium,Al-Qadsiah FC,€4.50m
+Anthoni,Goalkeeper,23,Brazil,Sport Club Internacional,€4.00m
+Max Weiß,Goalkeeper,21,Germany,Burnley FC,€4.00m
+Slawomir Abramowicz,Goalkeeper,21,Poland,Jagiellonia Bialystok,€4.00m
+Kacper Trelowski,Goalkeeper,21,Poland,Raków Częstochowa,€4.00m
+Matthieu Epolo,Goalkeeper,20,Belgium,Standard Liège,€4.00m
+Robin Roefs,Goalkeeper,22,Netherlands,NEC Nijmegen,€4.00m
+Orlando Gill,Goalkeeper,25,Paraguay,CA San Lorenzo de Almagro,€4.00m
+Carlos Miguel,Goalkeeper,26,Brazil,Nottingham Forest,€4.00m
+Andrew,Goalkeeper,24,Brazil,Gil Vicente FC,€4.00m
+Tobe Leysen,Goalkeeper,23,Belgium,Oud-Heverlee Leuven,€4.00m
+Ricardo Velho,Goalkeeper,26,Portugal,SC Farense,€4.00m
+Samuel Soares,Goalkeeper,23,Portugal,SL Benfica,€4.00m
+Vitezslav Jaros,Goalkeeper,23,Czech Republic,Ajax Amsterdam,€4.00m
+Ruslan Neshcheret,Goalkeeper,23,Ukraine,Dynamo Kyiv,€4.00m
+Gabriel Batista,Goalkeeper,27,Brazil,CD Santa Clara,€4.00m
+Peter Vindahl,Goalkeeper,27,Denmark,AC Sparta Prague,€4.00m
+Patrick Sequeira,Goalkeeper,26,Costa Rica,Casa Pia AC,€4.00m
+Mark Travers,Goalkeeper,26,Ireland,Everton FC,€4.00m
+Omri Glazer,Goalkeeper,29,Israel,Red Star Belgrade,€4.00m
+Evgeniy Latyshonok,Goalkeeper,27,Russia,Zenit St. Petersburg,€4.00m
+Robin Zentner,Goalkeeper,30,Germany,1.FSV Mainz 05,€4.00m
+Yann Sommer,Goalkeeper,36,Switzerland,Inter Milan,€4.00m
+Manuel Neuer,Goalkeeper,39,Germany,Bayern Munich,€4.00m
+Tomás Marchiori,Goalkeeper,30,Argentina,CA Vélez Sarsfield,€3.80m
+Juan Pablo Cozzani,Goalkeeper,26,Argentina,Club Atlético Platense,€3.80m
+Veljko Ilic,Goalkeeper,22,Serbia,FK TSC Backa Topola,€3.50m
+Carlos Moreno,Goalkeeper,27,Mexico,CF Pachuca,€3.50m
+Gabriel Slonina,Goalkeeper,21,United States,Chelsea FC,€3.50m
+Patrick Schulte,Goalkeeper,24,United States,Columbus Crew,€3.50m
+Pascal Loretz,Goalkeeper,22,Switzerland,FC Luzern,€3.50m
+Sander Tangvik,Goalkeeper,22,Norway,Rosenborg BK,€3.50m
+Jonathan Fischer,Goalkeeper,23,Denmark,Fredrikstad FK,€3.50m
+Mailson,Goalkeeper,28,Brazil,Al-Taawoun FC,€3.50m
+Manuel Roffo,Goalkeeper,25,Argentina,Instituto ACC,€3.50m
+Dominik Takac,Goalkeeper,26,Slovakia,Slovan Bratislava,€3.50m
+Bartosz Mrozek,Goalkeeper,25,Poland,Lech Poznan,€3.50m
+Adrian Semper,Goalkeeper,27,Croatia,Pisa Sporting Club,€3.50m
+Jean Butez,Goalkeeper,30,France,Como 1907,€3.50m
+Marcos Felipe,Goalkeeper,29,Brazil,Esporte Clube Bahia,€3.50m
+Sergio Rochet,Goalkeeper,32,Uruguay,Sport Club Internacional,€3.50m
+Vasilios Barkas,Goalkeeper,31,Greece,FC Utrecht,€3.50m
+Nikola Vasilj,Goalkeeper,29,Bosnia-Herzegovina,FC St. Pauli,€3.50m
+Juan Musso,Goalkeeper,31,Argentina,Atlético de Madrid,€3.50m
+Wladimiro Falcone,Goalkeeper,30,Italy,US Lecce,€3.50m
+Freddie Woodman,Goalkeeper,28,England,Liverpool FC,€3.50m
+Nick Olij,Goalkeeper,29,Netherlands,PSV Eindhoven,€3.50m
+Franco Petroli,Goalkeeper,27,Argentina,CD Godoy Cruz Antonio Tomba,€3.20m
+Emil Audero,Goalkeeper,28,Indonesia,Como 1907,€3.20m
+Matheus Cunha,Goalkeeper,24,Brazil,CR Flamengo,€3.00m
+Álex Padilla,Goalkeeper,21,Mexico,Athletic Bilbao,€3.00m
+Felipe Zenobio,Goalkeeper,25,Argentina,Club Atlético Tigre,€3.00m
+Mycael,Goalkeeper,21,Brazil,Club Athletico Paranaense,€3.00m
+Matías Mansilla,Goalkeeper,29,Argentina,Club Atlético Tucumán,€3.00m
+Carl Rushworth,Goalkeeper,24,England,Brighton & Hove Albion,€3.00m
+Leo Kokubo,Goalkeeper,24,Japan,Sint-Truidense VV,€3.00m
+Karl Hein,Goalkeeper,23,Estonia,Arsenal FC,€3.00m
+Cezary Miszta,Goalkeeper,23,Poland,Rio Ave FC,€3.00m
+Daniel Peretz,Goalkeeper,25,Israel,Hamburger SV,€3.00m
+Cleiton,Goalkeeper,27,Brazil,Red Bull Bragantino,€3.00m
+Arnau Tenas,Goalkeeper,24,Spain,Paris Saint-Germain,€3.00m
+Amir Saipi,Goalkeeper,25,Kosovo,FC Lugano,€3.00m
+Vladan Kovačević,Goalkeeper,27,Bosnia-Herzegovina,Norwich City,€3.00m
+Luís Maximiano,Goalkeeper,26,Portugal,UD Almería,€3.00m
+Alban Lafont,Goalkeeper,26,France,Panathinaikos FC,€3.00m
+Gautier Larsonneur,Goalkeeper,28,France,AS Saint-Étienne,€3.00m
+Carlos Acevedo,Goalkeeper,29,Mexico,Santos Laguna,€3.00m
+Ezequiel Unsain,Goalkeeper,30,Argentina,Club Necaxa,€3.00m
+Nahuel Losada,Goalkeeper,32,Argentina,CA Lanús,€3.00m
+Yohei Takaoka,Goalkeeper,29,Japan,Vancouver Whitecaps FC,€3.00m
+Martin Jedlicka,Goalkeeper,27,Czech Republic,FC Viktoria Plzen,€3.00m
+Conan Ledesma,Goalkeeper,32,Argentina,CA River Plate,€3.00m
+Sergio Herrera,Goalkeeper,32,Spain,CA Osasuna,€3.00m
+Jindrich Stanek,Goalkeeper,29,Czech Republic,SK Slavia Prague,€3.00m
+David Soria,Goalkeeper,32,Spain,Getafe CF,€3.00m
+Bartlomiej Dragowski,Goalkeeper,27,Poland,Panathinaikos FC,€3.00m
+Ivan Provedel,Goalkeeper,31,Italy,SS Lazio,€3.00m
+Maxime Crépeau,Goalkeeper,31,Canada,Portland Timbers,€3.00m
+Marek Rodák,Goalkeeper,28,Slovakia,Al-Ettifaq FC,€3.00m
+Yvon Mvogo,Goalkeeper,31,Switzerland,Without Club,€3.00m
+Marco Bizot,Goalkeeper,34,Netherlands,Aston Villa,€3.00m
+Frederik Rönnow,Goalkeeper,32,Denmark,1.FC Union Berlin,€3.00m
+Oliver Baumann,Goalkeeper,35,Germany,TSG 1899 Hoffenheim,€3.00m
+Dayne St. Clair,Goalkeeper,28,Canada,Minnesota United FC,€2.80m
+İrfan Can Eğribayat,Goalkeeper,27,Türkiye,Fenerbahce,€2.80m
+Paul Bernardoni,Goalkeeper,28,France,Yverdon Sport FC,€2.80m
+Max O'Leary,Goalkeeper,28,Ireland,Bristol City,€2.80m
+Kauã Santos,Goalkeeper,22,Brazil,Eintracht Frankfurt,€2.50m
+Roman Celentano,Goalkeeper,24,United States,FC Cincinnati,€2.50m
+Dennis Seimen,Goalkeeper,19,Germany,SC Paderborn 07,€2.50m
+Georgiy Yermakov,Goalkeeper,23,Ukraine,Maccabi Haifa,€2.50m
+Chris Brady,Goalkeeper,21,United States,Chicago Fire FC,€2.50m
+Drake Callender,Goalkeeper,27,United States,Inter Miami CF,€2.50m
+André Gomes,Goalkeeper,20,Portugal,FC Alverca,€2.50m
+Lucas Arcanjo,Goalkeeper,26,Brazil,Esporte Clube Vitória,€2.50m
+Nediljko Labrovic,Goalkeeper,25,Croatia,FC Augsburg,€2.50m
+Andrés Sánchez,Goalkeeper,27,Mexico,Atlético de San Luis,€2.50m
+Răzvan Sava,Goalkeeper,23,Romania,Udinese Calcio,€2.50m
+Tjark Ernst,Goalkeeper,22,Germany,Hertha BSC,€2.50m
+Jacob Widell Zetterström,Goalkeeper,27,Sweden,Derby County,€2.50m
+Oliver Dovin,Goalkeeper,23,Sweden,Coventry City,€2.50m
+Justin Hammel,Goalkeeper,24,Switzerland,Grasshopper Club Zurich,€2.50m
+Hákon Rafn Valdimarsson,Goalkeeper,23,Iceland,Brentford FC,€2.50m
+Nikolas Polster,Goalkeeper,23,Austria,Wolfsberger AC,€2.50m
+Warleson,Goalkeeper,28,Brazil,Cercle Brugge ,€2.50m
+Matt Turner,Goalkeeper,31,United States,Nottingham Forest,€2.50m
+Álvaro Valles,Goalkeeper,27,Spain,Real Betis Balompié,€2.50m
+Arnaud Bodart,Goalkeeper,27,Belgium,LOSC Lille,€2.50m
+Niklas Hedl,Goalkeeper,24,Austria,Rapid Vienna,€2.50m
+Tobias Lawal,Goalkeeper,25,Austria,KRC Genk,€2.50m
+Jokin Ezkieta,Goalkeeper,28,Spain,Racing Santander,€2.50m
+Jasper Schendelaar,Goalkeeper,24,Netherlands,PEC Zwolle,€2.50m
+Santiago Mele,Goalkeeper,27,Uruguay,CF Monterrey,€2.50m
+Ionuț Radu,Goalkeeper,28,Romania,Celta de Vigo,€2.50m
+Pau López,Goalkeeper,30,Spain,Without Club,€2.50m
+João Paulo,Goalkeeper,30,Brazil,Santos FC,€2.50m
+Daniel Iversen,Goalkeeper,28,Denmark,Preston North End,€2.50m
+Jonas Omlin,Goalkeeper,31,Switzerland,Borussia Mönchengladbach,€2.50m
+Ilya Lantratov,Goalkeeper,29,Russia,Lokomotiv Moscow,€2.50m
+Patrick Pentz,Goalkeeper,28,Austria,Bröndby IF,€2.50m
+Thomas Strakosha,Goalkeeper,30,Albania,AEK Athens,€2.50m
+Paulo Gazzaniga,Goalkeeper,33,Argentina,Girona FC,€2.50m
+Alexander Schlager,Goalkeeper,29,Austria,Red Bull Salzburg,€2.50m
+Bruno Varela,Goalkeeper,30,Cape Verde,Vitória Guimarães SC,€2.50m
+Matheus,Goalkeeper,33,Brazil,Red Star Belgrade,€2.50m
+Stole Dimitrievski,Goalkeeper,31,North Macedonia,Valencia CF,€2.50m
+Davy Roef,Goalkeeper,31,Belgium,KAA Gent,€2.50m
+Mathew Ryan,Goalkeeper,33,Australia,Without Club,€2.50m
+Mattia Perin,Goalkeeper,32,Italy,Juventus FC,€2.50m
+Lukasz Skorupski,Goalkeeper,34,Poland,Bologna FC 1909,€2.50m
+Kevin Trapp,Goalkeeper,35,Germany,Eintracht Frankfurt,€2.50m
+Ivica Ivusic,Goalkeeper,30,Croatia,HNK Hajduk Split,€2.30m
+Horațiu Moldovan,Goalkeeper,27,Romania,Real Oviedo,€2.20m
+Muhammed Şengezer,Goalkeeper,28,Türkiye,Basaksehir FK,€2.20m
+Okan Kocuk,Goalkeeper,29,Türkiye,Samsunspor,€2.20m
+Angus Gunn,Goalkeeper,29,Scotland,Without Club,€2.20m
+Facundo Sanguinetti,Goalkeeper,24,Argentina,CA Banfield,€2.00m
+Fernando Tapia,Goalkeeper,24,Mexico,Tigres UANL,€2.00m
+Kacper Tobiasz,Goalkeeper,22,Poland,Legia Warszawa,€2.00m
+Ezequiel Centurión,Goalkeeper,28,Argentina,CS Independiente Rivadavia,€2.00m
+Radek Vítek,Goalkeeper,21,Czech Republic,Manchester United U21,€2.00m
+Mio Backhaus,Goalkeeper,21,Germany,SV Werder Bremen,€2.00m
+Alejandro Iturbe,Goalkeeper,21,Spain,Elche CF,€2.00m
+Matías Borgogno,Goalkeeper,26,Argentina,CA San Martín (San Juan),€2.00m
+Sebastiano Desplanches,Goalkeeper,22,Italy,Palermo FC,€2.00m
+Fran Vieites,Goalkeeper,26,Spain,Real Betis Balompié,€2.00m
+Lubomir Belko,Goalkeeper,23,Slovakia,MSK Zilina,€2.00m
+Tomás Durso,Goalkeeper,26,Argentina,Club Atlético Tucumán,€2.00m
+Arthur Okonkwo,Goalkeeper,23,England,Wrexham AFC,€2.00m
+Devis Vásquez,Goalkeeper,27,Colombia,AC Milan,€2.00m
+Martin Zlomislic,Goalkeeper,26,Bosnia-Herzegovina,HNK Rijeka,€2.00m
+Álvaro Fernández,Goalkeeper,27,Spain,Sevilla FC,€2.00m
+Sebastián Jurado,Goalkeeper,27,Mexico,FC Juárez,€2.00m
+Jari De Busser,Goalkeeper,25,Belgium,Go Ahead Eagles,€2.00m
+Etienne Vaessen,Goalkeeper,29,Suriname,FC Groningen,€2.00m
+Aleksandar Popovic,Goalkeeper,25,Serbia,DAC Dunajska Streda,€2.00m
+Ivor Pandur,Goalkeeper,25,Croatia,Hull City,€2.00m
+Bilal Bayazıt,Goalkeeper,26,Türkiye,Kayserispor,€2.00m
+Jiri Letacek,Goalkeeper,26,Czech Republic,Getafe CF,€2.00m
+Gaëtan Coucke,Goalkeeper,26,Belgium,Without Club,€2.00m
+Jonathan Klinsmann,Goalkeeper,28,United States,Cesena FC,€2.00m
+Jeffrey de Lange,Goalkeeper,27,Netherlands,Olympique Marseille,€2.00m
+Thiago Cardozo,Goalkeeper,28,Uruguay,Club Atlético Belgrano,€2.00m
+Aleksandar Jovanovic,Goalkeeper,32,Serbia,Kocaelispor,€2.00m
+Nikita Haikin,Goalkeeper,30,Russia,FK Bodø/Glimt,€2.00m
+Lorenzo Montipò,Goalkeeper,29,Italy,Hellas Verona,€2.00m
+Simone Scuffet,Goalkeeper,29,Italy,Cagliari Calcio,€2.00m
+Guido Herrera,Goalkeeper,33,Argentina,CA Talleres,€2.00m
+Zack Steffen,Goalkeeper,30,United States,Colorado Rapids,€2.00m
+Dénes Dibusz,Goalkeeper,34,Hungary,Ferencvárosi TC,€2.00m
+Marvin Schwäbe,Goalkeeper,30,Germany,1.FC Köln,€2.00m
+Péter Gulácsi,Goalkeeper,35,Hungary,RB Leipzig,€2.00m
+Lars Unnerstall,Goalkeeper,35,Germany,Twente Enschede FC,€2.00m
+Lukas Hradecky,Goalkeeper,35,Finland,Bayer 04 Leverkusen,€2.00m
+Alessandro Nunziante,Goalkeeper,18,Italy,Benevento Calcio,€1.80m
+Tommaso Martinelli,Goalkeeper,19,Italy,ACF Fiorentina,€1.80m
+Elis Bishesari,Goalkeeper,20,Sweden,IFK Göteborg,€1.80m
+Johannes Schenk,Goalkeeper,22,Germany,Preußen Münster,€1.80m
+Nahuel Noll,Goalkeeper,22,Germany,Hannover 96,€1.80m
+Ersin Destanoğlu,Goalkeeper,24,Türkiye,Besiktas JK,€1.80m
+Dani Cárdenas,Goalkeeper,28,Spain,Rayo Vallecano,€1.80m
+Maarten Paes,Goalkeeper,27,Indonesia,FC Dallas,€1.80m
+Ronaldo,Goalkeeper,28,Brazil,Esporte Clube Bahia,€1.80m
+Nicolas Kristof,Goalkeeper,25,Austria,SV 07 Elversberg,€1.80m
+Mateusz Lis,Goalkeeper,28,Poland,Göztepe,€1.80m
+Anton Mitryushkin,Goalkeeper,29,Russia,Lokomotiv Moscow,€1.80m
+Brayan Cortés,Goalkeeper,30,Chile,CSD Colo-Colo,€1.80m
+Ivo Grbic,Goalkeeper,29,Croatia,Sheffield United,€1.80m
+Paul Nardi,Goalkeeper,31,France,Queens Park Rangers,€1.80m
+Kristijan Kahlina,Goalkeeper,32,Croatia,Charlotte FC,€1.80m
+Anthony Moris,Goalkeeper,35,Luxembourg,Al-Khaleej FC,€1.80m
+Thomas Kaminski,Goalkeeper,32,Belgium,Charlton Athletic,€1.80m
+Joe Whitworth,Goalkeeper,21,England,Exeter City,€1.70m
+Facundo Cambeses,Goalkeeper,28,Argentina,Racing Club,€1.70m
+Keisuke Osako,Goalkeeper,25,Japan,Sanfrecce Hiroshima,€1.70m
+Laurențiu Popescu,Goalkeeper,28,Romania,CS Universitatea Craiova,€1.70m
+Hendrik Van Crombrugge,Goalkeeper,32,Belgium,KRC Genk,€1.70m
+Leandro Brey,Goalkeeper,22,Argentina,CA Boca Juniors,€1.50m
+Tiago Pereira Cardoso,Goalkeeper,19,Luxembourg,Borussia Mönchengladbach,€1.50m
+Martin Delavallée,Goalkeeper,21,Belgium,Royal Charleroi SC,€1.50m
+Gabriel Grando,Goalkeeper,25,Brazil,Grêmio Foot-Ball Porto Alegrense,€1.50m
+Plamen Andreev,Goalkeeper,20,Bulgaria,Feyenoord Rotterdam,€1.50m
+Kiril Fesyun,Goalkeeper,22,Ukraine,Shakhtar Donetsk,€1.50m
+Robin Risser,Goalkeeper,20,France,RC Lens,€1.50m
+Léo Linck,Goalkeeper,24,Brazil,Botafogo de Futebol e Regatas,€1.50m
+Bernardo,Goalkeeper,22,Brazil,CD Tondela,€1.50m
+Matheus Donelli,Goalkeeper,23,Brazil,Sport Club Corinthians Paulista,€1.50m
+Svetoslav Vutsov,Goalkeeper,23,Bulgaria,Levski Sofia,€1.50m
+Pablo Campos,Goalkeeper,23,Spain,Levante UD,€1.50m
+Andreas Jungdal,Goalkeeper,23,Denmark,KVC Westerlo,€1.50m
+Joe Gauci,Goalkeeper,25,Australia,Aston Villa,€1.50m
+Doğan Alemdar,Goalkeeper,22,Türkiye,Stade Rennais FC,€1.50m
+Cristopher Fiermarín,Goalkeeper,27,Uruguay,Deportes Tolima,€1.50m
+Nikita Kokarev,Goalkeeper,22,Russia,Krylya Sovetov Samara,€1.50m
+Abduvokhid Nematov,Goalkeeper,24,Uzbekistan,Nasaf Qarshi,€1.50m
+Adam Zadrazil,Goalkeeper,24,Czech Republic,FC Hradec Kralove,€1.50m
+Jakub Markovic,Goalkeeper,24,Czech Republic,SK Slavia Prague,€1.50m
+Oliver Christensen,Goalkeeper,26,Denmark,ACF Fiorentina,€1.50m
+Elías Ólafsson,Goalkeeper,25,Iceland,FC Midtjylland,€1.50m
+Fabian de Keijzer,Goalkeeper,25,Netherlands,Heracles Almelo,€1.50m
+Lucas Lund,Goalkeeper,25,Denmark,Viborg FF,€1.50m
+Ortwin De Wolf,Goalkeeper,28,Belgium,KV Mechelen,€1.50m
+Demba Thiam,Goalkeeper,27,Senegal,AC Monza,€1.50m
+Nathan Trott,Goalkeeper,26,England,FC Copenhagen,€1.50m
+Rustam Yatimov,Goalkeeper,27,Tajikistan,FC Rostov,€1.50m
+Ivan Lomaev,Goalkeeper,26,Russia,Without Club,€1.50m
+Kristoffer Klaesson,Goalkeeper,24,Norway,Viking FK,€1.50m
+Lucão,Goalkeeper,24,Brazil,Red Bull Bragantino,€1.50m
+Mateusz Kochalski,Goalkeeper,24,Poland,Qarabağ FK,€1.50m
+Federico Ravaglia,Goalkeeper,25,Italy,Bologna FC 1909,€1.50m
+Evgeniy Staver,Goalkeeper,27,Russia,Rubin Kazan,€1.50m
+Egil Selvik,Goalkeeper,27,Norway,Watford FC,€1.50m
+Carlos Coronel,Goalkeeper,28,Paraguay,New York Red Bulls,€1.50m
+Nico Mantl,Goalkeeper,25,Germany,FC Arouca,€1.50m
+Lazar Carević,Goalkeeper,26,Montenegro,FC Famalicão,€1.50m
+Joël Drommel,Goalkeeper,28,Netherlands,Sparta Rotterdam,€1.50m
+Ivan Nevistic,Goalkeeper,26,Croatia,GNK Dinamo Zagreb,€1.50m
+Álvaro Montero,Goalkeeper,30,Colombia,CA Vélez Sarsfield,€1.50m
+Luca Zidane,Goalkeeper,27,France,Granada CF,€1.50m
+Ivan Zlobin,Goalkeeper,28,Russia,FC Famalicão,€1.50m
+Florian Kastenmeier,Goalkeeper,28,Germany,Fortuna Düsseldorf,€1.50m
+Rodrigo Rey,Goalkeeper,34,Argentina,CA Independiente,€1.50m
+Colin Coosemans,Goalkeeper,32,Belgium,RSC Anderlecht,€1.50m
+Daniel Bentley,Goalkeeper,32,England,Wolverhampton Wanderers,€1.50m
+Nicola Leali,Goalkeeper,32,Italy,Genoa CFC,€1.50m
+Jack Butland,Goalkeeper,32,England,Rangers FC,€1.50m
+Benjamin Lecomte,Goalkeeper,34,France,Montpellier HSC,€1.50m
+Marius Müller,Goalkeeper,32,Germany,VfL Wolfsburg,€1.50m
+Neto,Goalkeeper,36,Brazil,AFC Bournemouth,€1.50m
+Esteban Andrada,Goalkeeper,34,Argentina,CF Monterrey,€1.50m
+Jason Steele,Goalkeeper,34,England,Brighton & Hove Albion,€1.50m
+Weverton,Goalkeeper,37,Brazil,Sociedade Esportiva Palmeiras,€1.50m
+Roman Bürki,Goalkeeper,34,Switzerland,St. Louis CITY SC,€1.50m
+Timothy Fayulu,Goalkeeper,25,DR Congo,FC Sion,€1.40m
+Diogo Sousa,Goalkeeper,26,Portugal,Bodrum FK,€1.40m
+Aynsley Pears,Goalkeeper,27,England,Blackburn Rovers,€1.40m
+Seny Dieng,Goalkeeper,30,Senegal,Middlesbrough FC,€1.40m
+Edvinas Gertmonas,Goalkeeper,29,Lithuania,FC Universitatea Cluj,€1.40m
+Daniel Bachmann,Goalkeeper,31,Austria,Watford FC,€1.40m
+Otto Hindrich,Goalkeeper,22,Romania,CFR Cluj,€1.30m
+Noel Törnqvist,Goalkeeper,23,Sweden,Mjällby AIF,€1.30m
+El Mehdi Benabid,Goalkeeper,27,Morocco,Wydad Casablanca,€1.30m
+Ivan,Goalkeeper,28,Brazil,Sport Club Internacional,€1.30m
+Marcos Ledesma,Goalkeeper,28,Argentina,CA Barracas Central,€1.30m
+Christian Früchtl,Goalkeeper,25,Germany,US Lecce,€1.30m
+Ivan Lucic,Goalkeeper,30,Austria,HNK Hajduk Split,€1.30m
+Andreas Hansen,Goalkeeper,29,Denmark,FC Nordsjaelland,€1.30m
+Mamour Ndiaye,Goalkeeper,19,Senegal,Sarpsborg 08 FF,€1.20m
+Niv Eliasi,Goalkeeper,23,Israel,Hapoel Beer Sheva,€1.20m
+Mohamed Koné,Goalkeeper,23,Cote d'Ivoire,Royal Charleroi SC,€1.20m
+Fedor Lapoukhov,Goalkeeper,22,Belarus,CSKA Sofia,€1.20m
+Thomas Gillier,Goalkeeper,21,Chile,Bologna FC 1909,€1.20m
+Ivan Guteša,Goalkeeper,23,Serbia,Red Star Belgrade,€1.20m
+Sam Tickle,Goalkeeper,23,England,Wigan Athletic,€1.20m
+Strahinja Manojlovic,Goalkeeper,22,Serbia,FK Radnicki Nis,€1.20m
+David Volk,Goalkeeper,24,Russia,Dinamo Makhachkala,€1.20m
+Hervé Koffi,Goalkeeper,28,Burkina Faso,Angers SCO,€1.20m
+Maxime Delanghe,Goalkeeper,24,Belgium,Cercle Brugge ,€1.20m
+Jamie Cumming,Goalkeeper,25,England,Oxford United,€1.20m
+Arthur Desmas,Goalkeeper,31,France,Without Club,€1.20m
+Matevz Vidovsek,Goalkeeper,25,Slovenia,NK Olimpija Ljubljana,€1.20m
+Ignacio de Arruabarrena,Goalkeeper,28,Uruguay,Barcelona SC Guayaquil,€1.20m
+Lucas Chaves,Goalkeeper,29,Argentina,Panetolikos GFS,€1.20m
+Dinko Horkas,Goalkeeper,26,Croatia,UD Las Palmas,€1.20m
+Karlo Letica,Goalkeeper,28,Croatia,FC Lausanne-Sport,€1.20m
+Lucas Acosta,Goalkeeper,30,Argentina,CA Sarmiento (Junin),€1.20m
+Florian Müller,Goalkeeper,27,Germany,SC Freiburg,€1.20m
+Rémy Descamps,Goalkeeper,29,France,Olympique Lyon,€1.20m
+Tadeu,Goalkeeper,33,Brazil,Goiás EC,€1.20m
+Lawrence Ati Zigi,Goalkeeper,28,Ghana,FC St. Gallen 1879,€1.20m
+Nordin Jackers,Goalkeeper,27,Belgium,Club Brugge KV,€1.20m
+Rubén Yáñez,Goalkeeper,31,Spain,Sporting Gijón,€1.20m
+Ethan Horvath,Goalkeeper,30,United States,Cardiff City,€1.20m
+Andrea Fulignati,Goalkeeper,30,Italy,US Cremonese,€1.20m
+Ilya Pomazun,Goalkeeper,28,Russia,Spartak Moscow,€1.20m
+Sergio Rico,Goalkeeper,31,Spain,Al-Gharafa SC,€1.20m
+Danny Ward,Goalkeeper,32,Wales,Wrexham AFC,€1.20m
+Cláudio Ramos,Goalkeeper,33,Portugal,FC Porto,€1.20m
+Andrey Lunev,Goalkeeper,33,Russia,Dynamo Moscow,€1.20m
+Everson,Goalkeeper,35,Brazil,Clube Atlético Mineiro,€1.20m
+Anthony Lopes,Goalkeeper,34,Portugal,FC Nantes,€1.20m
+Simon Mignolet,Goalkeeper,37,Belgium,Club Brugge KV,€1.20m
+Deniz Dönmezer,Goalkeeper,16,Türkiye,Adana Demirspor,€1.00m
+Onuralp Çevikkan,Goalkeeper,19,Türkiye,Trabzonspor,€1.00m
+Pedro Morisco,Goalkeeper,21,Brazil,Coritiba Foot Ball Club,€1.00m
+Pablo Lara,Goalkeeper,20,Mexico,UNAM Pumas,€1.00m
+Lazar Balevic,Goalkeeper,17,Serbia,FK Napredak Krusevac,€1.00m
+Jacopo Seghetti,Goalkeeper,20,Italy,FC Empoli,€1.00m
+Filip Sidklev,Goalkeeper,20,Sweden,Aris Thessaloniki,€1.00m
+João Carvalho,Goalkeeper,21,Portugal,SC Braga B,€1.00m
+Gonçalo Ribeiro,Goalkeeper,19,Portugal,FC Porto B,€1.00m
+Mamadou Diop,Goalkeeper,25,Mauritania,Grenoble Foot 38,€1.00m
+Alejandro Rodríguez,Goalkeeper,24,Colombia,Deportivo Cali,€1.00m
+Deniz Ertaş,Goalkeeper,20,Türkiye,Konyaspor,€1.00m
+Diego Callai,Goalkeeper,21,Brazil,Sporting CP B,€1.00m
+Adriel,Goalkeeper,24,Brazil,Athletic Club,€1.00m
+Theo Sander,Goalkeeper,20,Denmark,Odense Boldklub,€1.00m
+Jonathan Sirois,Goalkeeper,24,Canada,CF Montréal,€1.00m
+Tomás Ahumada,Goalkeeper,24,Chile,Audax Italiano,€1.00m
+Albert Posiadała,Goalkeeper,22,Poland,Molde FK,€1.00m
+Tomoki Hayakawa,Goalkeeper,26,Japan,Kashima Antlers,€1.00m
+Kewin,Goalkeeper,30,Brazil,Without Club,€1.00m
+Nelson Insfrán,Goalkeeper,30,Argentina,Club de Gimnasia y Esgrima La Plata,€1.00m
+Mahmoud Gad,Goalkeeper,26,Egypt,El Masry SC,€1.00m
+Jan Reichert,Goalkeeper,24,Germany,1.FC Nuremberg,€1.00m
+Rodrigo Morínigo,Goalkeeper,26,Paraguay,Club Libertad Asunción,€1.00m
+Guido Villar,Goalkeeper,27,Argentina,Independiente del Valle,€1.00m
+Josh Griffiths,Goalkeeper,23,England,West Bromwich Albion,€1.00m
+Vladislav Torop,Goalkeeper,21,Russia,CSKA Moscow,€1.00m
+Brenno,Goalkeeper,26,Brazil,Fortaleza Esporte Clube,€1.00m
+Luis Ingolotti,Goalkeeper,25,Argentina,Club de Gimnasia y Esgrima La Plata,€1.00m
+Maksim Borisko,Goalkeeper,25,Russia,Baltika Kaliningrad,€1.00m
+Balsa Popovic,Goalkeeper,25,Montenegro,OFK Beograd,€1.00m
+Daiya Maekawa,Goalkeeper,30,Japan,Vissel Kobe,€1.00m
+Jakub Stolarczyk,Goalkeeper,24,Poland,Leicester City,€1.00m
+Viljami Sinisalo,Goalkeeper,23,Finland,Celtic FC,€1.00m
+Daniel Bielica,Goalkeeper,26,Poland,NAC Breda,€1.00m
+Sipho Chaine,Goalkeeper,28,South Africa,Orlando Pirates,€1.00m
+Leopold Wahlstedt,Goalkeeper,26,Sweden,Aarhus GF,€1.00m
+Ivan Dyulgerov,Goalkeeper,26,Bulgaria,FC Sheriff Tiraspol,€1.00m
+Patrik Gunnarsson,Goalkeeper,24,Iceland,KV Kortrijk,€1.00m
+Marian Aioani,Goalkeeper,25,Romania,FC Rapid 1923,€1.00m
+Lucas França,Goalkeeper,29,Brazil,CD Nacional,€1.00m
+Keiller,Goalkeeper,28,Brazil,Ceará Sporting Club,€1.00m
+Bailey Peacock-Farrell,Goalkeeper,28,Northern Ireland,Blackpool FC,€1.00m
+Caíque França,Goalkeeper,30,Brazil,Sport Club do Recife,€1.00m
+Kosei Tani,Goalkeeper,24,Japan,Machida Zelvia,€1.00m
+Sergey Volkov,Goalkeeper,30,Russia,Akron Togliatti,€1.00m
+Ramiro Macagno,Goalkeeper,28,Argentina,Without Club,€1.00m
+Anthony Racioppi,Goalkeeper,26,Switzerland,FC Sion,€1.00m
+Steven Benda,Goalkeeper,26,Germany,Fulham FC,€1.00m
+Dragan Rosic,Goalkeeper,28,Serbia,FK Vojvodina Novi Sad,€1.00m
+Dimitry Bertaud,Goalkeeper,27,DR Congo,Without Club,€1.00m
+Facundo Altamirano,Goalkeeper,29,Argentina,CA San Lorenzo de Almagro,€1.00m
+Alessandro Plizzari,Goalkeeper,25,Italy,Venezia FC,€1.00m
+Salaheddine Chihab,Goalkeeper,32,Morocco,MAS Fès,€1.00m
+Julian Krahl,Goalkeeper,25,Germany,1.FC Kaiserslautern,€1.00m
+Daniel Naumov,Goalkeeper,27,Bulgaria,Botev Plovdiv,€1.00m
+Denis Adamov,Goalkeeper,27,Russia,Zenit St. Petersburg,€1.00m
+Cătălin Căbuz,Goalkeeper,29,Romania,FC Hermannstadt,€1.00m
+Alen Sherri,Goalkeeper,27,Albania,Frosinone Calcio,€1.00m
+Marius Adamonis,Goalkeeper,28,Lithuania,FC Südtirol,€1.00m
+Timon Weiner,Goalkeeper,26,Germany,Holstein Kiel,€1.00m
+Nicolas Schmid,Goalkeeper,28,Austria,Portsmouth FC,€1.00m
+Anthony Mandréa,Goalkeeper,28,Algeria,SM Caen,€1.00m
+Ryosuke Kojima,Goalkeeper,28,Japan,Kashiwa Reysol,€1.00m
+Samuel Portugal,Goalkeeper,31,Brazil,Al-Okhdood Club,€1.00m
+Aarón Escandell,Goalkeeper,29,Spain,Real Oviedo,€1.00m
+Rostislav Soldatenko,Goalkeeper,28,Russia,Torpedo Moscow,€1.00m
+Andries Noppert,Goalkeeper,31,Netherlands,SC Heerenveen,€1.00m
+Dimitar Mitov,Goalkeeper,28,Bulgaria,Aberdeen FC,€1.00m
+Brad Collins,Goalkeeper,28,England,Coventry City,€1.00m
+Juan Soriano,Goalkeeper,27,Spain,CD Leganés,€1.00m
+Alex Palmer,Goalkeeper,28,England,Ipswich Town,€1.00m
+Pierluigi Gollini,Goalkeeper,30,Italy,AS Roma,€1.00m
+Dominik Reimann,Goalkeeper,28,Germany,1.FC Magdeburg,€1.00m
