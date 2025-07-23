@@ -163,7 +163,7 @@ Victor Froholdt,Central Midfield,19,Denmark,FC Copenhagen,€12.00m
 Ibrahim Maza,Attacking Midfield,19,Algeria,Bayer 04 Leverkusen,€12.00m
 Luka Vuskovic,Centre-Back,18,Croatia,Tottenham Hotspur,€12.00m
 Semih Kılıçsoy,Centre-Forward,19,Türkiye,Besiktas JK,€12.00m
-Valentín Barco,Central Midfield,20,Argentina,RC Strasbourg Alsace,€12.00m
+Valentín Barco,Central Midfield,21,Argentina,RC Strasbourg Alsace,€12.00m
 Mike Penders,Goalkeeper,19,Belgium,Chelsea FC,€12.00m
 Bence Dárdai,Attacking Midfield,19,Hungary,VfL Wolfsburg,€12.00m
 Valentín Carboni,Attacking Midfield,20,Argentina,Genoa CFC,€12.00m
@@ -192,7 +192,7 @@ Tyrique George,Left Winger,19,England,Chelsea FC,€10.00m
 Valentin Atangana,Central Midfield,19,France,Stade Reims,€10.00m
 Alberto Costa,Right-Back,21,Portugal,Juventus FC,€10.00m
 Kosta Nedeljkovic,Right-Back,19,Serbia,RB Leipzig,€10.00m
-Tom Rothe,Left-Back,20,Germany,1.FC Union Berlin,€10.00m
+Tom Rothe,Left Midfield,20,Germany,1.FC Union Berlin,€10.00m
 Nelson Weiper,Centre-Forward,20,Germany,1.FSV Mainz 05,€10.00m
 Mika Godts,Left Winger,20,Belgium,Ajax Amsterdam,€10.00m
 Shea Charles,Defensive Midfield,21,Northern Ireland,Southampton FC,€10.00m
@@ -248,7 +248,7 @@ Paxten Aaronson,Central Midfield,21,United States,Eintracht Frankfurt,€8.00m
 Alfie Gilchrist,Right-Back,21,England,Chelsea FC,€8.00m
 Lukas Ullrich,Left-Back,21,Germany,Borussia Mönchengladbach,€8.00m
 Abbosbek Fayzullaev,Attacking Midfield,21,Uzbekistan,CSKA Moscow,€8.00m
-Caleb Wiley,Left-Back,20,United States,Chelsea FC,€8.00m
+Caleb Wiley,Left-Back,20,United States,Watford FC,€8.00m
 Elias Baum,Right-Back,19,Germany,Eintracht Frankfurt,€8.00m
 Ângelo,Right Winger,20,Brazil,Al-Nassr FC,€8.00m
 Kévin Danois,Central Midfield,21,France,AJ Auxerre,€8.00m
@@ -271,7 +271,7 @@ Yasin Özcan,Centre-Back,19,Türkiye,Aston Villa,€7.50m
 Robert Renan,Centre-Back,21,Brazil,Zenit St. Petersburg,€7.50m
 Yarek Gasiorowski,Centre-Back,20,Spain,PSV Eindhoven,€7.50m
 Oscar Højlund,Central Midfield,20,Denmark,Eintracht Frankfurt,€7.50m
-Luca Marianucci,Centre-Back,20,Italy,SSC Napoli,€7.50m
+Luca Marianucci,Centre-Back,21,Italy,SSC Napoli,€7.50m
 Ismaël Gharbi,Left Winger,21,Spain,SC Braga,€7.50m
 Roony Bardghji,Right Winger,19,Sweden,FC Barcelona Atlètic,€7.50m
 Sydie Peck,Central Midfield,20,England,Sheffield United,€7.50m
@@ -279,7 +279,6 @@ Aurèle Amenda,Centre-Back,21,Switzerland,Eintracht Frankfurt,€7.50m
 Keny Arroyo,Right Winger,19,Ecuador,Besiktas JK,€7.00m
 Christian Ordóñez,Central Midfield,20,Argentina,Parma Calcio 1913,€7.00m
 Sondre Ørjasæter,Left Winger,21,Norway,Sarpsborg 08 FF,€7.00m
-Chibuike Nwaiwu,Centre-Back,21,Nigeria,Wolfsberger AC,€7.00m
 Saël Kumbedi,Right-Back,20,France,Olympique Lyon,€7.00m
 Kassoum Ouattara,Left-Back,20,France,AS Monaco,€7.00m
 Martim Marques,Left-Back,21,Portugal,FC Lugano,€7.00m
@@ -432,7 +431,6 @@ Ilyas Ansah,Centre-Forward,20,Germany,1.FC Union Berlin,€4.00m
 Nobel Mendy,Centre-Back,20,Senegal,Real Betis Balompié,€4.00m
 Eguinaldo,Left Winger,20,Brazil,Shakhtar Donetsk,€4.00m
 Adrian Przyborek,Right Winger,18,Poland,Pogon Szczecin,€4.00m
-Junior Diaz,Centre-Back,21,Cote d'Ivoire,Stade Brestois 29,€4.00m
 Wesley,Left Winger,20,Brazil,Al-Nassr FC,€4.00m
 Jaydee Canvot,Centre-Back,18,France,FC Toulouse,€4.00m
 Santiago Castañeda,Defensive Midfield,20,United States,SC Paderborn 07,€4.00m
@@ -488,7 +486,6 @@ Min-hyeok Yang,Right Winger,19,"Korea, South",Tottenham Hotspur,€3.50m
 Thiago Helguera,Defensive Midfield,19,Uruguay,SC Braga,€3.50m
 Michal Gurgul,Left-Back,19,Poland,Lech Poznan,€3.50m
 Denil Castillo,Central Midfield,21,Ecuador,FC Midtjylland,€3.50m
-Gustavo Puerta,Central Midfield,21,Colombia,Hull City,€3.50m
 Matías Abaldo,Right Winger,21,Uruguay,Defensor Sporting Club,€3.50m
 Lucas Høgsberg,Centre-Back,19,Denmark,FC Nordsjaelland,€3.50m
 Marco Palestra,Right Midfield,20,Italy,Atalanta BC,€3.50m
@@ -499,3 +496,6 @@ Nathan-Dylan Saliba,Central Midfield,21,Canada,RSC Anderlecht,€3.50m
 Mateo Joseph,Centre-Forward,21,Spain,Leeds United,€3.50m
 Maurice Krattenmacher,Attacking Midfield,19,Germany,Hertha BSC,€3.50m
 Max Dean,Centre-Forward,21,England,KAA Gent,€3.50m
+Charlie Hughes,Centre-Back,21,England,Hull City,€3.50m
+Cihan Çanak,Right Winger,20,Türkiye,Trabzonspor,€3.50m
+Alfie Devine,Attacking Midfield,20,England,Tottenham Hotspur,€3.50m
