@@ -1,0 +1,39 @@
+﻿name,field,position,age,nation,confederation,club,league,value_billion_krw,Identifier
+Alexsandro,DF,Centre_Back,25,Brazil,CONMEBOL,LOSC Lille,Ligue1,325.0,alexsandro_BRA
+Alex Sandro,DF,Left_Back,34,Brazil,CONMEBOL,CR Flamengo,Brasileiro_SerieA,29.2,alexsandro_BRA
+Alisson,GK,Goalkeeper,32,Brazil,CONMEBOL,Liverpool FC,PremierLeague,325.0,alisson_BRA
+Alisson,FW,Right_Winger,19,Brazil,CONMEBOL,Shakhtar Donetsk,Ukrainian_PremierLeague,146.2,alisson_BRA
+Antony,FW,Right_Winger,25,Brazil,CONMEBOL,Manchester United,PremierLeague,568.8,antony_BRA
+Antony,FW,Left_Winger,23,Brazil,CONMEBOL,Portland Timbers,MLS,81.2,antony_BRA
+Bernardo,DF,Centre_Back,30,Brazil,CONMEBOL,TSG 1899 Hoffenheim,Bundesliga,89.4,bernardo_BRA
+Bernardo,GK,Goalkeeper,23,Brazil,CONMEBOL,CD Tondela,Liga_Portugal,24.4,bernardo_BRA
+Danilo,MF,Defensive_Midfielder,24,Brazil,CONMEBOL,Botafogo de Futebol e Regatas,Brasileiro_SerieA,455.0,danilo_BRA
+Danilo,DF,Centre_Back,34,Brazil,CONMEBOL,CR Flamengo,Brasileiro_SerieA,56.9,danilo_BRA
+Danilo,FW,Striker,26,Brazil,CONMEBOL,Rangers FC,Scottish_Premiership,32.5,danilo_BRA
+Ederson,MF,Central_Midfielder,26,Brazil,CONMEBOL,Atalanta BC,Serie_A,812.5,ederson_BRA
+Ederson,GK,Goalkeeper,31,Brazil,CONMEBOL,Manchester City,PremierLeague,325.0,ederson_BRA
+Fabinho,MF,Defensive_Midfielder,31,Brazil,CONMEBOL,Al-Ittihad Club,Saudi_ProLeague,243.8,fabinho_BRA
+Fabinho,MF,Defensive_Midfielder,23,Brazil,CONMEBOL,Red Bull Bragantino,Brasileiro_SerieA,81.2,fabinho_BRA
+Gabriel Pereira,FW,Right_Winger,23,Brazil,CONMEBOL,Al-Rayyan SC,QSL,97.5,gabrielpereira_BRA
+Gabriel Pereira,DF,Centre_Back,25,Brazil,CONMEBOL,FC Copenhagen,Danish_Superligaen,97.5,gabrielpereira_BRA
+Idrissa Gueye,FW,Striker,18,Senegal,CAF,FC Metz,Ligue1,65.0,idrissagueye_SEN
+Idrissa Gueye,MF,Defensive_Midfielder,35,Senegal,CAF,Everton FC,PremierLeague,24.4,idrissagueye_SEN
+Joao Paulo,GK,Goalkeeper,30,Brazil,CONMEBOL,Santos FC,Brasileiro_SerieA,40.6,joaopaulo_BRA
+Joao Paulo,MF,Central_Midfielder,34,Brazil,CONMEBOL,Seattle Sounders FC,MLS,13.0,joaopaulo_BRA
+Marquinhos,DF,Centre_Back,31,Brazil,CONMEBOL,Paris Saint-Germain,Ligue1,568.8,marquinhos_BRA
+Marquinhos,FW,Left_Winger,25,Brazil,CONMEBOL,Spartak Moscow,Russian_PremierLiga,97.5,marquinhos_BRA
+Marquinhos,FW,Right_Winger,22,Brazil,CONMEBOL,Cruzeiro Esporte Clube,Brasileiro_SerieA,89.4,marquinhos_BRA
+Matheus Cunha,FW,Striker,26,Brazil,CONMEBOL,Manchester United,PremierLeague,975.0,matheuscunha_BRA
+Matheus Cunha,GK,Goalkeeper,24,Brazil,CONMEBOL,CR Flamengo,Brasileiro_SerieA,48.8,matheuscunha_BRA
+Mohamed Bamba,FW,Striker,23,Cote d'Ivoire,CAF,FC Lorient,Ligue1,81.2,mohamedbamba_COT
+Mohamed Bamba,MF,Defensive_Midfielder,20,Cote d'Ivoire,CAF,Gil Vicente FC,Liga_Portugal,48.8,mohamedbamba_COT
+Pedro Henrique,FW,Striker,28,Brazil,CONMEBOL,Yunnan Yukun,Chinese_SuperLeague,21.1,pedrohenrique_BRA
+Pedro Henrique,FW,Right_Winger,35,Brazil,CONMEBOL,Ceará Sporting Club,Brasileiro_SerieA,9.8,pedrohenrique_BRA
+Romulo,FW,Striker,23,Brazil,CONMEBOL,Göztepe,SuperLig,178.8,romulo_BRA
+Romulo,MF,Defensive_Midfielder,25,Brazil,CONMEBOL,Tigres UANL,Liga_MX,65.0,romulo_BRA
+Romulo,MF,Attacking_Midfielder,29,Brazil,CONMEBOL,Chengdu Rongcheng,Chinese_SuperLeague,32.5,romulo_BRA
+Vitinha,MF,Central_Midfielder,25,Portugal,UEFA,Paris Saint-Germain,Ligue1,1300.0,vitinha_POR
+Vitinha,FW,Striker,25,Portugal,UEFA,Genoa CFC,Serie_A,130.0,vitinha_POR
+Vitinho,FW,Left_Winger,26,Brazil,CONMEBOL,Sport Club Internacional,Brasileiro_SerieA,121.9,vitinho_BRA
+Vitinho,DF,Right_Back,26,Brazil,CONMEBOL,Botafogo de Futebol e Regatas,Brasileiro_SerieA,97.5,vitinho_BRA
+Vitinho,FW,Right_Winger,24,Brazil,CONMEBOL,Club Tijuana,Liga_MX,48.8,vitinho_BRA

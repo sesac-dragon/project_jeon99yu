@@ -100,7 +100,7 @@ Jamie Gittens,FW,Left_Winger,20,England,UEFA,Chelsea FC,PremierLeague,812.5
 Jarrad Branthwaite,DF,Centre_Back,23,England,UEFA,Everton FC,PremierLeague,812.5
 Micky van de Ven,DF,Centre_Back,24,Netherlands,UEFA,Tottenham Hotspur,PremierLeague,812.5
 Samu Aghehowa,FW,Striker,21,Spain,UEFA,FC Porto,Liga_Portugal,812.5
-Kenan Yildiz,FW,Left_Winger,20,Türkiye,UEFA,Juventus FC,Serie_A,812.5
+Kenan Yildiz,FW,Left_Winger,20,Turkey,UEFA,Juventus FC,Serie_A,812.5
 Christian Pulisic,FW,Right_Winger,26,United States,CONCACAF,AC Milan,Serie_A,812.5
 Savinho,FW,Right_Winger,21,Brazil,CONMEBOL,Manchester City,PremierLeague,812.5
 Joao Pedro,FW,Striker,23,Brazil,CONMEBOL,Chelsea FC,PremierLeague,812.5
@@ -117,7 +117,7 @@ Marcus Rashford,FW,Left_Winger,27,England,UEFA,FC Barcelona,LaLiga,812.5
 Jeremie Frimpong,DF,Right_Back,24,Netherlands,UEFA,Liverpool FC,PremierLeague,812.5
 Bruno Fernandes,MF,Attacking_Midfielder,30,Portugal,UEFA,Manchester United,PremierLeague,812.5
 Nicolas Jackson,FW,Striker,24,Senegal,CAF,Chelsea FC,PremierLeague,812.5
-Arda Guler,FW,Right_Winger,20,Türkiye,UEFA,Real Madrid,LaLiga,731.2
+Arda Guler,FW,Right_Winger,20,Turkey,UEFA,Real Madrid,LaLiga,731.2
 Adam Wharton,MF,Defensive_Midfielder,21,England,UEFA,Crystal Palace,PremierLeague,731.2
 Serhou Guirassy,FW,Striker,29,Guinea,CAF,Borussia Dortmund,Bundesliga,731.2
 Darwin Nunez,FW,Striker,26,Uruguay,CONMEBOL,Liverpool FC,PremierLeague,731.2
@@ -261,7 +261,7 @@ Randal Kolo Muani,FW,Striker,26,France,UEFA,Paris Saint-Germain,Ligue1,487.5
 Moussa Diaby,FW,Right_Winger,26,France,UEFA,Al-Ittihad Club,Saudi_ProLeague,487.5
 Matias Soule,FW,Right_Winger,22,Argentina,CONMEBOL,AS Roma,Serie_A,487.5
 Pervis Estupinan,DF,Left_Back,27,Ecuador,CONMEBOL,AC Milan,Serie_A,487.5
-Hakan Calhanoglu,MF,Defensive_Midfielder,31,Türkiye,UEFA,Inter Milan,Serie_A,487.5
+Hakan Calhanoglu,MF,Defensive_Midfielder,31,Turkey,UEFA,Inter Milan,Serie_A,487.5
 Diogo Dalot,DF,Right_Back,26,Portugal,UEFA,Manchester United,PremierLeague,487.5
 Kingsley Coman,FW,Left_Winger,29,France,UEFA,Bayern Munich,Bundesliga,487.5
 Yeremy Pino,FW,Right_Winger,22,Spain,UEFA,Villarreal CF,LaLiga,487.5
@@ -284,7 +284,7 @@ Jonathan Tah,DF,Centre_Back,29,Germany,UEFA,Bayern Munich,Bundesliga,487.5
 Tom Bischof,MF,Central_Midfielder,20,Germany,UEFA,Bayern Munich,Bundesliga,487.5
 Bart Verbruggen,GK,Goalkeeper,22,Netherlands,UEFA,Brighton & Hove Albion,PremierLeague,487.5
 Pedro Goncalves,FW,Left_Winger,27,Portugal,UEFA,Sporting CP,Liga_Portugal,487.5
-Orkun Kokcu,MF,Central_Midfielder,24,Türkiye,UEFA,Besiktas JK,SuperLig,487.5
+Orkun Kokcu,MF,Central_Midfielder,24,Turkey,UEFA,Besiktas JK,SuperLig,487.5
 Quinten Timber,MF,Central_Midfielder,24,Netherlands,UEFA,Feyenoord Rotterdam,Eredivisie,487.5
 Jean-Philippe Mateta,FW,Striker,28,France,UEFA,Crystal Palace,PremierLeague,487.5
 Alejandro Grimaldo,DF,Left_Back,29,Spain,UEFA,Bayer 04 Leverkusen,Bundesliga,487.5
@@ -402,7 +402,7 @@ Tyrick Mitchell,DF,Left_Back,25,England,UEFA,Crystal Palace,PremierLeague,406.2
 Renato Veiga,DF,Centre_Back,21,Portugal,UEFA,Chelsea FC,PremierLeague,406.2
 Evan Ferguson,FW,Striker,20,Ireland,UEFA,AS Roma,Serie_A,406.2
 Callum Hudson-Odoi,FW,Left_Winger,24,England,UEFA,Nottingham Forest,PremierLeague,406.2
-Ferdi Kadioglu,DF,Left_Back,25,Türkiye,UEFA,Brighton & Hove Albion,PremierLeague,406.2
+Ferdi Kadioglu,DF,Left_Back,25,Turkey,UEFA,Brighton & Hove Albion,PremierLeague,406.2
 Pietro Comuzzo,DF,Centre_Back,20,Italy,UEFA,ACF Fiorentina,Serie_A,406.2
 Matty Cash,DF,Right_Back,27,Poland,UEFA,Aston Villa,PremierLeague,406.2
 Mats Wieffer,MF,Defensive_Midfielder,25,Netherlands,UEFA,Brighton & Hove Albion,PremierLeague,406.2
@@ -436,7 +436,7 @@ Paul Nebel,MF,Attacking_Midfielder,22,Germany,UEFA,1.FSV Mainz 05,Bundesliga,390
 Josip Sutalo,DF,Centre_Back,25,Croatia,UEFA,Ajax Amsterdam,Eredivisie,390.0
 Jack Hinshelwood,MF,Central_Midfielder,20,England,UEFA,Brighton & Hove Albion,PremierLeague,390.0
 Gianluca Scamacca,FW,Striker,26,Italy,UEFA,Atalanta BC,Serie_A,390.0
-Kerem Akturkoglu,FW,Left_Winger,26,Türkiye,UEFA,SL Benfica,Liga_Portugal,390.0
+Kerem Akturkoglu,FW,Left_Winger,26,Turkey,UEFA,SL Benfica,Liga_Portugal,390.0
 Raoul Bellanova,MF,Side_Midfielder,25,Italy,UEFA,Atalanta BC,Serie_A,390.0
 Dodo,DF,Right_Back,26,Brazil,CONMEBOL,ACF Fiorentina,Serie_A,390.0
 Mohamed Simakan,DF,Centre_Back,25,France,UEFA,Al-Nassr FC,Saudi_ProLeague,373.8
@@ -492,7 +492,7 @@ Pepe,FW,Right_Winger,28,Brazil,CONMEBOL,FC Porto,Liga_Portugal,357.5
 Malcom,MF,Attacking_Midfielder,28,Brazil,CONMEBOL,Al-Hilal SFC,Saudi_ProLeague,357.5
 Lamine Camara,MF,Central_Midfielder,21,Senegal,CAF,AS Monaco,Ligue1,357.5
 Chrislain Matsima,DF,Centre_Back,23,France,UEFA,FC Augsburg,Bundesliga,357.5
-Baris Alper Yilmaz,FW,Left_Winger,25,Türkiye,UEFA,Galatasaray,SuperLig,341.2
+Baris Alper Yilmaz,FW,Left_Winger,25,Turkey,UEFA,Galatasaray,SuperLig,341.2
 Riqui Puig,MF,Central_Midfielder,25,Spain,UEFA,Los Angeles Galaxy,MLS,325.0
 Dean Henderson,GK,Goalkeeper,28,England,UEFA,Crystal Palace,PremierLeague,325.0
 Aleix Garcia,MF,Central_Midfielder,28,Spain,UEFA,Bayer 04 Leverkusen,Bundesliga,325.0
@@ -608,7 +608,7 @@ Gabri Veiga,MF,Attacking_Midfielder,23,Spain,UEFA,FC Porto,Liga_Portugal,292.5
 Emmanuel Latte Lath,FW,Striker,26,Cote d'Ivoire,CAF,Atlanta United FC,MLS,292.5
 Jake O'Brien,DF,Right_Back,24,Ireland,UEFA,Everton FC,PremierLeague,292.5
 Nico O'Reilly,MF,Attacking_Midfielder,20,England,UEFA,Manchester City,PremierLeague,292.5
-Can Uzun,MF,Attacking_Midfielder,19,Türkiye,UEFA,Eintracht Frankfurt,Bundesliga,292.5
+Can Uzun,MF,Attacking_Midfielder,19,Turkey,UEFA,Eintracht Frankfurt,Bundesliga,292.5
 El Chadaille Bitshiabu,DF,Centre_Back,20,France,UEFA,RB Leipzig,Bundesliga,292.5
 Michael Kayode,DF,Right_Back,21,Italy,UEFA,Brentford FC,PremierLeague,292.5
 Paul Wanner,MF,Attacking_Midfielder,19,Germany,UEFA,Bayern Munich,Bundesliga,292.5
@@ -830,7 +830,7 @@ Andreas Skov Olsen,FW,Right_Winger,25,Denmark,UEFA,VfL Wolfsburg,Bundesliga,227.
 Troy Parrott,FW,Striker,23,Ireland,UEFA,AZ Alkmaar,Eredivisie,227.5
 Maksim Glushenkov,FW,Striker,25,Russia,UEFA,Zenit St. Petersburg,Russian_PremierLiga,227.5
 Hugo Duro,FW,Striker,25,Spain,UEFA,Valencia CF,LaLiga,227.5
-Yunus Akgun,FW,Right_Winger,25,Türkiye,UEFA,Galatasaray,SuperLig,227.5
+Yunus Akgun,FW,Right_Winger,25,Turkey,UEFA,Galatasaray,SuperLig,227.5
 Manor Solomon,FW,Left_Winger,26,Israel,UEFA,Tottenham Hotspur,PremierLeague,227.5
 Eljif Elmas,FW,Left_Winger,25,North Macedonia,UEFA,RB Leipzig,Bundesliga,227.5
 Joakim Maehle,DF,Left_Back,28,Denmark,UEFA,VfL Wolfsburg,Bundesliga,227.5
@@ -897,7 +897,7 @@ Reo Hatate,MF,Central_Midfielder,27,Japan,AFC,Celtic FC,Scottish_Premiership,211
 Hidemasa Morita,MF,Central_Midfielder,30,Japan,AFC,Sporting CP,Liga_Portugal,211.2
 Kenny Tete,DF,Right_Back,29,Netherlands,UEFA,Fulham FC,PremierLeague,211.2
 Matte Smets,DF,Centre_Back,21,Belgium,UEFA,KRC Genk,Jupiler_ProLeague,211.2
-Merih Demiral,DF,Centre_Back,27,Türkiye,UEFA,Al-Ahli SFC,Saudi_ProLeague,211.2
+Merih Demiral,DF,Centre_Back,27,Turkey,UEFA,Al-Ahli SFC,Saudi_ProLeague,211.2
 Jayden Oosterwolde,DF,Left_Back,24,Netherlands,UEFA,Fenerbahce,SuperLig,211.2
 Flynn Downes,MF,Defensive_Midfielder,26,England,UEFA,Southampton FC,Championship,211.2
 Nicolo Savona,DF,Right_Back,22,Italy,UEFA,Juventus FC,Serie_A,195.0
@@ -949,7 +949,7 @@ Ezequiel Fernandez,MF,Defensive_Midfielder,23,Argentina,CONMEBOL,Al-Qadsiah FC,S
 Kevin Lomonaco,DF,Centre_Back,23,Argentina,CONMEBOL,CA Independiente,Liga_Profesional,195.0
 Mauro Arambarri,MF,Central_Midfielder,29,Uruguay,CONMEBOL,Getafe CF,LaLiga,195.0
 Maximo Perrone,MF,Defensive_Midfielder,22,Argentina,CONMEBOL,Como 1907,Serie_A,195.0
-Yusuf Akcicek,DF,Centre_Back,19,Türkiye,UEFA,Fenerbahce,SuperLig,195.0
+Yusuf Akcicek,DF,Centre_Back,19,Turkey,UEFA,Fenerbahce,SuperLig,195.0
 Jhon Cordoba,FW,Striker,32,Colombia,CONMEBOL,FC Krasnodar,Russian_PremierLiga,195.0
 Albian Hajdari,DF,Centre_Back,22,Switzerland,UEFA,FC Lugano,Swiss_SuperLeague,195.0
 Daniel Svensson,DF,Left_Back,23,Sweden,UEFA,Borussia Dortmund,Bundesliga,195.0
@@ -983,7 +983,7 @@ Charalampos Kostoulas,FW,Striker,18,Greece,UEFA,Brighton & Hove Albion,PremierLe
 Marcus Edwards,FW,Right_Winger,26,England,UEFA,Burnley FC,PremierLeague,195.0
 Ko Itakura,DF,Centre_Back,28,Japan,AFC,Borussia Mönchengladbach,Bundesliga,195.0
 Eliezer Mayenda,FW,Striker,20,Spain,UEFA,Sunderland AFC,PremierLeague,195.0
-Semih Kilicsoy,FW,Striker,19,Türkiye,UEFA,Besiktas JK,SuperLig,195.0
+Semih Kilicsoy,FW,Striker,19,Turkey,UEFA,Besiktas JK,SuperLig,195.0
 Adam Armstrong,FW,Striker,28,England,UEFA,Southampton FC,Championship,195.0
 Robin Hack,FW,Left_Winger,26,Germany,UEFA,Borussia Mönchengladbach,Bundesliga,195.0
 Jonas Urbig,GK,Goalkeeper,21,Germany,UEFA,Bayern Munich,Bundesliga,195.0
@@ -1012,7 +1012,7 @@ Daniel Braganca,MF,Central_Midfielder,26,Portugal,UEFA,Sporting CP,Liga_Portugal
 Jens Cajuste,MF,Defensive_Midfielder,25,Sweden,UEFA,SSC Napoli,Serie_A,195.0
 Hwang Hee Chan,FW,Striker,29,"Korea, South",AFC,Wolverhampton Wanderers,PremierLeague,195.0
 Corentin Tolisso,MF,Central_Midfielder,30,France,UEFA,Olympique Lyon,Ligue1,195.0
-Atakan Karazor,MF,Defensive_Midfielder,28,Türkiye,UEFA,VfB Stuttgart,Bundesliga,195.0
+Atakan Karazor,MF,Defensive_Midfielder,28,Turkey,UEFA,VfB Stuttgart,Bundesliga,195.0
 Granit Xhaka,MF,Defensive_Midfielder,32,Switzerland,UEFA,Bayer 04 Leverkusen,Bundesliga,195.0
 Guus Til,MF,Attacking_Midfielder,27,Netherlands,UEFA,PSV Eindhoven,Eredivisie,195.0
 Jakub Moder,MF,Central_Midfielder,26,Poland,UEFA,Feyenoord Rotterdam,Eredivisie,195.0
@@ -1043,7 +1043,7 @@ Yukinari Sugawara,DF,Right_Back,25,Japan,AFC,Southampton FC,Championship,178.8
 Jarne Steuckers,FW,Right_Winger,23,Belgium,UEFA,KRC Genk,Jupiler_ProLeague,178.8
 Tariq Lamptey,DF,Right_Back,24,Ghana,CAF,Brighton & Hove Albion,PremierLeague,178.8
 Issahaku Fatawu,FW,Right_Winger,21,Ghana,CAF,Leicester City,Championship,178.8
-Oguz Aydin,FW,Left_Winger,24,Türkiye,UEFA,Fenerbahce,SuperLig,178.8
+Oguz Aydin,FW,Left_Winger,24,Turkey,UEFA,Fenerbahce,SuperLig,178.8
 Jay Stansfield,FW,Striker,22,England,UEFA,Birmingham City,Championship,178.8
 Alvaro Morata,FW,Striker,32,Spain,UEFA,Galatasaray,SuperLig,178.8
 Yacine Adli,MF,Defensive_Midfielder,24,France,UEFA,AC Milan,Serie_A,178.8
@@ -1051,7 +1051,7 @@ Albert Gronbaek,MF,Attacking_Midfielder,24,Denmark,UEFA,Genoa CFC,Serie_A,178.8
 Christos Zafeiris,MF,Central_Midfielder,22,Greece,UEFA,SK Slavia Prague,Chance_Liga,178.8
 Koki Machida,DF,Centre_Back,27,Japan,AFC,TSG 1899 Hoffenheim,Bundesliga,178.8
 Aleksandar Stankovic,MF,Defensive_Midfielder,19,Serbia,UEFA,Club Brugge KV,Jupiler_ProLeague,178.8
-Ismail Yuksek,MF,Defensive_Midfielder,26,Türkiye,UEFA,Fenerbahce,SuperLig,178.8
+Ismail Yuksek,MF,Defensive_Midfielder,26,Turkey,UEFA,Fenerbahce,SuperLig,178.8
 Bryan Heynen,MF,Central_Midfielder,28,Belgium,UEFA,KRC Genk,Jupiler_ProLeague,178.8
 Christian Norgaard,MF,Defensive_Midfielder,31,Denmark,UEFA,Arsenal FC,PremierLeague,178.8
 Mykola Shaparenko,MF,Central_Midfielder,26,Ukraine,UEFA,Dynamo Kyiv,Ukrainian_PremierLeague,178.8
@@ -1172,7 +1172,7 @@ Santiago Bueno,DF,Centre_Back,26,Uruguay,CONMEBOL,Wolverhampton Wanderers,Premie
 David Brooks,FW,Right_Winger,28,Wales,UEFA,AFC Bournemouth,PremierLeague,162.5
 Youssoufa Moukoko,FW,Striker,20,Germany,UEFA,FC Copenhagen,Danish_Superligaen,162.5
 Valentin Gomez,DF,Centre_Back,22,Argentina,CONMEBOL,Real Betis Balompié,LaLiga,162.5
-Enes Unal,FW,Striker,28,Türkiye,UEFA,AFC Bournemouth,PremierLeague,162.5
+Enes Unal,FW,Striker,28,Turkey,UEFA,AFC Bournemouth,PremierLeague,162.5
 Guilherme Arana,DF,Left_Back,28,Brazil,CONMEBOL,Clube Atlético Mineiro,Brasileiro_SerieA,162.5
 Francesco Camarda,FW,Striker,17,Italy,UEFA,US Lecce,Serie_A,162.5
 Tyrique George,FW,Left_Winger,19,England,UEFA,Chelsea FC,PremierLeague,162.5
@@ -1212,7 +1212,7 @@ Niclas Fullkrug,FW,Striker,32,Germany,UEFA,West Ham United,PremierLeague,162.5
 Raheem Sterling,FW,Right_Winger,30,England,UEFA,Chelsea FC,PremierLeague,162.5
 Andrea Colpani,MF,Attacking_Midfielder,26,Italy,UEFA,AC Monza,Serie_B,154.4
 Diego Carlos,DF,Centre_Back,32,Brazil,CONMEBOL,Fenerbahce,SuperLig,154.4
-Ugurcan Cakir,GK,Goalkeeper,29,Türkiye,UEFA,Trabzonspor,SuperLig,154.4
+Ugurcan Cakir,GK,Goalkeeper,29,Turkey,UEFA,Trabzonspor,SuperLig,154.4
 Lorenzo Pellegrini,MF,Attacking_Midfielder,29,Italy,UEFA,AS Roma,Serie_A,146.2
 Valentin Rongier,MF,Central_Midfielder,30,France,UEFA,Stade Rennais FC,Ligue1,146.2
 Kevin Zenon,FW,Left_Winger,23,Argentina,CONMEBOL,CA Boca Juniors,Liga_Profesional,146.2
@@ -1299,7 +1299,7 @@ Diego Rossi,MF,Attacking_Midfielder,27,Uruguay,CONMEBOL,Columbus Crew,MLS,138.1
 Sebastiano Esposito,FW,Striker,23,Italy,UEFA,Inter Milan,Serie_A,138.1
 Sandi Lovric,MF,Central_Midfielder,27,Slovenia,UEFA,Udinese Calcio,Serie_A,138.1
 Amine Harit,MF,Attacking_Midfielder,28,Morocco,CAF,Olympique Marseille,Ligue1,130.0
-Altay Bayindir,GK,Goalkeeper,27,Türkiye,UEFA,Manchester United,PremierLeague,130.0
+Altay Bayindir,GK,Goalkeeper,27,Turkey,UEFA,Manchester United,PremierLeague,130.0
 Inaki Pena,GK,Goalkeeper,26,Spain,UEFA,FC Barcelona,LaLiga,130.0
 Geronimo Rulli,GK,Goalkeeper,33,Argentina,CONMEBOL,Olympique Marseille,Ligue1,130.0
 Yerson Mosquera,DF,Centre_Back,24,Colombia,CONMEBOL,Wolverhampton Wanderers,PremierLeague,130.0
@@ -1431,7 +1431,7 @@ Jorthy Mokio,MF,Defensive_Midfielder,17,Belgium,UEFA,Ajax Amsterdam,Eredivisie,1
 Domenico Berardi,FW,Right_Winger,30,Italy,UEFA,US Sassuolo,Serie_A,130.0
 Callum Wilson,FW,Striker,33,England,UEFA,Without Club,Without_Club,130.0
 Andrija Zivkovic,FW,Right_Winger,29,Serbia,UEFA,PAOK Thessaloniki,SuperLeague1,130.0
-Eren Dinkci,FW,Right_Winger,23,Türkiye,UEFA,SC Freiburg,Bundesliga,130.0
+Eren Dinkci,FW,Right_Winger,23,Turkey,UEFA,SC Freiburg,Bundesliga,130.0
 Ante Crnac,FW,Striker,21,Croatia,UEFA,Norwich City,Championship,130.0
 Oliver Scarles,DF,Left_Back,19,England,UEFA,West Ham United,PremierLeague,130.0
 Lukas Ullrich,DF,Left_Back,21,Germany,UEFA,Borussia Mönchengladbach,Bundesliga,130.0
@@ -1479,7 +1479,7 @@ Ameen Al-Dakhil,DF,Centre_Back,23,Belgium,UEFA,VfB Stuttgart,Bundesliga,121.9
 Marash Kumbulla,DF,Centre_Back,25,Albania,UEFA,AS Roma,Serie_A,121.9
 Javi Lopez,DF,Left_Back,23,Spain,UEFA,Real Sociedad,LaLiga,121.9
 Yarek Gasiorowski,DF,Centre_Back,20,Spain,UEFA,PSV Eindhoven,Eredivisie,121.9
-Yasin Ozcan,DF,Centre_Back,19,Türkiye,UEFA,Aston Villa,PremierLeague,121.9
+Yasin Ozcan,DF,Centre_Back,19,Turkey,UEFA,Aston Villa,PremierLeague,121.9
 Mateusz Bogusz,MF,Attacking_Midfielder,23,Poland,UEFA,CD Cruz Azul,Liga_MX,121.9
 Daniel Boloca,MF,Defensive_Midfielder,26,Italy,UEFA,US Sassuolo,Serie_A,121.9
 Mady Camara,MF,Central_Midfielder,28,Guinea,CAF,PAOK Thessaloniki,SuperLeague1,121.9
@@ -1507,7 +1507,7 @@ Darius Olaru,MF,Attacking_Midfielder,27,Romania,UEFA,FCSB,Romaina_SuperLiga,121.
 Rafa Mujica,FW,Striker,26,Spain,UEFA,Al-Sadd SC,QSL,121.9
 Stanislav Agkatsev,GK,Goalkeeper,23,Russia,UEFA,FC Krasnodar,Russian_PremierLiga,121.9
 Diego Conde,GK,Goalkeeper,26,Spain,UEFA,Villarreal CF,LaLiga,121.9
-Cengiz Under,FW,Right_Winger,28,Türkiye,UEFA,Fenerbahce,SuperLig,121.9
+Cengiz Under,FW,Right_Winger,28,Turkey,UEFA,Fenerbahce,SuperLig,121.9
 Largie Ramazani,FW,Left_Winger,24,Belgium,UEFA,Leeds United,PremierLeague,121.9
 Tijjani Noslin,FW,Right_Winger,26,Netherlands,UEFA,SS Lazio,Serie_A,121.9
 Raul Moro,FW,Left_Winger,22,Spain,UEFA,Ajax Amsterdam,Eredivisie,121.9
@@ -1571,9 +1571,9 @@ Matej Jurasek,FW,Right_Winger,21,Czech Republic,UEFA,Norwich City,Championship,1
 Chiedozie Ogbene,FW,Right_Winger,28,Ireland,UEFA,Ipswich Town,Championship,113.8
 Karim Benzema,FW,Striker,37,France,UEFA,Al-Ittihad Club,Saudi_ProLeague,113.8
 Felix Uduokhai,DF,Centre_Back,27,Germany,UEFA,Besiktas JK,SuperLig,113.8
-Abdulkerim Bardakci,DF,Centre_Back,30,Türkiye,UEFA,Galatasaray,SuperLig,113.8
+Abdulkerim Bardakci,DF,Centre_Back,30,Turkey,UEFA,Galatasaray,SuperLig,113.8
 Przemyslaw Frankowski,DF,Right_Back,30,Poland,UEFA,Galatasaray,SuperLig,113.8
-Irfan Can Kahveci,FW,Right_Winger,30,Türkiye,UEFA,Fenerbahce,SuperLig,113.8
+Irfan Can Kahveci,FW,Right_Winger,30,Turkey,UEFA,Fenerbahce,SuperLig,113.8
 Calvin Stengs,MF,Attacking_Midfielder,26,Netherlands,UEFA,Feyenoord Rotterdam,Eredivisie,113.8
 Carlos Cuesta,DF,Centre_Back,26,Colombia,CONMEBOL,Galatasaray,SuperLig,113.8
 Santiago Ascacibar,MF,Defensive_Midfielder,28,Argentina,CONMEBOL,Club Estudiantes de La Plata,Liga_Profesional,113.8
@@ -1627,7 +1627,7 @@ Michel-Ange Balikwisha,FW,Left_Winger,24,Belgium,UEFA,Royal Antwerp FC,Jupiler_P
 Etienne Youte Kinkoue,DF,Centre_Back,23,France,UEFA,Le Havre AC,Ligue1,113.8
 Bashir Humphreys,DF,Left_Back,22,England,UEFA,Burnley FC,PremierLeague,113.8
 Elias Jelert,DF,Right_Back,22,Denmark,UEFA,Galatasaray,SuperLig,113.8
-Caglar Soyuncu,DF,Centre_Back,29,Türkiye,UEFA,Fenerbahce,SuperLig,113.8
+Caglar Soyuncu,DF,Centre_Back,29,Turkey,UEFA,Fenerbahce,SuperLig,113.8
 David Garcia,DF,Centre_Back,31,Spain,UEFA,Al-Rayyan SC,QSL,113.8
 Mario Hermoso,DF,Centre_Back,30,Spain,UEFA,AS Roma,Serie_A,113.8
 Mark McGuinness,DF,Centre_Back,24,Ireland,UEFA,Luton Town,League_One,113.8
@@ -1680,7 +1680,7 @@ Max Aarons,DF,Right_Back,25,England,UEFA,Rangers FC,Scottish_Premiership,97.5
 Tanner Tessmann,MF,Defensive_Midfielder,23,United States,CONCACAF,Olympique Lyon,Ligue1,97.5
 Dominik Greif,GK,Goalkeeper,28,Slovakia,UEFA,RCD Mallorca,LaLiga,97.5
 Radoslaw Majecki,GK,Goalkeeper,25,Poland,UEFA,AS Monaco,Ligue1,97.5
-Berke Ozer,GK,Goalkeeper,25,Türkiye,UEFA,Eyüpspor,SuperLig,97.5
+Berke Ozer,GK,Goalkeeper,25,Turkey,UEFA,Eyüpspor,SuperLig,97.5
 Filip Stankovic,GK,Goalkeeper,23,Serbia,UEFA,Venezia FC,Serie_B,97.5
 Tajon Buchanan,MF,Side_Midfielder,26,Canada,CONCACAF,Inter Milan,Serie_A,97.5
 Jorginho,MF,Defensive_Midfielder,33,Italy,UEFA,CR Flamengo,Brasileiro_SerieA,97.5
@@ -1749,7 +1749,7 @@ Vanja Vlahovic,FW,Striker,21,Serbia,UEFA,Spezia Calcio,Serie_B,97.5
 Danylo Sikan,FW,Striker,24,Ukraine,UEFA,Trabzonspor,SuperLig,97.5
 Sergio Canales,MF,Attacking_Midfielder,34,Spain,UEFA,CF Monterrey,Liga_MX,97.5
 Thomas Muller,FW,Striker,35,Germany,UEFA,Bayern Munich,Bundesliga,97.5
-Mert Muldur,DF,Right_Back,26,Türkiye,UEFA,Fenerbahce,SuperLig,97.5
+Mert Muldur,DF,Right_Back,26,Turkey,UEFA,Fenerbahce,SuperLig,97.5
 Tomas Pochettino,MF,Attacking_Midfielder,29,Argentina,CONMEBOL,Fortaleza Esporte Clube,Brasileiro_SerieA,97.5
 Alexandre Lacazette,FW,Striker,34,France,UEFA,NEOM SC,Saudi_ProLeague,97.5
 Mihajlo Cvetkovic,FW,Striker,18,Serbia,UEFA,RSC Anderlecht,Jupiler_ProLeague,97.5
@@ -1847,10 +1847,10 @@ Federico Pereira,DF,Centre_Back,25,Uruguay,CONMEBOL,Deportivo Toluca,Liga_MX,89.
 Salis Abdul Samed,MF,Defensive_Midfielder,25,Ghana,CAF,RC Lens,Ligue1,89.4
 Joao Marcelo,DF,Centre_Back,25,Brazil,CONMEBOL,Cruzeiro Esporte Clube,Brasileiro_SerieA,89.4
 Mario Mitaj,DF,Left_Back,21,Albania,UEFA,Al-Ittihad Club,Saudi_ProLeague,89.4
-Emirhan Topcu,DF,Centre_Back,24,Türkiye,UEFA,Besiktas JK,SuperLig,89.4
+Emirhan Topcu,DF,Centre_Back,24,Turkey,UEFA,Besiktas JK,SuperLig,89.4
 Martin Payero,MF,Central_Midfielder,26,Argentina,CONMEBOL,Udinese Calcio,Serie_A,89.4
 Bono,GK,Goalkeeper,34,Morocco,CAF,Al-Hilal SFC,Saudi_ProLeague,89.4
-Taha Altikardes,DF,Centre_Back,21,Türkiye,UEFA,Göztepe,SuperLig,89.4
+Taha Altikardes,DF,Centre_Back,21,Turkey,UEFA,Göztepe,SuperLig,89.4
 Lucas Verissimo,DF,Centre_Back,30,Brazil,CONMEBOL,Al-Wakrah SC,QSL,89.4
 Victor Davila,FW,Striker,27,Chile,CONMEBOL,CF América,Liga_MX,89.4
 Milton Delgado,MF,Defensive_Midfielder,20,Argentina,CONMEBOL,CA Boca Juniors,Liga_Profesional,89.4
@@ -1858,10 +1858,10 @@ Bernardo,DF,Centre_Back,30,Brazil,CONMEBOL,TSG 1899 Hoffenheim,Bundesliga,89.4
 Rodrigo Becao,DF,Centre_Back,29,Brazil,CONMEBOL,Fenerbahce,SuperLig,89.4
 Dejan Joveljic,FW,Striker,25,Serbia,UEFA,Sporting Kansas City,MLS,89.4
 Carlton Morris,FW,Striker,29,England,UEFA,Derby County,Championship,89.4
-Yusuf Yazici,MF,Attacking_Midfielder,28,Türkiye,UEFA,Olympiacos Piraeus,SuperLeague1,81.2
+Yusuf Yazici,MF,Attacking_Midfielder,28,Turkey,UEFA,Olympiacos Piraeus,SuperLeague1,81.2
 Chiquinho,MF,Attacking_Midfielder,30,Portugal,UEFA,Olympiacos Piraeus,SuperLeague1,81.2
 Panagiotis Retsos,DF,Centre_Back,26,Greece,UEFA,Olympiacos Piraeus,SuperLeague1,81.2
-Dogucan Haspolat,MF,Defensive_Midfielder,25,Türkiye,UEFA,KVC Westerlo,Jupiler_ProLeague,81.2
+Dogucan Haspolat,MF,Defensive_Midfielder,25,Turkey,UEFA,KVC Westerlo,Jupiler_ProLeague,81.2
 Killian Sardella,DF,Right_Back,23,Belgium,UEFA,RSC Anderlecht,Jupiler_ProLeague,81.2
 Carlos Rodriguez,MF,Defensive_Midfielder,28,Mexico,CONCACAF,CD Cruz Azul,Liga_MX,81.2
 Giorgi Kochorashvili,MF,Defensive_Midfielder,26,Georgia,UEFA,Sporting CP,Liga_Portugal,81.2
@@ -1886,7 +1886,7 @@ Fidel Ambriz,MF,Defensive_Midfielder,22,Mexico,CONCACAF,CF Monterrey,Liga_MX,81.
 Brian Gutierrez,MF,Attacking_Midfielder,22,United States,CONCACAF,Chicago Fire FC,MLS,81.2
 Maksim Osipenko,DF,Centre_Back,31,Russia,UEFA,Dynamo Moscow,Russian_PremierLiga,81.2
 Joao Batxi,FW,Left_Winger,27,Angola,CAF,FC Krasnodar,Russian_PremierLiga,81.2
-Ahmetcan Kaplan,DF,Centre_Back,22,Türkiye,UEFA,Ajax Amsterdam,Eredivisie,81.2
+Ahmetcan Kaplan,DF,Centre_Back,22,Turkey,UEFA,Ajax Amsterdam,Eredivisie,81.2
 Goncalo Borges,FW,Right_Winger,24,Portugal,UEFA,Feyenoord Rotterdam,Eredivisie,81.2
 Kian Fitz-Jim,MF,Central_Midfielder,22,Netherlands,UEFA,Ajax Amsterdam,Eredivisie,81.2
 Alassane Plea,FW,Striker,32,France,UEFA,PSV Eindhoven,Eredivisie,81.2
@@ -1914,10 +1914,10 @@ Pablo Garcia,FW,Right_Winger,19,Spain,UEFA,Betis Deportivo Balompié,Other_leagu
 Clement Bischoff,FW,Left_Winger,19,Denmark,UEFA,Bröndby IF,Danish_Superligaen,81.2
 Jahmai Simpson-Pusey,DF,Centre_Back,19,England,UEFA,Manchester City U21,Other_leagues,81.2
 Jeff Ekhator,FW,Striker,18,Italy,UEFA,Genoa CFC,Serie_A,81.2
-Eren Elmali,DF,Left_Back,25,Türkiye,UEFA,Galatasaray,SuperLig,81.2
+Eren Elmali,DF,Left_Back,25,Turkey,UEFA,Galatasaray,SuperLig,81.2
 N'Golo Kante,MF,Defensive_Midfielder,34,France,UEFA,Al-Ittihad Club,Saudi_ProLeague,81.2
 David Jurasek,DF,Left_Back,24,Czech Republic,UEFA,Besiktas JK,SuperLig,81.2
-Ahmed Kutucu,FW,Left_Winger,25,Türkiye,UEFA,Galatasaray,SuperLig,81.2
+Ahmed Kutucu,FW,Left_Winger,25,Turkey,UEFA,Galatasaray,SuperLig,81.2
 Derrick Kohn,DF,Left_Back,26,Germany,UEFA,Galatasaray,SuperLig,81.2
 Benjamin Andre,MF,Defensive_Midfielder,34,France,UEFA,LOSC Lille,Ligue1,81.2
 Pascal Gross,MF,Central_Midfielder,34,Germany,UEFA,Borussia Dortmund,Bundesliga,81.2
@@ -1955,7 +1955,7 @@ Anton Kade,MF,Side_Midfielder,21,Germany,UEFA,FC Basel 1893,Swiss_SuperLeague,81
 Cher Ndour,MF,Central_Midfielder,21,Italy,UEFA,ACF Fiorentina,Serie_A,81.2
 Antoni Kozubal,MF,Defensive_Midfielder,20,Poland,UEFA,Lech Poznan,Ekstraklasa,81.2
 Simone Pafundi,MF,Attacking_Midfielder,19,Italy,UEFA,Udinese Calcio,Serie_A,81.2
-Demir Ege Tiknaz,MF,Defensive_Midfielder,20,Türkiye,UEFA,Besiktas JK,SuperLig,81.2
+Demir Ege Tiknaz,MF,Defensive_Midfielder,20,Turkey,UEFA,Besiktas JK,SuperLig,81.2
 Kees Smit,MF,Central_Midfielder,19,Netherlands,UEFA,AZ Alkmaar,Eredivisie,81.2
 Milos Lukovic,FW,Striker,19,Serbia,UEFA,RC Strasbourg Alsace,Ligue1,81.2
 Inigo Martinez,DF,Centre_Back,34,Spain,UEFA,FC Barcelona,LaLiga,81.2
@@ -1993,7 +1993,7 @@ Arthur Melo,MF,Defensive_Midfielder,28,Brazil,CONMEBOL,Juventus FC,Serie_A,81.2
 Mohamed Kader Meite,FW,Striker,17,France,UEFA,Stade Rennais FC,Ligue1,81.2
 Ayden Heaven,DF,Centre_Back,18,England,UEFA,Manchester United,PremierLeague,81.2
 Honest Ahanor,DF,Left_Back,17,Italy,UEFA,Atalanta BC,Serie_A,81.2
-Mustafa Hekimoglu,FW,Striker,18,Türkiye,UEFA,Besiktas JK,SuperLig,81.2
+Mustafa Hekimoglu,FW,Striker,18,Turkey,UEFA,Besiktas JK,SuperLig,81.2
 Zachary Athekame,DF,Right_Back,20,Switzerland,UEFA,BSC Young Boys,Swiss_SuperLeague,81.2
 Edvin Austbo,FW,Left_Winger,20,Norway,UEFA,Viking FK,Eliteserien,81.2
 Ilan Kebbal,MF,Attacking_Midfielder,27,Algeria,CAF,Paris FC,Ligue1,81.2
@@ -2097,9 +2097,9 @@ Matias Galarza,MF,Defensive_Midfielder,23,Argentina,CONMEBOL,CA Talleres,Liga_Pr
 Giuliano Galoppo,MF,Central_Midfielder,26,Argentina,CONMEBOL,CA River Plate,Liga_Profesional,76.4
 Festy Ebosele,DF,Right_Back,22,Ireland,UEFA,Basaksehir FK,SuperLig,74.8
 Noah Adedeji-Sternberg,FW,Left_Winger,20,Belgium,UEFA,KRC Genk,Jupiler_ProLeague,73.1
-Isak Vural,MF,Central_Midfielder,19,Türkiye,UEFA,Pisa Sporting Club,Serie_A,73.1
+Isak Vural,MF,Central_Midfielder,19,Turkey,UEFA,Pisa Sporting Club,Serie_A,73.1
 Trey Nyoni,MF,Central_Midfielder,18,England,UEFA,Liverpool FC U21,Other_leagues,73.1
-Yunus Emre Konak,MF,Defensive_Midfielder,19,Türkiye,UEFA,Brentford FC,PremierLeague,73.1
+Yunus Emre Konak,MF,Defensive_Midfielder,19,Turkey,UEFA,Brentford FC,PremierLeague,73.1
 Felipe Carballo,MF,Central_Midfielder,28,Uruguay,CONMEBOL,Grêmio Foot-Ball Porto Alegrense,Brasileiro_SerieA,73.1
 Matej Sin,MF,Attacking_Midfielder,21,Czech Republic,UEFA,FC Banik Ostrava,Chance_Liga,73.1
 Bobby Clark,MF,Central_Midfielder,20,England,UEFA,Red Bull Salzburg,Austria_Bundesliga,73.1
@@ -2180,7 +2180,7 @@ Seol Young Woo,DF,Right_Back,26,"Korea, South",AFC,Red Star Belgrade,Superliga_S
 Nicolas Gimenez,MF,Attacking_Midfielder,29,United Arab Emirates,AFC,Al-Wasl FC,UAE_ProLeague,73.1
 Tatsuhiro Sakamoto,MF,Side_Midfielder,28,Japan,AFC,Coventry City,Championship,73.1
 Firas Al-Buraikan,FW,Striker,25,Saudi Arabia,AFC,Al-Ahli SFC,Saudi_ProLeague,73.1
-Berat Ozdemir,MF,Defensive_Midfielder,27,Türkiye,UEFA,Basaksehir FK,SuperLig,68.2
+Berat Ozdemir,MF,Defensive_Midfielder,27,Turkey,UEFA,Basaksehir FK,SuperLig,68.2
 Victor Hugo,MF,Attacking_Midfielder,21,Brazil,CONMEBOL,CR Flamengo,Brasileiro_SerieA,68.2
 Kacper Kozlowski,MF,Attacking_Midfielder,21,Poland,UEFA,Gaziantep FK,SuperLig,68.2
 Musab Al-Juwayr,MF,Central_Midfielder,22,Saudi Arabia,AFC,Al-Hilal SFC,Saudi_ProLeague,65.0
@@ -2220,7 +2220,7 @@ Maxi Oyedele,MF,Defensive_Midfielder,20,Poland,UEFA,RC Strasbourg Alsace,Ligue1,
 Love Arrhov,MF,Attacking_Midfielder,17,Sweden,UEFA,IF Brommapojkarna,Allsvenskan,65.0
 Louis Leroux,MF,Attacking_Midfielder,19,France,UEFA,FC Nantes,Ligue1,65.0
 Emmanuel Biumla,DF,Centre_Back,20,France,UEFA,Angers SCO,Ligue1,65.0
-Deniz Gul,FW,Striker,21,Türkiye,UEFA,FC Porto,Liga_Portugal,65.0
+Deniz Gul,FW,Striker,21,Turkey,UEFA,FC Porto,Liga_Portugal,65.0
 Qazim Laci,MF,Central_Midfielder,29,Albania,UEFA,Caykur Rizespor,SuperLig,65.0
 Dominik Schmid,DF,Left_Back,27,Switzerland,UEFA,FC Basel 1893,Swiss_SuperLeague,65.0
 Nikola Stulic,FW,Striker,23,Serbia,UEFA,Royal Charleroi SC,Jupiler_ProLeague,65.0
@@ -2294,7 +2294,7 @@ Glauber,DF,Centre_Back,25,United Arab Emirates,AFC,Al-Nasr SC (UAE),UAE_ProLeagu
 Liam Scales,DF,Centre_Back,26,Ireland,UEFA,Celtic FC,Scottish_Premiership,65.0
 John Souttar,DF,Centre_Back,28,Scotland,UEFA,Rangers FC,Scottish_Premiership,65.0
 Cyriel Dessers,FW,Striker,30,Nigeria,CAF,Rangers FC,Scottish_Premiership,65.0
-Kaan Ayhan,DF,Centre_Back,30,Türkiye,UEFA,Galatasaray,SuperLig,65.0
+Kaan Ayhan,DF,Centre_Back,30,Turkey,UEFA,Galatasaray,SuperLig,65.0
 Amadou Kone,MF,Defensive_Midfielder,20,Cote d'Ivoire,CAF,NEOM SC,Saudi_ProLeague,65.0
 Ayman El Wafi,DF,Centre_Back,21,Morocco,CAF,FC Lugano,Swiss_SuperLeague,65.0
 Peter Olayinka,FW,Left_Winger,29,Nigeria,CAF,Red Star Belgrade,Superliga_Srbjie,65.0
@@ -2427,7 +2427,7 @@ Ernest Poku,FW,Right_Winger,21,Netherlands,UEFA,AZ Alkmaar,Eredivisie,65.0
 Keke Topp,FW,Striker,21,Germany,UEFA,SV Werder Bremen,Bundesliga,65.0
 Ilyas Ansah,FW,Striker,20,Germany,UEFA,1.FC Union Berlin,Bundesliga,65.0
 Alexandru Mitrita,FW,Left_Winger,30,Romania,UEFA,Zhejiang FC,Chinese_SuperLeague,65.0
-Livan Burcu,FW,Left_Winger,20,Türkiye,UEFA,1.FC Union Berlin,Bundesliga,65.0
+Livan Burcu,FW,Left_Winger,20,Turkey,UEFA,1.FC Union Berlin,Bundesliga,65.0
 Cryzan,FW,Striker,29,Brazil,CONMEBOL,Shandong Taishan,Chinese_SuperLeague,65.0
 Cade Cowell,FW,Left_Winger,21,United States,CONCACAF,Deportivo Guadalajara,Liga_MX,65.0
 Divin Mubama,FW,Striker,20,England,UEFA,Stoke City,Championship,65.0
@@ -2444,13 +2444,13 @@ Juan Pablo Cozzani,GK,Goalkeeper,26,Argentina,CONMEBOL,Club Atlético Platense,L
 Tomas Marchiori,GK,Goalkeeper,30,Argentina,CONMEBOL,CA Vélez Sarsfield,Liga_Profesional,61.8
 Adonis Frias,DF,Centre_Back,27,Argentina,CONMEBOL,Club León FC,Liga_MX,61.8
 Rodrigo Echeverria,MF,Defensive_Midfielder,30,Chile,CONMEBOL,Club León FC,Liga_MX,61.8
-Yusuf Sari,FW,Right_Winger,26,Türkiye,UEFA,Basaksehir FK,SuperLig,61.8
+Yusuf Sari,FW,Right_Winger,26,Turkey,UEFA,Basaksehir FK,SuperLig,61.8
 Carlo Holse,MF,Attacking_Midfielder,26,Denmark,UEFA,Samsunspor,SuperLig,61.8
 Antonio Raimondo,FW,Striker,21,Italy,UEFA,Frosinone Calcio,Serie_B,61.8
 Sebastian Boselli,DF,Centre_Back,21,Uruguay,CONMEBOL,CA River Plate,Liga_Profesional,61.8
 Lautaro Blanco,DF,Left_Back,26,Argentina,CONMEBOL,CA Boca Juniors,Liga_Profesional,61.8
 Enzo Copetti,FW,Striker,29,Argentina,CONMEBOL,CA Rosario Central,Liga_Profesional,61.8
-Abdulkadir Omur,MF,Attacking_Midfielder,26,Türkiye,UEFA,Antalyaspor,SuperLig,58.5
+Abdulkadir Omur,MF,Attacking_Midfielder,26,Turkey,UEFA,Antalyaspor,SuperLig,58.5
 Ricardo Gomes,FW,Striker,33,Cabo Verde,CAF,Al-Khor SC,QSL,56.9
 Andrew Moran,MF,Attacking_Midfielder,21,Ireland,UEFA,Brighton & Hove Albion,PremierLeague,56.9
 Lennard Maloney,MF,Defensive_Midfielder,25,United States,CONCACAF,1.FSV Mainz 05,Bundesliga,56.9
@@ -2534,7 +2534,7 @@ Jorge Rodriguez,MF,Defensive_Midfielder,29,Argentina,CONMEBOL,CF Monterrey,Liga_
 Jhonder Cadiz,FW,Striker,29,Venezuela,CONMEBOL,CF Pachuca,Liga_MX,56.9
 Nicolas Fonseca,MF,Defensive_Midfielder,26,Uruguay,CONMEBOL,Club León FC,Liga_MX,56.9
 Rodrigo Dourado,MF,Defensive_Midfielder,31,Brazil,CONMEBOL,Atlético de San Luis,Liga_MX,56.9
-Cihan Canak,FW,Right_Winger,20,Türkiye,UEFA,Trabzonspor,SuperLig,56.9
+Cihan Canak,FW,Right_Winger,20,Turkey,UEFA,Trabzonspor,SuperLig,56.9
 Charlie Hughes,DF,Centre_Back,21,England,UEFA,Hull City,Championship,56.9
 Max Dean,FW,Striker,21,England,UEFA,KAA Gent,Jupiler_ProLeague,56.9
 Alemao,FW,Striker,27,Brazil,CONMEBOL,CF Pachuca,Liga_MX,56.9
@@ -2580,7 +2580,7 @@ Sander Tangvik,GK,Goalkeeper,22,Norway,UEFA,Rosenborg BK,Eliteserien,56.9
 Antonios Papadopoulos,DF,Centre_Back,25,Greece,UEFA,FC Lugano,Swiss_SuperLeague,56.9
 Uros Racic,MF,Defensive_Midfielder,27,Serbia,UEFA,Aris Thessaloniki,SuperLeague1,56.9
 Pascal Loretz,GK,Goalkeeper,22,Switzerland,UEFA,FC Luzern,Swiss_SuperLeague,56.9
-Ridvan Yilmaz,DF,Left_Back,24,Türkiye,UEFA,Rangers FC,Scottish_Premiership,56.9
+Ridvan Yilmaz,DF,Left_Back,24,Turkey,UEFA,Rangers FC,Scottish_Premiership,56.9
 Magnus Riisnaes,MF,Central_Midfielder,20,Norway,UEFA,FK Bodø/Glimt,Eliteserien,56.9
 Mahmoud Dahoud,MF,Central_Midfielder,29,Syria,AFC,Eintracht Frankfurt,Bundesliga,56.9
 Almoez Ali,FW,Striker,28,Qatar,AFC,Al-Duhail SC,QSL,56.9
@@ -2602,7 +2602,7 @@ Brandon Mechele,DF,Centre_Back,32,Belgium,UEFA,Club Brugge KV,Jupiler_ProLeague,
 Stelios Andreou,DF,Centre_Back,23,Cyprus,UEFA,Royal Charleroi SC,Jupiler_ProLeague,56.9
 Adrian Martinez,FW,Striker,33,Argentina,CONMEBOL,Racing Club,Liga_Profesional,56.9
 Tiago Palacios,FW,Right_Winger,24,Uruguay,CONMEBOL,Club Estudiantes de La Plata,Liga_Profesional,56.9
-Emin Bayram,DF,Centre_Back,22,Türkiye,UEFA,KVC Westerlo,Jupiler_ProLeague,56.9
+Emin Bayram,DF,Centre_Back,22,Turkey,UEFA,KVC Westerlo,Jupiler_ProLeague,56.9
 Nikolas Sattlberger,MF,Defensive_Midfielder,21,Austria,UEFA,KRC Genk,Jupiler_ProLeague,56.9
 Denil Castillo,MF,Central_Midfielder,21,Ecuador,CONMEBOL,FC Midtjylland,Danish_Superligaen,56.9
 Franco Ibarra,MF,Defensive_Midfielder,24,Argentina,CONMEBOL,CA Rosario Central,Liga_Profesional,56.9
@@ -2654,7 +2654,7 @@ Jacen Russell-Rowe,FW,Striker,22,Canada,CONCACAF,Columbus Crew,MLS,56.9
 Carlos Moreno,GK,Goalkeeper,27,Mexico,CONCACAF,CF Pachuca,Liga_MX,56.9
 Arbnor Muja,FW,Right_Winger,26,Albania,UEFA,Samsunspor,SuperLig,55.2
 Facundo Farias,MF,Attacking_Midfielder,22,Argentina,CONMEBOL,Club Estudiantes de La Plata,Liga_Profesional,53.6
-Berkan Kutlu,MF,Central_Midfielder,27,Türkiye,UEFA,Galatasaray,SuperLig,52.0
+Berkan Kutlu,MF,Central_Midfielder,27,Turkey,UEFA,Galatasaray,SuperLig,52.0
 Pantelis Hatzidiakos,DF,Centre_Back,28,Greece,UEFA,FC Copenhagen,Danish_Superligaen,52.0
 Aaron Quiros,DF,Centre_Back,23,Argentina,CONMEBOL,CA Vélez Sarsfield,Liga_Profesional,52.0
 Ulises Sanchez,FW,Right_Winger,27,Argentina,CONMEBOL,Club Atlético Belgrano,Liga_Profesional,52.0
@@ -2767,7 +2767,7 @@ Valentin Mihaila,FW,Left_Winger,25,Romania,UEFA,Caykur Rizespor,SuperLig,48.8
 Joe Mendes,DF,Right_Back,22,Sweden,UEFA,Samsunspor,SuperLig,48.8
 Bakhtiyor Zaynutdinov,DF,Left_Back,27,Kazakhstan,UEFA,Besiktas JK,SuperLig,48.8
 Leo Duarte,DF,Centre_Back,29,Brazil,CONMEBOL,Basaksehir FK,SuperLig,48.8
-Enis Destan,FW,Striker,23,Türkiye,UEFA,Trabzonspor,SuperLig,48.8
+Enis Destan,FW,Striker,23,Turkey,UEFA,Trabzonspor,SuperLig,48.8
 Carl Rushworth,GK,Goalkeeper,24,England,UEFA,Coventry City,Championship,48.8
 Cezary Miszta,GK,Goalkeeper,23,Poland,UEFA,Rio Ave FC,Liga_Portugal,48.8
 Zaid Romero,DF,Centre_Back,25,Argentina,CONMEBOL,Club Brugge KV,Jupiler_ProLeague,48.8
@@ -2820,7 +2820,7 @@ Gelson Martins,FW,Right_Winger,30,Portugal,UEFA,Olympiacos Piraeus,SuperLeague1,
 Lucas Vazquez,DF,Right_Back,34,Spain,UEFA,Without Club,Without_Club,48.8
 Francesco Acerbi,DF,Centre_Back,37,Italy,UEFA,Inter Milan,Serie_A,48.8
 Ibrahim Salah,FW,Left_Winger,23,Morocco,CAF,Stade Rennais FC,Ligue1,48.8
-Aral Simsir,FW,Left_Winger,23,Türkiye,UEFA,FC Midtjylland,Danish_Superligaen,48.8
+Aral Simsir,FW,Left_Winger,23,Turkey,UEFA,FC Midtjylland,Danish_Superligaen,48.8
 Marko Arnautovic,FW,Striker,36,Austria,UEFA,Red Star Belgrade,Superliga_Srbjie,48.8
 Georginio Wijnaldum,MF,Central_Midfielder,34,Netherlands,UEFA,Al-Ettifaq FC,Saudi_ProLeague,48.8
 William Clem,MF,Defensive_Midfielder,21,Denmark,UEFA,FC Copenhagen,Danish_Superligaen,48.8
@@ -2875,7 +2875,7 @@ Duncan McGuire,FW,Striker,24,United States,CONCACAF,Orlando City SC,MLS,45.5
 Max O'Leary,GK,Goalkeeper,28,Ireland,UEFA,Bristol City,Championship,45.5
 Kenneth Paal,DF,Left_Back,28,Suriname,CONCACAF,Antalyaspor,SuperLig,45.5
 Paul Bernardoni,GK,Goalkeeper,28,France,UEFA,Yverdon Sport FC,Other_leagues,45.5
-Irfan Can Egribayat,GK,Goalkeeper,27,Türkiye,UEFA,Fenerbahce,SuperLig,45.5
+Irfan Can Egribayat,GK,Goalkeeper,27,Turkey,UEFA,Fenerbahce,SuperLig,45.5
 Kamal Miller,DF,Centre_Back,28,Canada,CONCACAF,Portland Timbers,MLS,45.5
 Daryl Dike,FW,Striker,25,United States,CONCACAF,West Bromwich Albion,Championship,45.5
 Joao Costa,FW,Right_Winger,20,Portugal,UEFA,Al-Ettifaq FC,Saudi_ProLeague,45.5
@@ -3097,16 +3097,16 @@ Salim Diakite,DF,Right_Back,25,Mali,CAF,Palermo FC,Serie_B,35.8
 Naim Sliti,FW,Left_Winger,33,Tunisia,CAF,Al-Shamal SC,QSL,35.8
 Anatole Abang,FW,Striker,29,Cameroon,CAF,Al-Bataeh CSC,UAE_ProLeague,35.8
 Horatiu Moldovan,GK,Goalkeeper,27,Romania,UEFA,Real Oviedo,LaLiga,35.8
-Muhammed Sengezer,GK,Goalkeeper,28,Türkiye,UEFA,Basaksehir FK,SuperLig,35.8
+Muhammed Sengezer,GK,Goalkeeper,28,Turkey,UEFA,Basaksehir FK,SuperLig,35.8
 Matt Miazga,DF,Centre_Back,30,United States,CONCACAF,FC Cincinnati,MLS,35.8
 Abdelkahar Kadri,MF,Attacking_Midfielder,25,Algeria,CAF,KV Kortrijk,Other_leagues,35.8
 David Okereke,FW,Striker,27,Nigeria,CAF,US Cremonese,Serie_A,35.8
 Mehdi Leris,FW,Right_Winger,27,Algeria,CAF,Pisa Sporting Club,Serie_A,35.8
 Dean David,FW,Striker,29,Israel,UEFA,Yokohama F. Marinos,J1_League,35.8
-Deniz Hummet,FW,Striker,28,Türkiye,UEFA,Gamba Osaka,J1_League,35.8
+Deniz Hummet,FW,Striker,28,Turkey,UEFA,Gamba Osaka,J1_League,35.8
 Flavio,MF,Central_Midfielder,29,Brazil,CONMEBOL,Al-Taawoun FC,Saudi_ProLeague,35.8
 Marcus Meloni,DF,Right_Back,25,United Arab Emirates,AFC,Sharjah FC,UAE_ProLeague,35.8
-Okan Kocuk,GK,Goalkeeper,30,Türkiye,UEFA,Samsunspor,SuperLig,35.8
+Okan Kocuk,GK,Goalkeeper,30,Turkey,UEFA,Samsunspor,SuperLig,35.8
 Ciro Immobile,FW,Striker,35,Italy,UEFA,Bologna FC 1909,Serie_A,35.8
 Dusan Tadic,FW,Right_Winger,36,Serbia,UEFA,Without Club,Without_Club,35.8
 Ike Ugbo,FW,Striker,26,Canada,CONCACAF,Sheffield Wednesday,Championship,35.8
@@ -3235,7 +3235,7 @@ Peter Gulacsi,GK,Goalkeeper,35,Hungary,UEFA,RB Leipzig,Bundesliga,32.5
 Theodore Ku-DiPietro,MF,Attacking_Midfielder,23,United States,CONCACAF,Colorado Rapids,MLS,32.5
 Topi Keskinen,FW,Left_Winger,22,Finland,UEFA,Aberdeen FC,Scottish_Premiership,32.5
 Jiri Letacek,GK,Goalkeeper,26,Czech Republic,UEFA,Getafe CF,LaLiga,32.5
-Bilal Bayazit,GK,Goalkeeper,26,Türkiye,UEFA,Kayserispor,SuperLig,32.5
+Bilal Bayazit,GK,Goalkeeper,26,Turkey,UEFA,Kayserispor,SuperLig,32.5
 Facundo Sanguinetti,GK,Goalkeeper,24,Argentina,CONMEBOL,CA Banfield,Liga_Profesional,32.5
 Danilo,FW,Striker,26,Brazil,CONMEBOL,Rangers FC,Scottish_Premiership,32.5
 Joao Figueiredo,FW,Striker,29,Malaysia,AFC,Johor Darul Ta'zim,Other_leagues,32.5
@@ -3309,7 +3309,7 @@ Johannes Schenk,GK,Goalkeeper,22,Germany,UEFA,Preußen Münster,Bundesliga_2,29.
 Ahmad Noorollahi,MF,Central_Midfielder,32,Iran,AFC,Kalba FC,UAE_ProLeague,29.2
 Ronaldo,GK,Goalkeeper,28,Brazil,CONMEBOL,Esporte Clube Bahia,Brasileiro_SerieA,29.2
 Dani Cardenas,GK,Goalkeeper,28,Spain,UEFA,Rayo Vallecano,LaLiga,29.2
-Ersin Destanoglu,GK,Goalkeeper,24,Türkiye,UEFA,Besiktas JK,SuperLig,29.2
+Ersin Destanoglu,GK,Goalkeeper,24,Turkey,UEFA,Besiktas JK,SuperLig,29.2
 Jake Davis,DF,Right_Back,23,United States,CONCACAF,Sporting Kansas City,MLS,29.2
 Romain Saiss,DF,Centre_Back,35,Morocco,CAF,Al-Sadd SC,QSL,29.2
 Alessandro Nunziante,GK,Goalkeeper,18,Italy,UEFA,Benevento Calcio,Other_leagues,29.2
@@ -3595,7 +3595,7 @@ Akmal Mozgovoy,MF,Central_Midfielder,26,Uzbekistan,AFC,FC Baniyas,UAE_ProLeague,
 Amirhossein Hosseinzadeh,FW,Striker,24,Iran,AFC,Tractor FC,Persian_GulfProLeague,24.4
 Emmanuel Sabbi,FW,Right_Winger,27,United States,CONCACAF,Vancouver Whitecaps FC,MLS,24.4
 Darren Yapi,FW,Striker,20,United States,CONCACAF,Colorado Rapids,MLS,24.4
-Dogan Alemdar,GK,Goalkeeper,22,Türkiye,UEFA,Stade Rennais FC,Ligue1,24.4
+Dogan Alemdar,GK,Goalkeeper,22,Turkey,UEFA,Stade Rennais FC,Ligue1,24.4
 Cristopher Fiermarin,GK,Goalkeeper,27,Uruguay,CONMEBOL,Deportes Tolima,Liga_Dimayor,24.4
 Deandre Kerr,FW,Striker,22,Canada,CONCACAF,Toronto FC,MLS,24.4
 Jeremy Ebobisse,FW,Striker,28,United States,CONCACAF,Los Angeles FC,MLS,24.4
@@ -3866,10 +3866,10 @@ Philipp Max,DF,Left_Back,31,Germany,UEFA,Panathinaikos FC,SuperLeague1,16.2
 David Martinez,MF,Defensive_Midfielder,21,Argentina,CONMEBOL,Volos NPS,SuperLeague1,16.2
 Andrei Ivan,FW,Left_Winger,28,Romania,UEFA,Panserraikos,SuperLeague1,16.2
 Theocharis Tsingaras,MF,Central_Midfielder,24,Greece,UEFA,Atromitos Athens,SuperLeague1,16.2
-Mert Gunok,GK,Goalkeeper,36,Türkiye,UEFA,Besiktas JK,SuperLig,16.2
+Mert Gunok,GK,Goalkeeper,36,Turkey,UEFA,Besiktas JK,SuperLig,16.2
 Fedor Smolov,FW,Striker,35,Russia,UEFA,Without Club,Without_Club,16.2
 Edinson Cavani,FW,Striker,38,Uruguay,CONMEBOL,CA Boca Juniors,Liga_Profesional,16.2
-Cenk Tosun,FW,Striker,34,Türkiye,UEFA,Fenerbahce,SuperLig,16.2
+Cenk Tosun,FW,Striker,34,Turkey,UEFA,Fenerbahce,SuperLig,16.2
 Wojciech Szczesny,GK,Goalkeeper,35,Poland,UEFA,FC Barcelona,LaLiga,16.2
 Hugo Lloris,GK,Goalkeeper,38,France,UEFA,Los Angeles FC,MLS,16.2
 Igor Akinfeev,GK,Goalkeeper,39,Russia,UEFA,CSKA Moscow,Russian_PremierLiga,16.2
@@ -3979,7 +3979,7 @@ Mehdi Limouchi,FW,Left_Winger,25,Iran,AFC,Sepahan FC,Persian_GulfProLeague,16.2
 Jehad Thakri,DF,Centre_Back,24,Saudi Arabia,AFC,Al-Qadsiah FC,Saudi_ProLeague,16.2
 Yu Hirakawa,FW,Right_Winger,24,Japan,AFC,Bristol City,Championship,16.2
 Kim Bong Soo,MF,Central_Midfielder,25,"Korea, South",AFC,Daejeon Hana Citizen,K_League1,16.2
-Onuralp Cevikkan,GK,Goalkeeper,19,Türkiye,UEFA,Trabzonspor,SuperLig,16.2
+Onuralp Cevikkan,GK,Goalkeeper,19,Turkey,UEFA,Trabzonspor,SuperLig,16.2
 Pedro Morisco,GK,Goalkeeper,21,Brazil,CONMEBOL,Coritiba Foot Ball Club,Other_leagues,16.2
 Pablo Lara,GK,Goalkeeper,20,Mexico,CONCACAF,UNAM Pumas,Liga_MX,16.2
 Dimitar Mitov,GK,Goalkeeper,28,Bulgaria,UEFA,Aberdeen FC,Scottish_Premiership,16.2
@@ -3989,7 +3989,7 @@ Alex Palmer,GK,Goalkeeper,28,England,UEFA,Ipswich Town,Championship,16.2
 Mamadou Diop,GK,Goalkeeper,25,Mauritania,CAF,Grenoble Foot 38,Ligue2,16.2
 Alejandro Rodriguez,GK,Goalkeeper,24,Colombia,CONMEBOL,Deportivo Cali,Liga_Dimayor,16.2
 Hayato Tanaka,DF,Centre_Back,21,Japan,AFC,Kashiwa Reysol,J1_League,16.2
-Deniz Ertas,GK,Goalkeeper,20,Türkiye,UEFA,Konyaspor,SuperLig,16.2
+Deniz Ertas,GK,Goalkeeper,20,Turkey,UEFA,Konyaspor,SuperLig,16.2
 Aaron Escandell,GK,Goalkeeper,29,Spain,UEFA,Real Oviedo,LaLiga,16.2
 Rostislav Soldatenko,GK,Goalkeeper,28,Russia,UEFA,Torpedo Moscow,Other_leagues,16.2
 Andries Noppert,GK,Goalkeeper,31,Netherlands,UEFA,SC Heerenveen,Eredivisie,16.2
@@ -4018,7 +4018,7 @@ Bailey Peacock-Farrell,GK,Goalkeeper,28,Northern Ireland,UEFA,Blackpool FC,Leagu
 Caique Franca,GK,Goalkeeper,30,Brazil,CONMEBOL,Sport Club do Recife,Brasileiro_SerieA,16.2
 Sergey Volkov,GK,Goalkeeper,30,Russia,UEFA,Akron Togliatti,Russian_PremierLiga,16.2
 Ramiro Macagno,GK,Goalkeeper,28,Argentina,CONMEBOL,Without Club,Without_Club,16.2
-Deniz Donmezer,GK,Goalkeeper,16,Türkiye,UEFA,Adana Demirspor,Other_leagues,16.2
+Deniz Donmezer,GK,Goalkeeper,16,Turkey,UEFA,Adana Demirspor,Other_leagues,16.2
 Balsa Popovic,GK,Goalkeeper,25,Montenegro,UEFA,OFK Beograd,Superliga_Srbjie,16.2
 Jakub Stolarczyk,GK,Goalkeeper,24,Poland,UEFA,Leicester City,Championship,16.2
 Viljami Sinisalo,GK,Goalkeeper,23,Finland,UEFA,Celtic FC,Scottish_Premiership,16.2
@@ -4672,7 +4672,7 @@ Heo Yool,FW,Striker,24,"Korea, South",AFC,Ulsan HD FC,K_League1,8.1
 Sergiy Sydorchuk,MF,Defensive_Midfielder,34,Ukraine,UEFA,KVC Westerlo,Jupiler_ProLeague,8.1
 Diego de Buen,MF,Defensive_Midfielder,34,Mexico,CONCACAF,Club Necaxa,Liga_MX,8.1
 Yoon Bit Garam,MF,Central_Midfielder,35,"Korea, South",AFC,Suwon FC,K_League1,8.1
-Gunay Guvenc,GK,Goalkeeper,34,Türkiye,UEFA,Galatasaray,SuperLig,8.1
+Gunay Guvenc,GK,Goalkeeper,34,Turkey,UEFA,Galatasaray,SuperLig,8.1
 Joel Robles,GK,Goalkeeper,35,Spain,UEFA,GD Estoril Praia,Liga_Portugal,8.1
 Ruben Botta,MF,Attacking_Midfielder,35,Argentina,CONMEBOL,CA Talleres,Liga_Profesional,8.1
 Alexandros Paschalakis,GK,Goalkeeper,35,Greece,UEFA,Olympiacos Piraeus,SuperLeague1,8.1
@@ -4855,7 +4855,7 @@ Zhuoyi Lu,DF,Right_Back,24,China,AFC,Dalian Yingbo,Chinese_SuperLeague,6.5
 Ming-Yang Yang,MF,Defensive_Midfielder,30,China,AFC,Chengdu Rongcheng,Chinese_SuperLeague,6.5
 Zhen Ma,GK,Goalkeeper,27,China,AFC,Yunnan Yukun,Chinese_SuperLeague,6.5
 Miroslav Stevanovic,MF,Side_Midfielder,34,Bosnia-Herzegovina,UEFA,Servette FC,Swiss_SuperLeague,6.5
-Necip Uysal,DF,Centre_Back,34,Türkiye,UEFA,Besiktas JK,SuperLig,6.5
+Necip Uysal,DF,Centre_Back,34,Turkey,UEFA,Besiktas JK,SuperLig,6.5
 Genki Haraguchi,MF,Attacking_Midfielder,34,Japan,AFC,Urawa Red Diamonds,J1_League,6.5
 Sergio Padt,GK,Goalkeeper,35,Netherlands,UEFA,Ludogorets Razgrad,Efbet_Liga,6.5
 Alexander Ring,MF,Central_Midfielder,34,Finland,UEFA,HJK Helsinki,Other_leagues,6.5
