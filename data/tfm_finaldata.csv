@@ -162,7 +162,7 @@ Destiny Udogie,DF,Left_Back,22,Italy,UEFA,Tottenham Hotspur,PremierLeague,650.0
 Liam Delap,FW,Striker,22,England,UEFA,Chelsea FC,PremierLeague,650.0
 Goncalo Ramos,FW,Striker,24,Portugal,UEFA,Paris Saint-Germain,Ligue1,650.0
 Raul Asencio,DF,Centre_Back,22,Spain,UEFA,Real Madrid,LaLiga,650.0
-Min-jae Kim,DF,Centre_Back,28,"Korea, South",AFC,Bayern Munich,Bundesliga,650.0
+Kim Min Jae,DF,Centre_Back,28,"Korea, South",AFC,Bayern Munich,Bundesliga,650.0
 Castello Lukeba,DF,Centre_Back,22,France,UEFA,RB Leipzig,Bundesliga,650.0
 Rico Lewis,DF,Right_Back,20,England,UEFA,Manchester City,PremierLeague,650.0
 Romeo Lavia,MF,Defensive_Midfielder,21,Belgium,UEFA,Chelsea FC,PremierLeague,650.0
@@ -350,7 +350,7 @@ Marco Carnesecchi,GK,Goalkeeper,25,Italy,UEFA,Atalanta BC,Serie_A,406.2
 Mile Svilar,GK,Goalkeeper,25,Serbia,UEFA,AS Roma,Serie_A,406.2
 Benjamin Pavard,DF,Centre_Back,29,France,UEFA,Inter Milan,Serie_A,406.2
 Hiroki Ito,DF,Centre_Back,26,Japan,AFC,Bayern Munich,Bundesliga,406.2
-Kang-in Lee,FW,Right_Winger,24,"Korea, South",AFC,Paris Saint-Germain,Ligue1,406.2
+Lee Kang In,FW,Right_Winger,24,"Korea, South",AFC,Paris Saint-Germain,Ligue1,406.2
 Konrad Laimer,DF,Right_Back,28,Austria,UEFA,Bayern Munich,Bundesliga,406.2
 Riccardo Orsolini,FW,Right_Winger,28,Italy,UEFA,Bologna FC 1909,Serie_A,406.2
 Ruben Neves,MF,Defensive_Midfielder,28,Portugal,UEFA,Al-Hilal SFC,Saudi_ProLeague,406.2
@@ -520,7 +520,7 @@ David Raum,DF,Left_Back,27,Germany,UEFA,RB Leipzig,Bundesliga,325.0
 Matvey Safonov,GK,Goalkeeper,26,Russia,UEFA,Paris Saint-Germain,Ligue1,325.0
 Rodrigo Muniz,FW,Striker,24,Brazil,CONMEBOL,Fulham FC,PremierLeague,325.0
 Djordje Petrovic,GK,Goalkeeper,25,Serbia,UEFA,AFC Bournemouth,PremierLeague,325.0
-Heung-min Son,FW,Left_Winger,33,"Korea, South",AFC,Tottenham Hotspur,PremierLeague,325.0
+Son Heung Min,FW,Left_Winger,33,"Korea, South",AFC,Tottenham Hotspur,PremierLeague,325.0
 Thibaut Courtois,GK,Goalkeeper,33,Belgium,UEFA,Real Madrid,LaLiga,325.0
 Kevin De Bruyne,MF,Attacking_Midfielder,34,Belgium,UEFA,SSC Napoli,Serie_A,325.0
 Antonio Rudiger,DF,Centre_Back,32,Germany,UEFA,Real Madrid,LaLiga,325.0
@@ -1010,7 +1010,7 @@ Bence Dardai,MF,Attacking_Midfielder,19,Hungary,UEFA,VfL Wolfsburg,Bundesliga,19
 Zeki Amdouni,FW,Striker,24,Switzerland,UEFA,Burnley FC,PremierLeague,195.0
 Daniel Braganca,MF,Central_Midfielder,26,Portugal,UEFA,Sporting CP,Liga_Portugal,195.0
 Jens Cajuste,MF,Defensive_Midfielder,25,Sweden,UEFA,SSC Napoli,Serie_A,195.0
-Hee-chan Hwang,FW,Striker,29,"Korea, South",AFC,Wolverhampton Wanderers,PremierLeague,195.0
+Hwang Hee Chan,FW,Striker,29,"Korea, South",AFC,Wolverhampton Wanderers,PremierLeague,195.0
 Corentin Tolisso,MF,Central_Midfielder,30,France,UEFA,Olympique Lyon,Ligue1,195.0
 Atakan Karazor,MF,Defensive_Midfielder,28,Türkiye,UEFA,VfB Stuttgart,Bundesliga,195.0
 Granit Xhaka,MF,Defensive_Midfielder,32,Switzerland,UEFA,Bayer 04 Leverkusen,Bundesliga,195.0
@@ -1156,7 +1156,7 @@ Sergi Cardona,DF,Left_Back,26,Spain,UEFA,Villarreal CF,LaLiga,162.5
 Diego Coppola,DF,Centre_Back,21,Italy,UEFA,Brighton & Hove Albion,PremierLeague,162.5
 Nnamdi Collins,DF,Centre_Back,21,Germany,UEFA,Eintracht Frankfurt,Bundesliga,162.5
 Yuito Suzuki,MF,Attacking_Midfielder,23,Japan,AFC,SC Freiburg,Bundesliga,162.5
-In-beom Hwang,MF,Central_Midfielder,28,"Korea, South",AFC,Feyenoord Rotterdam,Eredivisie,162.5
+Hwang In Beom,MF,Central_Midfielder,28,"Korea, South",AFC,Feyenoord Rotterdam,Eredivisie,162.5
 Ao Tanaka,MF,Defensive_Midfielder,26,Japan,AFC,Leeds United,PremierLeague,162.5
 Abakar Sylla,DF,Centre_Back,22,Cote d'Ivoire,CAF,RC Strasbourg Alsace,Ligue1,162.5
 Benie Traore,FW,Left_Winger,22,Cote d'Ivoire,CAF,FC Basel 1893,Swiss_SuperLeague,162.5
@@ -2176,7 +2176,7 @@ Pep Biel,MF,Attacking_Midfielder,28,Spain,UEFA,Charlotte FC,MLS,73.1
 Bryan Gonzalez,DF,Left_Back,22,Mexico,CONCACAF,Deportivo Guadalajara,Liga_MX,73.1
 Caio Lucas,FW,Left_Winger,31,United Arab Emirates,AFC,Sharjah FC,UAE_ProLeague,73.1
 Hamza Choudhury,MF,Defensive_Midfielder,27,Bangladesh,AFC,Leicester City,Championship,73.1
-Young-woo Seol,DF,Right_Back,26,"Korea, South",AFC,Red Star Belgrade,Superliga_Srbjie,73.1
+Seol Young Woo,DF,Right_Back,26,"Korea, South",AFC,Red Star Belgrade,Superliga_Srbjie,73.1
 Nicolas Gimenez,MF,Attacking_Midfielder,29,United Arab Emirates,AFC,Al-Wasl FC,UAE_ProLeague,73.1
 Tatsuhiro Sakamoto,MF,Side_Midfielder,28,Japan,AFC,Coventry City,Championship,73.1
 Firas Al-Buraikan,FW,Striker,25,Saudi Arabia,AFC,Al-Ahli SFC,Saudi_ProLeague,73.1
@@ -2231,7 +2231,7 @@ Manuel Neuer,GK,Goalkeeper,39,Germany,UEFA,Bayern Munich,Bundesliga,65.0
 Philip Otele,FW,Left_Winger,26,Nigeria,CAF,FC Basel 1893,Swiss_SuperLeague,65.0
 Vitezslav Jaros,GK,Goalkeeper,24,Czech Republic,UEFA,Ajax Amsterdam,Eredivisie,65.0
 Ruslan Neshcheret,GK,Goalkeeper,23,Ukraine,UEFA,Dynamo Kyiv,Ukrainian_PremierLeague,65.0
-Woo-yeong Jeong,MF,Attacking_Midfielder,25,"Korea, South",AFC,1.FC Union Berlin,Bundesliga,65.0
+Jeong Woo Yeong,MF,Attacking_Midfielder,25,"Korea, South",AFC,1.FC Union Berlin,Bundesliga,65.0
 Omri Glazer,GK,Goalkeeper,29,Israel,UEFA,Red Star Belgrade,Superliga_Srbjie,65.0
 Evgeniy Latyshonok,GK,Goalkeeper,27,Russia,UEFA,Zenit St. Petersburg,Russian_PremierLiga,65.0
 Robin Zentner,GK,Goalkeeper,30,Germany,UEFA,1.FSV Mainz 05,Bundesliga,65.0
@@ -2557,8 +2557,8 @@ Johan Rojas,MF,Attacking_Midfielder,22,Colombia,CONMEBOL,Club Necaxa,Liga_MX,56.
 Agustin Oliveros,DF,Centre_Back,26,Uruguay,CONMEBOL,Club Necaxa,Liga_MX,56.9
 Milton Gimenez,FW,Striker,28,Argentina,CONMEBOL,CA Boca Juniors,Liga_Profesional,56.9
 Ibe Hautekiet,DF,Centre_Back,23,Belgium,UEFA,Standard Liège,Jupiler_ProLeague,56.9
-Gue-sung Cho,FW,Striker,27,"Korea, South",AFC,FC Midtjylland,Danish_Superligaen,56.9
-Hyun-seok Hong,MF,Attacking_Midfielder,26,"Korea, South",AFC,1.FSV Mainz 05,Bundesliga,56.9
+Cho Gue Sung,FW,Striker,27,"Korea, South",AFC,FC Midtjylland,Danish_Superligaen,56.9
+Hong Hyeon Seok,MF,Attacking_Midfielder,26,"Korea, South",AFC,1.FSV Mainz 05,Bundesliga,56.9
 Leonardo Lopes,MF,Central_Midfielder,26,Portugal,UEFA,KAA Gent,Jupiler_ProLeague,56.9
 Sasa Zdjelar,MF,Defensive_Midfielder,30,Serbia,UEFA,Zenit St. Petersburg,Russian_PremierLiga,56.9
 Razvan Marin,MF,Defensive_Midfielder,29,Romania,UEFA,AEK Athens,SuperLeague1,56.9
@@ -2572,7 +2572,7 @@ Frans Kratzig,DF,Left_Back,22,Germany,UEFA,Red Bull Salzburg,Austria_Bundesliga,
 Sekou Koita,FW,Striker,25,Mali,CAF,CSKA Moscow,Russian_PremierLiga,56.9
 Lechi Sadulaev,FW,Left_Winger,25,Russia,UEFA,Akhmat Grozny,Russian_PremierLiga,56.9
 Gustavo Mantuan,FW,Right_Winger,24,Brazil,CONMEBOL,Zenit St. Petersburg,Russian_PremierLiga,56.9
-Min-hyeok Yang,FW,Right_Winger,19,"Korea, South",AFC,Tottenham Hotspur,PremierLeague,56.9
+Yang Min Hyeok,FW,Right_Winger,19,"Korea, South",AFC,Tottenham Hotspur,PremierLeague,56.9
 Jonathan Fischer,GK,Goalkeeper,23,Denmark,UEFA,Fredrikstad FK,Eliteserien,56.9
 Max Johnston,DF,Right_Back,21,Scotland,UEFA,SK Sturm Graz,Austria_Bundesliga,56.9
 Veljko Ilic,GK,Goalkeeper,22,Serbia,UEFA,FK TSC Backa Topola,Superliga_Srbjie,56.9
@@ -2614,7 +2614,7 @@ Ognjen Mimovic,DF,Right_Back,20,Serbia,UEFA,Fenerbahce,SuperLig,56.9
 Alex Luna,FW,Striker,21,Argentina,CONMEBOL,Instituto ACC,Liga_Profesional,56.9
 Santino Andino,FW,Left_Winger,19,Argentina,CONMEBOL,CD Godoy Cruz Antonio Tomba,Liga_Profesional,56.9
 Eivind Helland,DF,Centre_Back,20,Norway,UEFA,SK Brann,Eliteserien,56.9
-Hyeon-gyu Oh,FW,Striker,24,"Korea, South",AFC,KRC Genk,Jupiler_ProLeague,56.9
+Oh Hyeon Gyu,FW,Striker,24,"Korea, South",AFC,KRC Genk,Jupiler_ProLeague,56.9
 Mateo Joseph,FW,Striker,21,Spain,UEFA,Leeds United,PremierLeague,56.9
 Maurice Krattenmacher,MF,Attacking_Midfielder,19,Germany,UEFA,Hertha BSC,Bundesliga_2,56.9
 Michal Gurgul,DF,Left_Back,19,Poland,UEFA,Lech Poznan,Ekstraklasa,56.9
@@ -2755,7 +2755,7 @@ Ezequiel Unsain,GK,Goalkeeper,30,Argentina,CONMEBOL,Club Necaxa,Liga_MX,48.8
 Gautier Larsonneur,GK,Goalkeeper,28,France,UEFA,AS Saint-Étienne,Ligue2,48.8
 Ali Abdi,DF,Left_Back,31,Tunisia,CAF,OGC Nice,Ligue1,48.8
 Andrey Langovich,DF,Right_Back,22,Russia,UEFA,FC Rostov,Russian_PremierLiga,48.8
-Jun-ho Bae,MF,Attacking_Midfielder,21,"Korea, South",AFC,Stoke City,Championship,48.8
+Bae Jun Ho,MF,Attacking_Midfielder,21,"Korea, South",AFC,Stoke City,Championship,48.8
 Anrie Chase,DF,Centre_Back,21,Japan,AFC,VfB Stuttgart,Bundesliga,48.8
 Oscar Cortes,FW,Left_Winger,21,Colombia,CONMEBOL,Rangers FC,Scottish_Premiership,48.8
 Daan Heymans,MF,Attacking_Midfielder,26,Belgium,UEFA,KRC Genk,Jupiler_ProLeague,48.8
@@ -2969,7 +2969,7 @@ Lawrence Shankland,FW,Striker,29,Scotland,UEFA,Heart of Midlothian FC,Scottish_P
 Ali Al-Hamadi,FW,Striker,23,Iraq,AFC,Ipswich Town,Championship,40.6
 Lucas Pimenta,DF,Centre_Back,25,United Arab Emirates,AFC,Al-Wahda FC,UAE_ProLeague,40.6
 Kota Takai,DF,Centre_Back,20,Japan,AFC,Tottenham Hotspur,PremierLeague,40.6
-Sang-bin Jeong,FW,Striker,23,"Korea, South",AFC,St. Louis CITY SC,MLS,40.6
+Jeong Sang Bin,FW,Striker,23,"Korea, South",AFC,St. Louis CITY SC,MLS,40.6
 Serginho,FW,Right_Winger,24,Cabo Verde,CAF,Viborg FF,Danish_Superligaen,40.6
 Pathe Mboup,FW,Left_Winger,21,Senegal,CAF,Pau FC,Ligue2,40.6
 Marcos Lopez,DF,Left_Back,25,Peru,CONMEBOL,FC Copenhagen,Danish_Superligaen,40.6
@@ -3035,7 +3035,7 @@ Shola Shoretire,FW,Left_Winger,21,England,UEFA,PAOK Thessaloniki,SuperLeague1,40
 Jonjoe Kenny,DF,Right_Back,28,England,UEFA,PAOK Thessaloniki,SuperLeague1,40.6
 Tomasz Kedziora,DF,Centre_Back,31,Poland,UEFA,PAOK Thessaloniki,SuperLeague1,40.6
 Montader Madjed,FW,Right_Winger,20,Iraq,AFC,Hammarby IF,Allsvenskan,40.6
-Hyun-jun Yang,FW,Right_Winger,23,"Korea, South",AFC,Celtic FC,Scottish_Premiership,40.6
+Yang Hyun Jun,FW,Right_Winger,23,"Korea, South",AFC,Celtic FC,Scottish_Premiership,40.6
 Patrick Yazbek,MF,Central_Midfielder,23,Australia,AFC,Nashville SC,MLS,40.6
 Mamadou Coulibaly,MF,Defensive_Midfielder,22,United Arab Emirates,AFC,Al-Jazira Club,UAE_ProLeague,40.6
 Marin Soticek,FW,Right_Winger,20,Croatia,UEFA,FC Basel 1893,Swiss_SuperLeague,40.6
@@ -3075,7 +3075,7 @@ Kouame Autonne Kouadio,DF,Centre_Back,24,United Arab Emirates,AFC,Al-Ain FC,UAE_
 Jean-Kevin Duverne,DF,Centre_Back,28,Haiti,CONCACAF,FC Nantes,Ligue1,40.6
 Aiham Ousou,DF,Centre_Back,25,Syria,AFC,Royal Charleroi SC,Jupiler_ProLeague,40.6
 Daisuke Yokota,FW,Right_Winger,25,Japan,AFC,KAA Gent,Jupiler_ProLeague,40.6
-Jae-sung Lee,MF,Attacking_Midfielder,32,"Korea, South",AFC,1.FSV Mainz 05,Bundesliga,40.6
+Lee Jae Sung,MF,Attacking_Midfielder,32,"Korea, South",AFC,1.FSV Mainz 05,Bundesliga,40.6
 Malcom Bokele,DF,Centre_Back,25,Cameroon,CAF,Göztepe,SuperLig,39.0
 Gaoussou Diarra,FW,Left_Winger,22,Mali,CAF,Feyenoord Rotterdam,Eredivisie,39.0
 Olimpiu Morutan,MF,Attacking_Midfielder,26,Romania,UEFA,Aris Thessaloniki,SuperLeague1,39.0
@@ -3315,7 +3315,7 @@ Romain Saiss,DF,Centre_Back,35,Morocco,CAF,Al-Sadd SC,QSL,29.2
 Alessandro Nunziante,GK,Goalkeeper,18,Italy,UEFA,Benevento Calcio,Other_leagues,29.2
 Tommaso Martinelli,GK,Goalkeeper,19,Italy,UEFA,ACF Fiorentina,Serie_A,29.2
 Yuki Ohashi,FW,Striker,29,Japan,AFC,Blackburn Rovers,Championship,29.2
-Yu-min Cho,DF,Centre_Back,28,"Korea, South",AFC,Sharjah FC,UAE_ProLeague,29.2
+Cho Yu Min,DF,Centre_Back,28,"Korea, South",AFC,Sharjah FC,UAE_ProLeague,29.2
 Dean James,DF,Left_Back,25,Indonesia,AFC,Go Ahead Eagles,Eredivisie,29.2
 Lorenzo Insigne,FW,Left_Winger,34,Italy,UEFA,Without Club,Without_Club,29.2
 Jens Jonsson,MF,Defensive_Midfielder,32,Denmark,UEFA,AEK Athens,SuperLeague1,29.2
@@ -3388,7 +3388,7 @@ Khusniddin Alikulov,DF,Centre_Back,26,Uzbekistan,AFC,Caykur Rizespor,SuperLig,27
 Rasmus Lauritsen,DF,Centre_Back,29,Denmark,UEFA,Bröndby IF,Danish_Superligaen,27.6
 Gokhan Gul,MF,Defensive_Midfielder,27,Germany,UEFA,Al-Okhdood Club,Saudi_ProLeague,27.6
 Takumu Kawamura,MF,Defensive_Midfielder,25,Japan,AFC,Red Bull Salzburg,Austria_Bundesliga,27.6
-Seung-hyun Jung,DF,Centre_Back,31,"Korea, South",AFC,Ulsan HD FC,K_League1,26.0
+Jung Seung Hyun,DF,Centre_Back,31,"Korea, South",AFC,Ulsan HD FC,K_League1,26.0
 Hassan Tambakti,DF,Centre_Back,26,Saudi Arabia,AFC,Al-Hilal SFC,Saudi_ProLeague,26.0
 Khalifa Al-Hammadi,DF,Centre_Back,26,United Arab Emirates,AFC,Al-Jazira Club,UAE_ProLeague,26.0
 Szymon Wlodarczyk,FW,Striker,22,Poland,UEFA,SK Sturm Graz,Austria_Bundesliga,26.0
@@ -3501,7 +3501,7 @@ Saman Ghoddos,MF,Attacking_Midfielder,31,Iran,AFC,Kalba FC,UAE_ProLeague,24.4
 Alireza Jahanbakhsh,FW,Right_Winger,31,Iran,AFC,Without Club,Without_Club,24.4
 Rabbi Matondo,FW,Right_Winger,24,Wales,UEFA,Rangers FC,Scottish_Premiership,24.4
 Shinnosuke Nakatani,DF,Centre_Back,29,Japan,AFC,Gamba Osaka,J1_League,24.4
-Seung-ho Paik,MF,Central_Midfielder,28,"Korea, South",AFC,Birmingham City,Championship,24.4
+Paik Seung Ho,MF,Central_Midfielder,28,"Korea, South",AFC,Birmingham City,Championship,24.4
 Marcos Alonso,DF,Left_Back,34,Spain,UEFA,Celta de Vigo,LaLiga,24.4
 Jeffrey Gouweleeuw,DF,Centre_Back,34,Netherlands,UEFA,FC Augsburg,Bundesliga,24.4
 Jordy Clasie,MF,Defensive_Midfielder,34,Netherlands,UEFA,AZ Alkmaar,Eredivisie,24.4
@@ -3514,7 +3514,7 @@ Noah Persson,DF,Left_Back,22,Sweden,UEFA,BSC Young Boys,Swiss_SuperLeague,24.4
 Cedric Itten,FW,Striker,28,Switzerland,UEFA,BSC Young Boys,Swiss_SuperLeague,24.4
 Baltazar,MF,Central_Midfielder,25,Brazil,CONMEBOL,FC Sion,Swiss_SuperLeague,24.4
 Bastien Toma,MF,Central_Midfielder,26,Switzerland,UEFA,FC St. Gallen 1879,Swiss_SuperLeague,24.4
-Hyun-ju Lee,MF,Attacking_Midfielder,22,"Korea, South",AFC,FC Arouca,Liga_Portugal,24.4
+Lee Hyun Ju,MF,Attacking_Midfielder,22,"Korea, South",AFC,FC Arouca,Liga_Portugal,24.4
 Tom Cairney,MF,Central_Midfielder,34,Scotland,UEFA,Fulham FC,PremierLeague,24.4
 Takahiro Akimoto,DF,Left_Back,27,Japan,AFC,Oud-Heverlee Leuven,Jupiler_ProLeague,24.4
 Yazan Al-Naimat,FW,Striker,26,Jordan,AFC,Al-Arabi SC,QSL,24.4
@@ -3611,8 +3611,8 @@ Matheus Donelli,GK,Goalkeeper,23,Brazil,CONMEBOL,Sport Club Corinthians Paulista
 Svetoslav Vutsov,GK,Goalkeeper,23,Bulgaria,UEFA,Levski Sofia,Efbet_Liga,24.4
 Shunta Tanaka,MF,Defensive_Midfielder,28,Japan,AFC,Cerezo Osaka,J1_League,22.8
 Leandro Spadacio,MF,Attacking_Midfielder,25,United Arab Emirates,AFC,Kalba FC,UAE_ProLeague,22.8
-Dong-gyeong Lee,MF,Attacking_Midfielder,27,"Korea, South",AFC,Gimcheon Sangmu,K_League1,22.8
-Ji-sung Eom,FW,Left_Winger,23,"Korea, South",AFC,Swansea City,Championship,22.8
+Lee Dong Kyeong,MF,Attacking_Midfielder,27,"Korea, South",AFC,Gimcheon Sangmu,K_League1,22.8
+Eom Ji Sung,FW,Left_Winger,23,"Korea, South",AFC,Swansea City,Championship,22.8
 Ruben Vezo,DF,Centre_Back,31,Portugal,UEFA,Olympiacos Piraeus,SuperLeague1,22.8
 Jeison Quinones,DF,Centre_Back,27,Colombia,CONMEBOL,Yokohama F. Marinos,J1_League,22.8
 Juan Pablo Vargas,DF,Centre_Back,30,Costa Rica,CONCACAF,Millonarios FC,Liga_Dimayor,22.8
@@ -3820,7 +3820,7 @@ Hiroki Sekine,DF,Right_Back,22,Japan,AFC,Stade Reims,Ligue2,19.5
 Ali Alipour,FW,Striker,29,Iran,AFC,Persepolis FC,Persian_GulfProLeague,19.5
 Gleofilo Vlijter,FW,Striker,25,Suriname,CONCACAF,Újpest FC,Other_leagues,19.5
 Jesus Ocejo,FW,Striker,27,Mexico,CONCACAF,Santos Laguna,Liga_MX,19.5
-Yong-woo Park,MF,Defensive_Midfielder,31,"Korea, South",AFC,Al-Ain FC,UAE_ProLeague,19.5
+Park Yong Woo,MF,Defensive_Midfielder,31,"Korea, South",AFC,Al-Ain FC,UAE_ProLeague,19.5
 Mauricio Pineda,DF,Centre_Back,27,United States,CONCACAF,Chicago Fire FC,MLS,19.5
 Jahkeele Marshall-Rutty,MF,Side_Midfielder,21,Canada,CONCACAF,Charlotte FC,MLS,19.5
 Salvador Mariscal,MF,Defensive_Midfielder,22,Mexico,CONCACAF,Santos Laguna,Liga_MX,19.5
@@ -3903,8 +3903,8 @@ Masaya Okugawa,FW,Left_Winger,29,Japan,AFC,Kyoto Sanga,J1_League,16.2
 Anthony Kalik,MF,Attacking_Midfielder,27,Australia,AFC,HNK Hajduk Split,SuperSport_HNL,16.2
 Muhsen Al-Ghassani,FW,Striker,28,Oman,AFC,True Bangkok United,Other_leagues,16.2
 Mohammad Amin Hazbavi,DF,Centre_Back,22,Iran,AFC,Sepahan FC,Persian_GulfProLeague,16.2
-Won-sang Um,FW,Right_Winger,26,"Korea, South",AFC,Ulsan HD FC,K_League1,16.2
-Seung-wook Park,DF,Centre_Back,28,"Korea, South",AFC,Pohang Steelers,K_League1,16.2
+Um Won Sang,FW,Right_Winger,26,"Korea, South",AFC,Ulsan HD FC,K_League1,16.2
+Park Seung Wook,DF,Centre_Back,28,"Korea, South",AFC,Pohang Steelers,K_League1,16.2
 Yuri Cesar,FW,Left_Winger,25,United Arab Emirates,AFC,Shabab Al-Ahli Club,UAE_ProLeague,16.2
 Omar Faraj,FW,Striker,23,Palestine,AFC,Degerfors IF,Allsvenskan,16.2
 Abdullah Iqbal,DF,Centre_Back,23,Pakistan,AFC,Mjällby AIF,Allsvenskan,16.2
@@ -3917,7 +3917,7 @@ Samuel Portugal,GK,Goalkeeper,31,Brazil,CONMEBOL,Al-Okhdood Club,Saudi_ProLeague
 Steven Benda,GK,Goalkeeper,26,Germany,UEFA,Millwall FC,Championship,16.2
 Dragan Rosic,GK,Goalkeeper,28,Serbia,UEFA,FK Vojvodina Novi Sad,Superliga_Srbjie,16.2
 Dimitry Bertaud,GK,Goalkeeper,27,Congo,CAF,Without Club,Without_Club,16.2
-Han-beom Lee,DF,Centre_Back,23,"Korea, South",AFC,FC Midtjylland,Danish_Superligaen,16.2
+Lee Han Beom,DF,Centre_Back,23,"Korea, South",AFC,FC Midtjylland,Danish_Superligaen,16.2
 Calem Nieuwenhof,MF,Defensive_Midfielder,24,Australia,AFC,Heart of Midlothian FC,Scottish_Premiership,16.2
 Denis Adamov,GK,Goalkeeper,27,Russia,UEFA,Zenit St. Petersburg,Russian_PremierLiga,16.2
 Catalin Cabuz,GK,Goalkeeper,29,Romania,UEFA,FC Hermannstadt,Romaina_SuperLiga,16.2
@@ -3928,7 +3928,7 @@ Sam Adekugbe,DF,Left_Back,30,Canada,CONCACAF,Vancouver Whitecaps FC,MLS,16.2
 Derrick Etienne Jr.,FW,Left_Winger,28,Haiti,CONCACAF,Toronto FC,MLS,16.2
 Benjamin Galdames,FW,Right_Winger,24,Mexico,CONCACAF,Atlético de San Luis,Liga_MX,16.2
 Diego Medina,FW,Right_Winger,24,Mexico,CONCACAF,Santos Laguna,Liga_MX,16.2
-Ho-yeon Jung,MF,Central_Midfielder,24,"Korea, South",AFC,Minnesota United FC,MLS,16.2
+Jung Ho Yeon,MF,Central_Midfielder,24,"Korea, South",AFC,Minnesota United FC,MLS,16.2
 Edgar Zaldivar,MF,Defensive_Midfielder,28,Mexico,CONCACAF,Atlas Guadalajara,Liga_MX,16.2
 Raul Martinez,DF,Centre_Back,22,Mexico,CONCACAF,Deportivo Guadalajara,Liga_MX,16.2
 Gaddi Aguirre,DF,Centre_Back,29,Mexico,CONCACAF,Atlas Guadalajara,Liga_MX,16.2
@@ -3978,7 +3978,7 @@ Zayed Sultan,DF,Right_Back,24,United Arab Emirates,AFC,Al-Nasr SC (UAE),UAE_ProL
 Mehdi Limouchi,FW,Left_Winger,25,Iran,AFC,Sepahan FC,Persian_GulfProLeague,16.2
 Jehad Thakri,DF,Centre_Back,24,Saudi Arabia,AFC,Al-Qadsiah FC,Saudi_ProLeague,16.2
 Yu Hirakawa,FW,Right_Winger,24,Japan,AFC,Bristol City,Championship,16.2
-Bong-soo Kim,MF,Central_Midfielder,25,"Korea, South",AFC,Daejeon Hana Citizen,K_League1,16.2
+Kim Bong Soo,MF,Central_Midfielder,25,"Korea, South",AFC,Daejeon Hana Citizen,K_League1,16.2
 Onuralp Cevikkan,GK,Goalkeeper,19,Türkiye,UEFA,Trabzonspor,SuperLig,16.2
 Pedro Morisco,GK,Goalkeeper,21,Brazil,CONMEBOL,Coritiba Foot Ball Club,Other_leagues,16.2
 Pablo Lara,GK,Goalkeeper,20,Mexico,CONCACAF,UNAM Pumas,Liga_MX,16.2
@@ -4103,7 +4103,7 @@ Matheus Uribe,MF,Defensive_Midfielder,34,Colombia,CONMEBOL,Atlético Nacional,Li
 Jamie Vardy,FW,Striker,38,England,UEFA,Without Club,Without_Club,16.2
 Gabriel Paulista,DF,Centre_Back,34,Brazil,CONMEBOL,Besiktas JK,SuperLig,16.2
 Lewis Miller,DF,Right_Back,24,Australia,AFC,Hibernian FC,Scottish_Premiership,14.6
-Min-kyu Song,FW,Left_Winger,25,"Korea, South",AFC,Jeonbuk Hyundai Motors,K_League1,14.6
+Song Min Kyu,FW,Left_Winger,25,"Korea, South",AFC,Jeonbuk Hyundai Motors,K_League1,14.6
 Ryotaro Araki,MF,Attacking_Midfielder,23,Japan,AFC,Kashima Antlers,J1_League,14.6
 Gianni Stensness,DF,Centre_Back,26,Australia,AFC,Viking FK,Eliteserien,14.6
 Kento Tachibanada,MF,Defensive_Midfielder,27,Japan,AFC,Kawasaki Frontale,J1_League,14.6
@@ -4168,9 +4168,9 @@ Tsukasa Morishima,MF,Attacking_Midfielder,28,Japan,AFC,Nagoya Grampus,J1_League,
 Thiago Andrade,FW,Left_Winger,24,Brazil,CONMEBOL,Cerezo Osaka,J1_League,14.6
 Marcinho,FW,Left_Winger,30,Brazil,CONMEBOL,Kawasaki Frontale,J1_League,14.6
 Chanathip Songkrasin,MF,Attacking_Midfielder,31,Thailand,AFC,BG Pathum United,Other_leagues,14.6
-Chang-rae Ha,DF,Centre_Back,30,"Korea, South",AFC,Daejeon Hana Citizen,K_League1,13.8
+Ha Chang Rae,DF,Centre_Back,30,"Korea, South",AFC,Daejeon Hana Citizen,K_League1,13.8
 Shihao Wei,FW,Left_Winger,30,China,AFC,Chengdu Rongcheng,Chinese_SuperLeague,13.8
-Jin-gyu Kim,MF,Central_Midfielder,28,"Korea, South",AFC,Jeonbuk Hyundai Motors,K_League1,13.8
+Kim Jin Kyu,MF,Central_Midfielder,28,"Korea, South",AFC,Jeonbuk Hyundai Motors,K_League1,13.8
 Oscar Taty Maritu,FW,Striker,25,Congo,CAF,Yunnan Yukun,Chinese_SuperLeague,13.8
 Shenglong Jiang,DF,Centre_Back,24,China,AFC,Shanghai Shenhua,Chinese_SuperLeague,13.8
 Kevin O'Toole,DF,Left_Back,26,United States,CONCACAF,New York City FC,MLS,13.8
@@ -4181,13 +4181,13 @@ Daniel Lopez,FW,Striker,25,Mexico,CONCACAF,Querétaro FC,Liga_MX,13.8
 Vladimir Moragrega,FW,Striker,27,Mexico,CONCACAF,CD Tapatío,Other_leagues,13.8
 Tomas Rodriguez,FW,Striker,26,Panama,CONCACAF,Monagas SC,Other_leagues,13.8
 Andrew Gutman,DF,Left_Back,28,United States,CONCACAF,Chicago Fire FC,MLS,13.8
-Bum-keun Song,GK,Goalkeeper,27,"Korea, South",AFC,Jeonbuk Hyundai Motors,K_League1,13.8
+Song Bum Keun,GK,Goalkeeper,27,"Korea, South",AFC,Jeonbuk Hyundai Motors,K_League1,13.8
 Lewis Mayo,DF,Centre_Back,25,Scotland,UEFA,Kilmarnock FC,Scottish_Premiership,13.8
 Xavier Biscayzacu,MF,Attacking_Midfielder,20,Mexico,CONCACAF,Defensor Sporting Club,Other_leagues,13.8
 Jon Russell,MF,Central_Midfielder,24,Jamaica,CONCACAF,Barnsley FC,League_One,13.8
 Daiki Matsuoka,MF,Central_Midfielder,24,Japan,AFC,Avispa Fukuoka,J1_League,13.8
 Meshaal Barsham,GK,Goalkeeper,27,Qatar,AFC,Al-Sadd SC,QSL,13.8
-Ju-sung Kim,DF,Centre_Back,24,"Korea, South",AFC,FC Seoul,K_League1,13.8
+Kim Ju Sung,DF,Centre_Back,24,"Korea, South",AFC,FC Seoul,K_League1,13.8
 Shunsuke Mito,FW,Right_Winger,22,Japan,AFC,Sparta Rotterdam,Eredivisie,13.8
 Mohammadmehdi Mohebi,FW,Right_Winger,25,Iran,AFC,Sepahan FC,Persian_GulfProLeague,13.8
 Bobur Abdikholikov,FW,Striker,28,Uzbekistan,AFC,Pakhtakor Tashkent,Uzbekistan_SuperLeague,13.8
@@ -4206,7 +4206,7 @@ Abdulmalik Al-Oyayari,DF,Right_Back,21,Saudi Arabia,AFC,NEOM SC,Saudi_ProLeague,
 Taras Stepanenko,MF,Defensive_Midfielder,35,Ukraine,UEFA,Eyüpspor,SuperLig,13.8
 Murilo de Souza,FW,Right_Winger,30,Brazil,CONMEBOL,Kyoto Sanga,J1_League,13.8
 Hiroki Akiyama,MF,Defensive_Midfielder,24,Japan,AFC,SV Darmstadt 98,Bundesliga_2,13.0
-Jin-seob Park,MF,Defensive_Midfielder,29,"Korea, South",AFC,Jeonbuk Hyundai Motors,K_League1,13.0
+Park Jin Seob,MF,Defensive_Midfielder,29,"Korea, South",AFC,Jeonbuk Hyundai Motors,K_League1,13.0
 Gustavo Velazquez,DF,Centre_Back,34,Paraguay,CONMEBOL,Club Cerro Porteño,Other_leagues,13.0
 Ryan Hollingshead,DF,Left_Back,34,United States,CONCACAF,Los Angeles FC,MLS,13.0
 Marcelo Ryan,FW,Striker,23,Brazil,CONMEBOL,FC Tokyo,J1_League,13.0
@@ -4248,9 +4248,9 @@ Blair Spittal,MF,Central_Midfielder,29,Scotland,UEFA,Heart of Midlothian FC,Scot
 Ibrahim Said,FW,Right_Winger,23,Nigeria,CAF,Motherwell FC,Scottish_Premiership,13.0
 Frankie Kent,DF,Centre_Back,29,England,UEFA,Heart of Midlothian FC,Scottish_Premiership,13.0
 Rodrigo Holgado,FW,Striker,30,Malaysia,AFC,CD América de Cali,Liga_Dimayor,13.0
-Sang-ho Na,FW,Left_Winger,28,"Korea, South",AFC,Machida Zelvia,J1_League,13.0
+Na Sang Ho,FW,Left_Winger,28,"Korea, South",AFC,Machida Zelvia,J1_League,13.0
 Leon King,DF,Centre_Back,21,Scotland,UEFA,Rangers FC,Scottish_Premiership,13.0
-Dae-won Kim,FW,Left_Winger,28,"Korea, South",AFC,Gangwon FC,K_League1,13.0
+Kim Dae Won,FW,Left_Winger,28,"Korea, South",AFC,Gangwon FC,K_League1,13.0
 Lucas Silva,FW,Right_Winger,25,Brazil,CONMEBOL,FC Seoul,K_League1,13.0
 Anderson Oliveira,FW,Left_Winger,27,Brazil,CONMEBOL,FC Seoul,K_League1,13.0
 Fernando Muslera,GK,Goalkeeper,39,Uruguay,CONMEBOL,Club Estudiantes de La Plata,Liga_Profesional,13.0
@@ -4269,7 +4269,7 @@ Gabrielzinho,FW,Left_Winger,29,Brazil,CONMEBOL,Shanghai Port,Chinese_SuperLeague
 Takuya Kida,MF,Defensive_Midfielder,30,Japan,AFC,Yokohama F. Marinos,J1_League,13.0
 Tokuma Suzuki,MF,Defensive_Midfielder,28,Japan,AFC,Gamba Osaka,J1_League,13.0
 Sandy Walsh,DF,Right_Back,30,Indonesia,AFC,Yokohama F. Marinos,J1_League,13.0
-Hyeon-woo Jo,GK,Goalkeeper,33,"Korea, South",AFC,Ulsan HD FC,K_League1,13.0
+Jo Hyeon Woo,GK,Goalkeeper,33,"Korea, South",AFC,Ulsan HD FC,K_League1,13.0
 Alireza Beiranvand,GK,Goalkeeper,32,Iran,AFC,Tractor FC,Persian_GulfProLeague,13.0
 Aref Haji Eydi,MF,Defensive_Midfielder,26,Iran,AFC,Sepahan FC,Persian_GulfProLeague,13.0
 Bryan Acosta,MF,Central_Midfielder,31,Honduras,CONCACAF,Nashville SC,MLS,13.0
@@ -4291,7 +4291,7 @@ Ryo Hatsuse,DF,Left_Back,28,Japan,AFC,Without Club,Without_Club,13.0
 Logan Farrington,FW,Striker,23,United States,CONCACAF,FC Dallas,MLS,13.0
 Santiago Naveda,MF,Defensive_Midfielder,24,Mexico,CONCACAF,CF América,Liga_MX,13.0
 Andres Jasson,FW,Right_Winger,23,United States,CONCACAF,Aalborg BK,Other_leagues,13.0
-Young-joon Lee,FW,Striker,22,"Korea, South",AFC,Grasshopper Club Zurich,Swiss_SuperLeague,13.0
+Lee Young Joon,FW,Striker,22,"Korea, South",AFC,Grasshopper Club Zurich,Swiss_SuperLeague,13.0
 Danilo Al-Saed,FW,Left_Winger,26,Iraq,AFC,BK Häcken,Allsvenskan,13.0
 Khozhiakbar Alizhonov,DF,Right_Back,28,Uzbekistan,AFC,Pakhtakor Tashkent,Uzbekistan_SuperLeague,13.0
 Kennedy Egbus Mikuni,DF,Centre_Back,25,Japan,AFC,Nagoya Grampus,J1_League,13.0
@@ -4299,12 +4299,12 @@ Bruno,FW,Striker,24,United Arab Emirates,AFC,Al-Jazira Club,UAE_ProLeague,13.0
 Ibrokhimkhalil Yuldoshev,DF,Left_Back,24,Uzbekistan,AFC,Neftchi Fergana,Uzbekistan_SuperLeague,13.0
 Asahi Masuyama,MF,Side_Midfielder,28,Japan,AFC,Machida Zelvia,J1_League,13.0
 Shintaro Nago,MF,Attacking_Midfielder,29,Japan,AFC,Avispa Fukuoka,J1_League,13.0
-Seung-beom Ko,MF,Central_Midfielder,31,"Korea, South",AFC,Ulsan HD FC,K_League1,13.0
+Ko Seung Beom,MF,Central_Midfielder,31,"Korea, South",AFC,Ulsan HD FC,K_League1,13.0
 Nick D'Agostino,FW,Striker,27,Australia,AFC,Viking FK,Eliteserien,13.0
-Sang-heon Lee,MF,Attacking_Midfielder,27,"Korea, South",AFC,Gangwon FC,K_League1,13.0
+Lee Sang Heon,MF,Attacking_Midfielder,27,"Korea, South",AFC,Gangwon FC,K_League1,13.0
 Mutsuki Kato,FW,Striker,27,Japan,AFC,Sanfrecce Hiroshima,J1_League,13.0
 Denis Genreau,MF,Attacking_Midfielder,26,Australia,AFC,Deportivo de La Coruña,LaLiga_2,13.0
-Du-jae Won,MF,Defensive_Midfielder,27,"Korea, South",AFC,Khor Fakkan SSC,UAE_ProLeague,13.0
+Won Du Jae,MF,Defensive_Midfielder,27,"Korea, South",AFC,Khor Fakkan SSC,UAE_ProLeague,13.0
 Kota Yamada,MF,Attacking_Midfielder,26,Japan,AFC,Yokohama FC,J1_League,13.0
 Rei Hirakawa,MF,Attacking_Midfielder,25,Japan,AFC,Tokyo Verdy,J1_League,13.0
 Ziyad Al-Johani,MF,Defensive_Midfielder,23,Saudi Arabia,AFC,Al-Ahli SFC,Saudi_ProLeague,13.0
@@ -4318,7 +4318,7 @@ Lorenzo De Silvestri,DF,Right_Back,37,Italy,UEFA,Bologna FC 1909,Serie_A,13.0
 Diego Costa,FW,Striker,36,Spain,UEFA,Without Club,Without_Club,13.0
 Rui Patricio,GK,Goalkeeper,37,Portugal,UEFA,Without Club,Without_Club,13.0
 Talal Haji,FW,Striker,17,Saudi Arabia,AFC,Al-Ittihad Club,Saudi_ProLeague,13.0
-Do-young Yoon,FW,Right_Winger,18,"Korea, South",AFC,Excelsior Rotterdam,Eredivisie,13.0
+Yoon Do Young,FW,Right_Winger,18,"Korea, South",AFC,Excelsior Rotterdam,Eredivisie,13.0
 Hetao Hu,DF,Left_Back,21,China,AFC,Chengdu Rongcheng,Chinese_SuperLeague,13.0
 Yosuke Furukawa,FW,Left_Winger,22,Japan,AFC,SV Darmstadt 98,Bundesliga_2,13.0
 Kanta Doi,DF,Centre_Back,20,Japan,AFC,FC Tokyo,J1_League,13.0
@@ -4328,8 +4328,8 @@ Jalen Neal,DF,Centre_Back,21,United States,CONCACAF,CF Montréal,MLS,13.0
 Yuto Iwasaki,FW,Left_Winger,27,Japan,AFC,Avispa Fukuoka,J1_League,12.2
 Koji Toriumi,DF,Centre_Back,30,Japan,AFC,JEF United Chiba,Other_leagues,12.2
 Alex Paulsen,GK,Goalkeeper,23,New Zealand,OFC,AFC Bournemouth,PremierLeague,12.2
-Min-kyu Joo,FW,Striker,35,"Korea, South",AFC,Daejeon Hana Citizen,K_League1,12.2
-Sang-woo Kang,DF,Left_Back,31,"Korea, South",AFC,Ulsan HD FC,K_League1,12.2
+Joo Min Kyu,FW,Striker,35,"Korea, South",AFC,Daejeon Hana Citizen,K_League1,12.2
+Kang Sang Woo,DF,Left_Back,31,"Korea, South",AFC,Ulsan HD FC,K_League1,12.2
 Kento Hashimoto,MF,Defensive_Midfielder,31,Japan,AFC,FC Tokyo,J1_League,12.2
 Guillermo May,FW,Striker,27,Uruguay,CONMEBOL,Auckland FC,A_League,12.2
 Yasser Al-Shahrani,DF,Left_Back,33,Saudi Arabia,AFC,Al-Hilal SFC,Saudi_ProLeague,12.2
@@ -4338,15 +4338,15 @@ Taishi Matsumoto,MF,Defensive_Midfielder,26,Japan,AFC,Urawa Red Diamonds,J1_Leag
 Mohammad Amin Kazemian,FW,Right_Winger,29,Iran,AFC,Persepolis FC,Persian_GulfProLeague,12.2
 Nelson da Luz,FW,Left_Winger,27,Angola,CAF,Qingdao West Coast,Chinese_SuperLeague,12.2
 Hiroto Taniguchi,DF,Centre_Back,25,Japan,AFC,Tokyo Verdy,J1_League,12.2
-Dong-hyeon Kim,MF,Defensive_Midfielder,28,"Korea, South",AFC,Gangwon FC,K_League1,12.2
-Moon-hwan Kim,DF,Right_Back,29,"Korea, South",AFC,Daejeon Hana Citizen,K_League1,12.2
+Kim Dong Hyeon,MF,Defensive_Midfielder,28,"Korea, South",AFC,Gangwon FC,K_League1,12.2
+Kim Moon Hwan,DF,Right_Back,29,"Korea, South",AFC,Daejeon Hana Citizen,K_League1,12.2
 Ryo Germain,FW,Striker,30,Japan,AFC,Sanfrecce Hiroshima,J1_League,12.2
 Majid Aliyari,FW,Striker,29,Iran,AFC,Sepahan FC,Persian_GulfProLeague,12.2
 Kei Koizumi,MF,Defensive_Midfielder,30,Japan,AFC,FC Tokyo,J1_League,12.2
 Brandon Borrello,FW,Striker,30,Australia,AFC,Western Sydney Wanderers,A_League,12.2
 Kaina Tanimura,FW,Striker,27,Japan,AFC,Yokohama F. Marinos,J1_League,12.2
 Fran Karacic,DF,Right_Back,29,Australia,AFC,HNK Hajduk Split,SuperSport_HNL,12.2
-Se-hun Oh,FW,Striker,26,"Korea, South",AFC,Machida Zelvia,J1_League,12.2
+Oh Se Hun,FW,Striker,26,"Korea, South",AFC,Machida Zelvia,J1_League,12.2
 Matheus Oliveira,MF,Attacking_Midfielder,27,Brazil,CONMEBOL,FC Anyang,K_League1,12.2
 Tiago Orobo,FW,Striker,31,Brazil,CONMEBOL,Jeonbuk Hyundai Motors,K_League1,12.2
 Pablo Vegetti,FW,Striker,36,Argentina,CONMEBOL,Clube de Regatas Vasco da Gama,Brasileiro_SerieA,12.2
@@ -4381,21 +4381,21 @@ Mohammad Omri,FW,Right_Winger,25,Iran,AFC,Persepolis FC,Persian_GulfProLeague,12
 Saman Fallah,DF,Centre_Back,24,Iran,AFC,Esteghlal FC,Persian_GulfProLeague,12.2
 Shinichi Chan,DF,Left_Back,22,Hong Kong,AFC,Shanghai Shenhua,Chinese_SuperLeague,12.2
 Sho Fukuda,FW,Striker,24,Japan,AFC,Bröndby IF,Danish_Superligaen,12.2
-Tae-seok Lee,DF,Left_Back,22,"Korea, South",AFC,Pohang Steelers,K_League1,12.2
-Young-jun Goh,MF,Attacking_Midfielder,24,"Korea, South",AFC,Górnik Zabrze,Ekstraklasa,12.2
+Lee Tae Seok,DF,Left_Back,22,"Korea, South",AFC,Pohang Steelers,K_League1,12.2
+Goh Young Jun,MF,Attacking_Midfielder,24,"Korea, South",AFC,Górnik Zabrze,Ekstraklasa,12.2
 Daniel Penha,MF,Attacking_Midfielder,26,Brazil,CONMEBOL,Dalian Yingbo,Chinese_SuperLeague,12.2
 Kimito Nono,DF,Right_Back,23,Japan,AFC,Kashima Antlers,J1_League,12.2
 Mamadou Traore,DF,Centre_Back,30,Mali,CAF,Dalian Yingbo,Chinese_SuperLeague,12.2
 Felippe Cardoso,FW,Striker,26,Brazil,CONMEBOL,Henan FC,Chinese_SuperLeague,12.2
 Abdulla Abdullaev,MF,Defensive_Midfielder,27,Uzbekistan,AFC,Dibba SCC,UAE_ProLeague,11.4
 Soya Fujiwara,DF,Right_Back,29,Japan,AFC,Albirex Niigata,J1_League,11.4
-Jin-woo Jeon,FW,Right_Winger,25,"Korea, South",AFC,Jeonbuk Hyundai Motors,K_League1,11.4
+Jeon Jin Woo,FW,Right_Winger,25,"Korea, South",AFC,Jeonbuk Hyundai Motors,K_League1,11.4
 Itsuki Someno,FW,Striker,23,Japan,AFC,Tokyo Verdy,J1_League,11.4
-Jun Choi,DF,Right_Back,26,"Korea, South",AFC,FC Seoul,K_League1,11.4
+Choi Jun,DF,Right_Back,26,"Korea, South",AFC,FC Seoul,K_League1,11.4
 Kaito Yasui,MF,Defensive_Midfielder,25,Japan,AFC,Urawa Red Diamonds,J1_League,11.4
 Abdulrahman Saleh,DF,Left_Back,26,United Arab Emirates,AFC,Al-Wasl FC,UAE_ProLeague,11.4
 Noah Botic,FW,Striker,23,Australia,AFC,Austria Vienna,Austria_Bundesliga,11.4
-Min-woo Seo,MF,Defensive_Midfielder,27,"Korea, South",AFC,Gangwon FC,K_League1,11.4
+Seo Min Woo,MF,Defensive_Midfielder,27,"Korea, South",AFC,Gangwon FC,K_League1,11.4
 Abdulla Hamad,MF,Defensive_Midfielder,23,United Arab Emirates,AFC,Al-Wahda FC,UAE_ProLeague,11.4
 Elias Mar Omarsson,FW,Striker,30,Iceland,UEFA,Meizhou Hakka,Chinese_SuperLeague,11.4
 Ibrahim Amadou,MF,Defensive_Midfielder,32,France,UEFA,Shanghai Shenhua,Chinese_SuperLeague,11.4
@@ -4416,7 +4416,7 @@ Daniel Schmidt,GK,Goalkeeper,33,Japan,AFC,Nagoya Grampus,J1_League,11.4
 Martin Boyle,FW,Right_Winger,32,Australia,AFC,Hibernian FC,Scottish_Premiership,11.4
 Gerrit Holtmann,FW,Left_Winger,30,Philippines,AFC,VfL Bochum,Bundesliga_2,11.4
 Yuning Zhang,FW,Striker,28,China,AFC,Beijing Guoan,Chinese_SuperLeague,11.4
-Ui-jo Hwang,FW,Striker,32,"Korea, South",AFC,Alanyaspor,SuperLig,11.4
+Hwang Ui Jo,FW,Striker,32,"Korea, South",AFC,Alanyaspor,SuperLig,11.4
 Yuta Toyokawa,FW,Striker,30,Japan,AFC,RB Omiya Ardija,Other_leagues,11.4
 Sho Inagaki,MF,Defensive_Midfielder,33,Japan,AFC,Nagoya Grampus,J1_League,11.4
 Bashar Resan,MF,Attacking_Midfielder,28,Iraq,AFC,Pakhtakor Tashkent,Uzbekistan_SuperLeague,11.4
@@ -4472,7 +4472,7 @@ Leo Takae,MF,Central_Midfielder,27,Japan,AFC,Yokohama FC,J1_League,11.4
 Yuta Goke,MF,Attacking_Midfielder,26,Japan,AFC,Vegalta Sendai,Other_leagues,11.4
 Abolfazl Razzaghpour,DF,Left_Back,27,Iran,AFC,Foolad FC,Persian_GulfProLeague,11.4
 Pablo Sabbag,FW,Striker,28,Syria,AFC,Suwon FC,K_League1,11.4
-Hyeok-kyu Kwon,MF,Defensive_Midfielder,24,"Korea, South",AFC,FC Nantes,Ligue1,11.4
+Kwon Hyeok Kyu,MF,Defensive_Midfielder,24,"Korea, South",AFC,FC Nantes,Ligue1,11.4
 Supachok Sarachat,MF,Attacking_Midfielder,27,Thailand,AFC,Hokkaido Consadole Sapporo,Other_leagues,11.4
 Vicente Guaita,GK,Goalkeeper,38,Spain,UEFA,Without Club,Without_Club,11.4
 Asier Illarramendi,MF,Defensive_Midfielder,35,Spain,UEFA,Without Club,Without_Club,11.4
@@ -4489,13 +4489,13 @@ Luca Caldirola,DF,Centre_Back,34,Italy,UEFA,Without Club,Without_Club,11.4
 Thiago Silva,DF,Centre_Back,40,Brazil,CONMEBOL,Fluminense Football Club,Brasileiro_SerieA,11.4
 Kevin Muller,GK,Goalkeeper,34,Germany,UEFA,1.FC Heidenheim 1846,Bundesliga,11.4
 Gabriel Arias,GK,Goalkeeper,37,Chile,CONMEBOL,Racing Club,Liga_Profesional,11.4
-Chan-yong Park,DF,Centre_Back,29,"Korea, South",AFC,Gimcheon Sangmu,K_League1,10.6
-Tae-hyeon Kim,DF,Left_Back,28,"Korea, South",AFC,Jeonbuk Hyundai Motors,K_League1,10.6
-Min-gyu Jang,DF,Centre_Back,26,"Korea, South",AFC,Jeju SK,K_League1,10.6
+Park Chan Yong,DF,Centre_Back,29,"Korea, South",AFC,Gimcheon Sangmu,K_League1,10.6
+Kim Tae Hyeon,DF,Left_Back,28,"Korea, South",AFC,Jeonbuk Hyundai Motors,K_League1,10.6
+Jang Min Gyu ,DF,Centre_Back,26,"Korea, South",AFC,Jeju SK,K_League1,10.6
 Matias Lacava,FW,Right_Winger,22,Venezuela,CONMEBOL,Ulsan HD FC,K_League1,10.6
 Mario Cuze,FW,Left_Winger,26,Croatia,UEFA,Gangwon FC,K_League1,10.6
-Yeong-jae Lee,MF,Central_Midfielder,30,"Korea, South",AFC,Jeonbuk Hyundai Motors,K_League1,10.6
-Ho-jae Lee,FW,Striker,24,"Korea, South",AFC,Pohang Steelers,K_League1,10.6
+Lee Yeong Jae,MF,Central_Midfielder,30,"Korea, South",AFC,Jeonbuk Hyundai Motors,K_League1,10.6
+Lee Ho Jae,FW,Striker,24,"Korea, South",AFC,Pohang Steelers,K_League1,10.6
 Alasana Manneh,MF,Central_Midfielder,27,Gambia,CAF,Hibernian FC,Scottish_Premiership,10.6
 Soma Anzai,MF,Side_Midfielder,22,Japan,AFC,FC Tokyo,J1_League,10.6
 Saad Al-Nasser,DF,Left_Back,24,Saudi Arabia,AFC,Al-Taawoun FC,Saudi_ProLeague,10.6
@@ -4506,7 +4506,7 @@ Salem Al-Najdi,DF,Left_Back,22,Saudi Arabia,AFC,Al-Nassr FC,Saudi_ProLeague,10.6
 Hasan Abdulkareem,FW,Right_Winger,26,Iraq,AFC,Al-Zawraa SC,Other_leagues,10.6
 Abdulaziz Noor,FW,Right_Winger,26,Saudi Arabia,AFC,NEOM SC,Saudi_ProLeague,10.6
 Angus Thurgate,MF,Central_Midfielder,25,Australia,AFC,Western United FC,A_League,10.6
-Seung-gyu Kim,GK,Goalkeeper,34,"Korea, South",AFC,FC Tokyo,J1_League,10.6
+Kim Seung Gyu,GK,Goalkeeper,34,"Korea, South",AFC,FC Tokyo,J1_League,10.6
 Douglas Costa,FW,Right_Winger,34,Brazil,CONMEBOL,Sydney FC,A_League,10.6
 Daniel Wass,MF,Central_Midfielder,36,Denmark,UEFA,Bröndby IF,Danish_Superligaen,10.6
 Valere Germain,FW,Striker,35,France,UEFA,Sanfrecce Hiroshima,J1_League,10.6
@@ -4514,23 +4514,23 @@ Cesinha,MF,Attacking_Midfielder,35,Brazil,CONMEBOL,Daegu FC,K_League1,10.6
 Anas Zniti,GK,Goalkeeper,36,Morocco,CAF,Al-Wasl FC,UAE_ProLeague,10.6
 Stefan Mitrovic,DF,Centre_Back,35,Serbia,UEFA,KAA Gent,Jupiler_ProLeague,10.6
 Leandro Fernandez,FW,Left_Winger,34,Argentina,CONMEBOL,Club Universidad de Chile,Primera_División,10.6
-Chang-geun Lee,GK,Goalkeeper,31,"Korea, South",AFC,Daejeon Hana Citizen,K_League1,10.6
-Byung-kwan Jeon,FW,Left_Winger,22,"Korea, South",AFC,Gimcheon Sangmu,K_League1,10.6
+Lee Chang Geun,GK,Goalkeeper,31,"Korea, South",AFC,Daejeon Hana Citizen,K_League1,10.6
+Jeon Byung Kwan,FW,Left_Winger,22,"Korea, South",AFC,Gimcheon Sangmu,K_League1,10.6
 Stefan Mauk,MF,Attacking_Midfielder,29,Australia,AFC,Adelaide United,A_League,10.6
 Frank Acheampong,FW,Left_Winger,31,Ghana,CAF,Henan FC,Chinese_SuperLeague,10.6
 Tyias Browning,DF,Centre_Back,31,China,AFC,Shanghai Port,Chinese_SuperLeague,10.6
 Tianyi Gao,MF,Defensive_Midfielder,27,China,AFC,Shanghai Shenhua,Chinese_SuperLeague,10.6
-Jae-hyun Go,FW,Right_Winger,26,"Korea, South",AFC,Gimcheon Sangmu,K_League1,10.6
+Go Jae Hyun,FW,Right_Winger,26,"Korea, South",AFC,Gimcheon Sangmu,K_League1,10.6
 Anton Kryvotsiuk,DF,Centre_Back,26,Azerbaijan,UEFA,Daejeon Hana Citizen,K_League1,10.6
-Ji-su Park,DF,Centre_Back,31,"Korea, South",AFC,Wuhan Three Towns,Chinese_SuperLeague,9.8
+Park Ji Su,DF,Centre_Back,31,"Korea, South",AFC,Wuhan Three Towns,Chinese_SuperLeague,9.8
 Wenneng Xie,FW,Right_Winger,24,China,AFC,Shandong Taishan,Chinese_SuperLeague,9.8
 Lucas Maia,DF,Centre_Back,32,Brazil,CONMEBOL,Henan FC,Chinese_SuperLeague,9.8
 Guilherme Madruga,MF,Defensive_Midfielder,24,Brazil,CONMEBOL,Shandong Taishan,Chinese_SuperLeague,9.8
 Timo Letschert,DF,Centre_Back,32,Netherlands,UEFA,Chengdu Rongcheng,Chinese_SuperLeague,9.8
 Patryk Klimala,FW,Striker,26,Poland,UEFA,FC Seoul,K_League1,9.8
-Seung-won Jeong,FW,Right_Winger,28,"Korea, South",AFC,FC Seoul,K_League1,9.8
+Jeong Seung Won,FW,Right_Winger,28,"Korea, South",AFC,FC Seoul,K_League1,9.8
 Reis,FW,Striker,32,Brazil,CONMEBOL,Gwangju FC,K_League1,9.8
-Jae-won Hwang,DF,Right_Back,22,"Korea, South",AFC,Daegu FC,K_League1,9.8
+Hwang Jae Won,DF,Right_Back,22,"Korea, South",AFC,Daegu FC,K_League1,9.8
 Joao Gamboa,MF,Defensive_Midfielder,28,Portugal,UEFA,Jeonbuk Hyundai Motors,K_League1,9.8
 Walter Kannemann,DF,Centre_Back,34,Argentina,CONMEBOL,Grêmio Foot-Ball Porto Alegrense,Brasileiro_SerieA,9.8
 Pablo,DF,Centre_Back,34,Brazil,CONMEBOL,CR Flamengo,Brasileiro_SerieA,9.8
@@ -4593,22 +4593,22 @@ Archie Goodwin,FW,Striker,20,Australia,AFC,Adelaide United,A_League,8.9
 Ryad Boudebouz,MF,Attacking_Midfielder,35,Algeria,CAF,JS Kabylie,Other_leagues,8.9
 Andros Townsend,FW,Right_Winger,34,England,UEFA,Antalyaspor,SuperLig,8.9
 Martin Barragan,FW,Striker,34,Mexico,CONCACAF,Celaya FC,Other_leagues,8.9
-Young-wook Cho,FW,Striker,26,"Korea, South",AFC,FC Seoul,K_League1,8.9
-In-jae Hwang,GK,Goalkeeper,31,"Korea, South",AFC,Pohang Steelers,K_League1,8.9
+Cho Young Wook,FW,Striker,26,"Korea, South",AFC,FC Seoul,K_League1,8.9
+Hwang In Jae,GK,Goalkeeper,31,"Korea, South",AFC,Pohang Steelers,K_League1,8.9
 Ben Waine,FW,Striker,24,New Zealand,OFC,Port Vale FC,League_One,8.9
-Seung-woo Lee,MF,Attacking_Midfielder,27,"Korea, South",AFC,Jeonbuk Hyundai Motors,K_League1,8.9
+Lee Seung Woo,MF,Attacking_Midfielder,27,"Korea, South",AFC,Jeonbuk Hyundai Motors,K_League1,8.9
 Yago Cariello,FW,Striker,26,Brazil,CONMEBOL,Zhejiang FC,Chinese_SuperLeague,8.9
 Utkir Yusupov,GK,Goalkeeper,34,Uzbekistan,AFC,Foolad FC,Persian_GulfProLeague,8.9
 Amir Sayoud,MF,Attacking_Midfielder,34,Algeria,CAF,Without Club,Without_Club,8.9
 Raul Ruidiaz,FW,Striker,35,Peru,CONMEBOL,Club Atlético Grau,Other_leagues,8.9
 Bruno Mota,FW,Striker,29,Brazil,CONMEBOL,FC Anyang,K_League1,8.9
-Jin-hyuk Kim,DF,Centre_Back,32,"Korea, South",AFC,Daegu FC,K_League1,8.9
-Min-duk Kim,DF,Centre_Back,29,"Korea, South",AFC,Daejeon Hana Citizen,K_League1,8.9
-Soon-min Lee,MF,Central_Midfielder,31,"Korea, South",AFC,Daejeon Hana Citizen,K_League1,8.9
-Kang-hyun Yu,FW,Striker,29,"Korea, South",AFC,Daejeon Hana Citizen,K_League1,8.9
-Dong-jun Kim,GK,Goalkeeper,30,"Korea, South",AFC,Jeju SK,K_League1,8.9
+Kim Jin Hyuk,DF,Centre_Back,32,"Korea, South",AFC,Daegu FC,K_League1,8.9
+Kim Min Duk,DF,Centre_Back,29,"Korea, South",AFC,Daejeon Hana Citizen,K_League1,8.9
+Lee Soon Min,MF,Central_Midfielder,31,"Korea, South",AFC,Daejeon Hana Citizen,K_League1,8.9
+Yu Kang Hyun,FW,Striker,29,"Korea, South",AFC,Daejeon Hana Citizen,K_League1,8.9
+Kim Dong Jun,GK,Goalkeeper,30,"Korea, South",AFC,Jeju SK,K_League1,8.9
 Vitor Gabriel,FW,Striker,25,Brazil,CONMEBOL,Gangwon FC,K_League1,8.9
-Gi-hyuk Lee,DF,Centre_Back,25,"Korea, South",AFC,Gangwon FC,K_League1,8.9
+Lee Gi Hyuk,DF,Centre_Back,25,"Korea, South",AFC,Gangwon FC,K_League1,8.9
 Sergi Guardiola,FW,Striker,34,Spain,UEFA,Córdoba CF,LaLiga_2,8.1
 Marcus Rohden,MF,Central_Midfielder,34,Sweden,UEFA,AEK Larnaca,Other_leagues,8.1
 Ruben Alcaraz,MF,Central_Midfielder,34,Spain,UEFA,Cádiz CF,LaLiga_2,8.1
@@ -4632,25 +4632,25 @@ Andreas Kuen,MF,Central_Midfielder,30,Austria,UEFA,Melbourne City FC,A_League,8.
 Deyverson,FW,Striker,34,Brazil,CONMEBOL,Fortaleza Esporte Clube,Brasileiro_SerieA,8.1
 Nishan Velupillay,FW,Left_Winger,24,Australia,AFC,Melbourne Victory,A_League,8.1
 Hotaru Yamaguchi,MF,Defensive_Midfielder,34,Japan,AFC,V-Varen Nagasaki,Other_leagues,8.1
-Tae-hee Nam,MF,Attacking_Midfielder,34,"Korea, South",AFC,Jeju SK,K_League1,8.1
+Nam Tae Hee,MF,Attacking_Midfielder,34,"Korea, South",AFC,Jeju SK,K_League1,8.1
 Carlos Izquierdoz,DF,Centre_Back,36,Argentina,CONMEBOL,CA Lanús,Liga_Profesional,8.1
 Juan Camilo Salazar,FW,Left_Winger,28,Colombia,CONMEBOL,Changchun Yatai,Chinese_SuperLeague,8.1
-Hyeon-sik Lee,MF,Attacking_Midfielder,29,"Korea, South",AFC,Gimcheon Sangmu,K_League1,8.1
-Hyeon-ug Kim,FW,Right_Winger,30,"Korea, South",AFC,Daejeon Hana Citizen,K_League1,8.1
-Myung-jae Lee,DF,Left_Back,31,"Korea, South",AFC,Daejeon Hana Citizen,K_League1,8.1
+Lee Hyeon Sik,MF,Attacking_Midfielder,29,"Korea, South",AFC,Gimcheon Sangmu,K_League1,8.1
+Kim Hyeon Ug,FW,Right_Winger,30,"Korea, South",AFC,Daejeon Hana Citizen,K_League1,8.1
+Lee Myung Jae,DF,Left_Back,31,"Korea, South",AFC,Daejeon Hana Citizen,K_League1,8.1
 Jun Amano,MF,Attacking_Midfielder,34,Japan,AFC,Yokohama F. Marinos,J1_League,8.1
 Keno,FW,Left_Winger,35,Brazil,CONMEBOL,Fluminense Football Club,Brasileiro_SerieA,8.1
 Joao Ricardo,GK,Goalkeeper,36,Brazil,CONMEBOL,Fortaleza Esporte Clube,Brasileiro_SerieA,8.1
 Davidson,FW,Left_Winger,34,Brazil,CONMEBOL,Qingdao West Coast,Chinese_SuperLeague,8.1
 Michael Ngadeu,DF,Centre_Back,34,Cameroon,CAF,Beijing Guoan,Chinese_SuperLeague,8.1
 Leandre Tawamba,FW,Striker,35,Cameroon,CAF,Al-Tai FC,Other_leagues,8.1
-Seung-mo Lee,MF,Central_Midfielder,27,"Korea, South",AFC,FC Seoul,K_League1,8.1
+Lee Seung Mo,MF,Central_Midfielder,27,"Korea, South",AFC,FC Seoul,K_League1,8.1
 Yonatan Cohen,FW,Left_Winger,29,Israel,UEFA,Melbourne City FC,A_League,8.1
 Reno Piscopo,FW,Left_Winger,27,Australia,AFC,Melbourne Victory,A_League,8.1
 Steven Ugarkovic,MF,Defensive_Midfielder,30,Australia,AFC,Western Sydney Wanderers,A_League,8.1
 Patrick Beach,GK,Goalkeeper,21,Australia,AFC,Melbourne City FC,A_League,8.1
 Lachlan Jackson,DF,Centre_Back,30,Australia,AFC,Melbourne Victory,A_League,8.1
-Hyun-beom Ahn,DF,Right_Back,30,"Korea, South",AFC,Suwon FC,K_League1,8.1
+Ahn Hyun Beom,DF,Right_Back,30,"Korea, South",AFC,Suwon FC,K_League1,8.1
 Luan Dias,MF,Attacking_Midfielder,27,Brazil,CONMEBOL,Suwon FC,K_League1,8.1
 Patrick Twumasi,FW,Right_Winger,31,Ghana,CAF,Jeonbuk Hyundai Motors,K_League1,8.1
 Vladislavs Gutkovskis,FW,Striker,30,Latvia,UEFA,Daejeon Hana Citizen,K_League1,8.1
@@ -4666,12 +4666,12 @@ Hiroki Sakai,DF,Right_Back,35,Japan,AFC,Auckland FC,A_League,8.1
 Tjaronn Chery,MF,Attacking_Midfielder,37,Suriname,CONCACAF,NEC Nijmegen,Eredivisie,8.1
 Nicolas Lodeiro,MF,Attacking_Midfielder,36,Uruguay,CONMEBOL,Club Nacional,Other_leagues,8.1
 James Forrest,FW,Right_Winger,34,Scotland,UEFA,Celtic FC,Scottish_Premiership,8.1
-Jin-yong Lee,MF,Defensive_Midfielder,24,"Korea, South",AFC,Daegu FC,K_League1,8.1
-Chang-min Lee,MF,Central_Midfielder,31,"Korea, South",AFC,Jeju SK,K_League1,8.1
-Yool Heo,FW,Striker,24,"Korea, South",AFC,Ulsan HD FC,K_League1,8.1
+Lee Jin Yong,MF,Defensive_Midfielder,24,"Korea, South",AFC,Daegu FC,K_League1,8.1
+Lee Chang Min,MF,Central_Midfielder,31,"Korea, South",AFC,Jeju SK,K_League1,8.1
+Heo Yool,FW,Striker,24,"Korea, South",AFC,Ulsan HD FC,K_League1,8.1
 Sergiy Sydorchuk,MF,Defensive_Midfielder,34,Ukraine,UEFA,KVC Westerlo,Jupiler_ProLeague,8.1
 Diego de Buen,MF,Defensive_Midfielder,34,Mexico,CONCACAF,Club Necaxa,Liga_MX,8.1
-Bit-garam Yoon,MF,Central_Midfielder,35,"Korea, South",AFC,Suwon FC,K_League1,8.1
+Yoon Bit Garam,MF,Central_Midfielder,35,"Korea, South",AFC,Suwon FC,K_League1,8.1
 Gunay Guvenc,GK,Goalkeeper,34,Türkiye,UEFA,Galatasaray,SuperLig,8.1
 Joel Robles,GK,Goalkeeper,35,Spain,UEFA,GD Estoril Praia,Liga_Portugal,8.1
 Ruben Botta,MF,Attacking_Midfielder,35,Argentina,CONMEBOL,CA Talleres,Liga_Profesional,8.1
@@ -4708,26 +4708,26 @@ Zanka,DF,Centre_Back,35,Denmark,UEFA,Los Angeles Galaxy,MLS,8.1
 Javier Aquino,DF,Right_Back,35,Mexico,CONCACAF,Tigres UANL,Liga_MX,8.1
 Santos,GK,Goalkeeper,35,Brazil,CONMEBOL,Club Athletico Paranaense,Other_leagues,8.1
 Luis Rodriguez,DF,Right_Back,34,Mexico,CONCACAF,CF Pachuca,Liga_MX,8.1
-Kook-young Han,MF,Defensive_Midfielder,35,"Korea, South",AFC,Jeonbuk Hyundai Motors,K_League1,8.1
+Han Kook Young,MF,Defensive_Midfielder,35,"Korea, South",AFC,Jeonbuk Hyundai Motors,K_League1,8.1
 Brecht Dejaegere,MF,Central_Midfielder,34,Belgium,UEFA,KV Kortrijk,Other_leagues,8.1
 Kasper Schmeichel,GK,Goalkeeper,38,Denmark,UEFA,Celtic FC,Scottish_Premiership,8.1
 Hugo Gonzalez,GK,Goalkeeper,34,Mexico,CONCACAF,Deportivo Toluca,Liga_MX,8.1
 Alexandru Maxim,MF,Attacking_Midfielder,35,Romania,UEFA,Gaziantep FK,SuperLig,8.1
 Rogelio Funes Mori,FW,Striker,34,Mexico,CONCACAF,Club León FC,Liga_MX,8.1
-Yun-sang Hong,FW,Left_Winger,23,"Korea, South",AFC,Pohang Steelers,K_League1,8.1
+Hong Yun Sang,FW,Left_Winger,23,"Korea, South",AFC,Pohang Steelers,K_League1,8.1
 Milan Rodic,DF,Left_Back,34,Serbia,UEFA,FC Zürich,Swiss_SuperLeague,8.1
 Dante,DF,Centre_Back,41,Brazil,CONMEBOL,OGC Nice,Ligue1,8.1
-Hyun-taek Cho,DF,Left_Back,23,"Korea, South",AFC,Ulsan HD FC,K_League1,8.1
-Seon-min Moon,FW,Left_Winger,33,"Korea, South",AFC,FC Seoul,K_League1,8.1
-Hyeon-mu Kang,GK,Goalkeeper,30,"Korea, South",AFC,FC Seoul,K_League1,8.1
+Cho Hyun Taek,DF,Left_Back,23,"Korea, South",AFC,Ulsan HD FC,K_League1,8.1
+Moon Seon Min,FW,Left_Winger,33,"Korea, South",AFC,FC Seoul,K_League1,8.1
+Kang Hyeon Mu,GK,Goalkeeper,30,"Korea, South",AFC,FC Seoul,K_League1,8.1
 Geovani,FW,Right_Winger,24,Brazil,CONMEBOL,Daegu FC,K_League1,8.1
 Adrian,GK,Goalkeeper,38,Spain,UEFA,Real Betis Balompié,LaLiga,8.1
 Jens Stryger Larsen,DF,Right_Back,34,Denmark,UEFA,Malmö FF,Allsvenskan,8.1
 Willyan,FW,Left_Winger,31,Brazil,CONMEBOL,Suwon FC,K_League1,8.1
-Jae-hyeon Mo,FW,Right_Winger,28,"Korea, South",AFC,Gangwon FC,K_League1,8.1
+Mo Jae Hyeon,FW,Right_Winger,28,"Korea, South",AFC,Gangwon FC,K_League1,8.1
 Ashley Young,DF,Right_Back,40,England,UEFA,Ipswich Town,Championship,8.1
 Marko Tuci,DF,Centre_Back,26,Montenegro,UEFA,Gangwon FC,K_League1,8.1
-Jong-gyu Yoon,DF,Right_Back,27,"Korea, South",AFC,Ulsan HD FC,K_League1,8.1
+Yoon Jong Gyu,DF,Right_Back,27,"Korea, South",AFC,Ulsan HD FC,K_League1,8.1
 Guilherme,DF,Left_Back,35,Brazil,CONMEBOL,Konyaspor,SuperLig,7.7
 Panagiotis Kikianis,DF,Centre_Back,20,Australia,AFC,Adelaide United,A_League,7.3
 Filipe Augusto,MF,Defensive_Midfielder,31,Brazil,CONMEBOL,Qingdao Hainiu,Chinese_SuperLeague,7.3
@@ -4739,8 +4739,8 @@ Dylan Pierias,DF,Right_Back,25,Australia,AFC,Adelaide United,A_League,7.3
 Dylan Peraic-Cullen,GK,Goalkeeper,19,Australia,AFC,Central Coast Mariners,A_League,7.3
 Lachlan Wales,FW,Right_Winger,27,Australia,AFC,Perth Glory,A_League,7.3
 Alex Grant,DF,Centre_Back,31,Australia,AFC,Sydney FC,A_League,7.3
-Kang-gook Kim,MF,Central_Midfielder,28,"Korea, South",AFC,Gangwon FC,K_League1,7.3
-Kwang-yeon Lee,GK,Goalkeeper,25,"Korea, South",AFC,Gangwon FC,K_League1,7.3
+Kim Kang Gook,MF,Central_Midfielder,28,"Korea, South",AFC,Gangwon FC,K_League1,7.3
+Lee Kwang Yeon,GK,Goalkeeper,25,"Korea, South",AFC,Gangwon FC,K_League1,7.3
 Jerome Ngom Mbekeli,FW,Left_Winger,26,Cameroon,CAF,Meizhou Hakka,Chinese_SuperLeague,7.3
 Yongjing Cao,FW,Left_Winger,28,China,AFC,Beijing Guoan,Chinese_SuperLeague,7.3
 Zhen Wei,DF,Centre_Back,28,China,AFC,Shanghai Port,Chinese_SuperLeague,7.3
@@ -4753,17 +4753,17 @@ Brian Kaltak,DF,Centre_Back,31,Vanuatu,OFC,Perth Glory,A_League,7.3
 Logan Rogerson,FW,Right_Winger,27,New Zealand,OFC,Auckland FC,A_League,7.3
 Tim Payne,DF,Right_Back,31,New Zealand,OFC,Wellington Phoenix,A_League,7.3
 Sven Michel,FW,Left_Winger,35,Germany,UEFA,SC Paderborn 07,Bundesliga_2,7.3
-Kyo-won Han,FW,Right_Winger,35,"Korea, South",AFC,Chungnam Asan,K_League2,7.3
+Han Kyo Won,FW,Right_Winger,35,"Korea, South",AFC,Chungnam Asan,K_League2,7.3
 Marcus Antonsson,FW,Striker,34,Sweden,UEFA,IFK Värnamo,Allsvenskan,7.3
 Matias Zaldivia,DF,Centre_Back,34,Chile,CONMEBOL,Club Universidad de Chile,Primera_División,7.3
 Hasan Al-Haydos,MF,Attacking_Midfielder,34,Qatar,AFC,Al-Sadd SC,QSL,7.3
 Robert Mak,FW,Left_Winger,34,Slovakia,UEFA,Slovan Bratislava,Other_leagues,7.3
-Jeong-ho Hong,DF,Centre_Back,35,"Korea, South",AFC,Jeonbuk Hyundai Motors,K_League1,7.3
-Tae-hwan Kim,DF,Right_Back,36,"Korea, South",AFC,Jeonbuk Hyundai Motors,K_League1,7.3
+Hong Jeong Ho,DF,Centre_Back,35,"Korea, South",AFC,Jeonbuk Hyundai Motors,K_League1,7.3
+Kim Tae Hwan,DF,Right_Back,36,"Korea, South",AFC,Jeonbuk Hyundai Motors,K_League1,7.3
 Peter Szappanos,GK,Goalkeeper,34,Hungary,UEFA,Without Club,Without_Club,7.3
 Robson,FW,Right_Winger,34,Brazil,CONMEBOL,Grêmio Novorizontino,Other_leagues,7.3
 Martin Montoya,DF,Right_Back,34,Spain,UEFA,Without Club,Without_Club,7.3
-Sung-yueng Ki,MF,Defensive_Midfielder,36,"Korea, South",AFC,Pohang Steelers,K_League1,7.3
+Ki Sung Yueng,MF,Defensive_Midfielder,36,"Korea, South",AFC,Pohang Steelers,K_League1,7.3
 Bibras Natcho,MF,Attacking_Midfielder,37,Israel,UEFA,FK Partizan Belgrade,Superliga_Srbjie,7.3
 Panagiotis Tachtsidis,MF,Defensive_Midfielder,34,Greece,UEFA,Without Club,Without_Club,7.3
 Stanislav Ilyuchenko,FW,Striker,34,Russia,UEFA,Suwon Samsung Bluewings,K_League2,7.3
@@ -4772,12 +4772,12 @@ Josan,FW,Right_Winger,35,Spain,UEFA,Elche CF,LaLiga,7.3
 Larbi Naji,MF,Defensive_Midfielder,34,Morocco,CAF,Without Club,Without_Club,7.3
 Ryan Mendes,FW,Left_Winger,35,Cabo Verde,CAF,Kocaelispor,SuperLig,7.3
 Ahmed El Shenawy,GK,Goalkeeper,34,Egypt,CAF,Pyramids FC,Other_leagues,7.3
-Jeong-hoon Kim,GK,Goalkeeper,24,"Korea, South",AFC,Jeonbuk Hyundai Motors,K_League1,7.3
-Soo-il Park,DF,Right_Back,29,"Korea, South",AFC,FC Seoul,K_League1,7.3
+Kim Jeong Hoon,GK,Goalkeeper,24,"Korea, South",AFC,Jeonbuk Hyundai Motors,K_League1,7.3
+Park Soo Il,DF,Right_Back,29,"Korea, South",AFC,FC Seoul,K_League1,7.3
 Michael Barrios,FW,Right_Winger,34,Colombia,CONMEBOL,Once Caldas,Liga_Dimayor,7.3
 Ahmed Hammoudan,FW,Left_Winger,34,Morocco,CAF,AS FAR Rabat,Other_leagues,7.3
-Myeong-kwan Seo,DF,Centre_Back,22,"Korea, South",AFC,Ulsan HD FC,K_League1,7.3
-Young-bin Kim,DF,Centre_Back,33,"Korea, South",AFC,Jeonbuk Hyundai Motors,K_League1,7.3
+Seo Myeong Kwan,DF,Centre_Back,22,"Korea, South",AFC,Ulsan HD FC,K_League1,7.3
+Kim Young Bin,DF,Centre_Back,33,"Korea, South",AFC,Jeonbuk Hyundai Motors,K_League1,7.3
 Wellington Silva,FW,Right_Winger,32,Brazil,CONMEBOL,Qingdao Hainiu,Chinese_SuperLeague,6.5
 Eli Adams,FW,Right_Winger,23,Australia,AFC,Newcastle United Jets,A_League,6.5
 Lucas Mauragis,DF,Left_Back,23,Australia,AFC,Central Coast Mariners,A_League,6.5
@@ -4903,7 +4903,7 @@ Bin Xu,DF,Centre_Back,21,China,AFC,Qingdao West Coast,Chinese_SuperLeague,5.7
 Shiqin Wang,DF,Left_Back,22,China,AFC,Zhejiang FC,Chinese_SuperLeague,5.7
 Ronivaldo,FW,Striker,36,Austria,UEFA,FC Blau-Weiss Linz,Austria_Bundesliga,5.7
 Michele Castagnetti,MF,Defensive_Midfielder,35,Italy,UEFA,US Cremonese,Serie_A,5.7
-Ki-je Lee,DF,Left_Back,34,"Korea, South",AFC,Suwon Samsung Bluewings,K_League2,5.7
+Lee Ki Je,DF,Left_Back,34,"Korea, South",AFC,Suwon Samsung Bluewings,K_League2,5.7
 Callum Talbot,DF,Right_Back,24,Australia,AFC,Macarthur FC,A_League,5.7
 Alexandar Popovic,DF,Centre_Back,22,Australia,AFC,Sydney FC,A_League,5.7
 Daniel Wilmering,DF,Left_Back,24,Australia,AFC,Newcastle United Jets,A_League,5.7
@@ -4912,7 +4912,7 @@ Oliver Sail,GK,Goalkeeper,29,New Zealand,OFC,Perth Glory,A_League,5.7
 Raphael Odogwu,FW,Striker,34,Italy,UEFA,FC Südtirol,Serie_B,5.7
 Jun Ichimori,GK,Goalkeeper,34,Japan,AFC,Gamba Osaka,J1_League,5.7
 Henk Veerman,FW,Striker,34,Netherlands,UEFA,FC Volendam,Eredivisie,5.7
-Myung-joo Lee,MF,Central_Midfielder,35,"Korea, South",AFC,Incheon United,K_League2,5.7
+Lee Myung Joo,MF,Central_Midfielder,35,"Korea, South",AFC,Incheon United,K_League2,5.7
 Juanma Delgado,FW,Striker,34,Spain,UEFA,V-Varen Nagasaki,Other_leagues,5.7
 Tate Russell,DF,Right_Back,25,Australia,AFC,Western United FC,A_League,5.7
 Gaston Suso,DF,Centre_Back,34,Argentina,CONMEBOL,Club de Gimnasia y Esgrima La Plata,Liga_Profesional,5.7
