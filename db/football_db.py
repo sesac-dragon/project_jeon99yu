@@ -18,5 +18,4 @@ engine = create_engine(f"mysql+mysqlconnector://{username}:{password}@{host}:{po
 
 # 테이블 생성 및 데이터 삽입
 football_df.to_sql(name='football', con=engine, if_exists='replace', index=False)
-
 print("football 테이블이 MySQL에 성공적으로 저장되었습니다.")
