@@ -5,34 +5,62 @@ import plotly.express as px
 import matplotlib.cm as cm
 import matplotlib.colors as mcolors
 import streamlit as st
+from sqlalchemy import create_engine
+from dotenv import load_dotenv
+import os
+
 
 plt.rcParams['font.family'] = 'Malgun Gothic'
 plt.rcParams['axes.unicode_minus'] = False
 
-st.set_page_config(page_title="⚽ 축구선수 시장가치 상관관계 분석", layout="wide")
+load_dotenv()  # .env 파일 로드
 
-st.markdown("""
-    <style>
-        body {
-            background-color: navy !important;
-        }
+username = os.getenv('DB_USER')
+password = os.getenv('DB_PASSWORD')
+host = os.getenv('DB_HOST')
+port = os.getenv('DB_PORT')
+database = 'football_db'
 
-        .block-container {
-            max-width: 800px;
-            margin: auto;
-            background-color: white;
-            padding: 3rem 5rem 3rem 5rem;
-            border-radius: 0.5rem;
-        }
+#### DB 연결 확인용 #####
 
-        h1 {
-            text-align: center;
-        }
-    </style>
-""", unsafe_allow_html=True)
+# MySQL 연결
+engine = create_engine("mysql+mysqlconnector://root:test1234@localhost:3306/football_db")
+df = pd.read_sql("SELECT * FROM football", con=engine)
 
+st.set_page_config(page_title="⚽ 축구선수 분석", layout="wide")
 st.title("⚽ 축구 선수 분석 대시보드")
 
+# 1.멀티 선택 필터
+positions = sorted(df['Position'].dropna().unique())
+nations = sorted(df['Nation'].dropna().unique())
+
+selected_positions = st.multiselect("포지션 선택", positions, default=positions[:3])
+selected_nations = st.multiselect("국가 선택", nations, default=nations[:5])
+
+# 2. 조건에 따라 데이터 필터링
+filtered_df = df[
+    df['Position'].isin(selected_positions) &
+    df['Nation'].isin(selected_nations)
+]
+
+st.subheader(f"📋 필터링된 선수 목록 (총 {len(filtered_df)}명)")
+st.dataframe(filtered_df)
+
+# 3. 국가별 선수 수 시각화 (GroupBy + Plotly)
+st.subheader("🌍 국가별 선수 수 분포")
+
+nation_counts = filtered_df['Nation'].value_counts().reset_index()
+nation_counts.columns = ['Nation', 'Player Count']
+
+fig = px.bar(nation_counts, x='Nation', y='Player Count',
+             title='선택된 국가의 선수 수',
+             labels={'Nation': '국가', 'Player Count': '선수 수'})
+
+st.plotly_chart(fig, use_container_width=True)
+
+
+
+#### 여기서 부터는 EDA 불러온 기존 코드 #####
 
 st.subheader("선수 데이터 미리보기")
 football_df = pd.read_csv('../data/football_eda.csv')
