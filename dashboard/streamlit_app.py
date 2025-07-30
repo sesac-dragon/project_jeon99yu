@@ -9,12 +9,29 @@ import streamlit as st
 plt.rcParams['font.family'] = 'Malgun Gothic'
 plt.rcParams['axes.unicode_minus'] = False
 
+st.set_page_config(page_title="⚽ 축구선수 시장가치 상관관계 분석", layout="wide")
 
-st.set_page_config(page_title="축구 대시보드", layout="wide")
+st.markdown("""
+    <style>
+        body {
+            background-color: navy !important;
+        }
 
-st.markdown("<h1 style='text-align:center;'>⚽ 축구 선수 시장가치 상관관계 분석 대시보드</h1>", unsafe_allow_html=True)
-st.markdown("---")
+        .block-container {
+            max-width: 800px;
+            margin: auto;
+            background-color: white;
+            padding: 3rem 5rem 3rem 5rem;
+            border-radius: 0.5rem;
+        }
 
+        h1 {
+            text-align: center;
+        }
+    </style>
+""", unsafe_allow_html=True)
+
+st.title("⚽ 축구 선수 분석 대시보드")
 
 
 st.subheader("선수 데이터 미리보기")
@@ -501,30 +518,6 @@ ax19.set_ylabel('평균 시장 가치 (억 원)')
 plt.tight_layout()
 st.pyplot(fig19)
 
-st.subheader("평균 MarketValue 상위 5개 리그 선택")
-
-league_value_avg = football_df.groupby('League')['MarketValue'].mean().reset_index()
-league_value_avg.columns = ['League', 'AvgMarketValue']
-top_avg_leagues = league_value_avg.sort_values(by='AvgMarketValue', ascending=False).head(5)
-
-fig20, ax20 = plt.subplots(figsize=(10, 6))
-sns.barplot(
-    data=top_avg_leagues,
-    x='League',
-    y='AvgMarketValue',
-    hue='League',
-    palette='tab10',
-    dodge=False,
-    legend=False,
-    ax=ax20
-)
-
-ax20.set_title('리그별 평균 시장 가치 TOP 5 (Transfermarkt 기준)', fontsize=16)
-ax20.set_xlabel('리그')
-ax20.set_ylabel('평균 시장 가치 (억 원)')
-plt.tight_layout()
-st.pyplot(fig20)
-
 st.subheader("나이별 평균 MarketValue 계산")
 
 age_value_avg = football_df.groupby('Age')['MarketValue'].mean().reset_index()
@@ -630,8 +623,6 @@ st.subheader("2. OVR 순위 vs MarketValue 순위 비교하여 랭킹 차이 계
 st.markdown("""
 - **RANK_GAP > 0**: OVR이 높지만 MarketValue가 낮은 선수 → **저평가 선수 (undervalued)**  
 - **RANK_GAP < 0**: MarketValue가 OVR보다 높은 선수 → **고평가 선수 (overvalued)**  
-- **OVR과 MarketValue가 모두 상위권인데 Rank_Gap이 크다면?**  
-  → 잠재적으로 시장에서 충분히 반영되지 않은 **주목할 선수**로 간주할 수 있음  
 """)
 
 ranked_df = football_df.copy()
@@ -664,7 +655,7 @@ st.subheader("저평가 선수 TOP 10 (Rank_Gap 가장 높은 선수)")
 
 undervalued_top10 = ranked_df.sort_values(by='Rank_Gap', ascending=False).head(10)
 st.dataframe(undervalued_top10[['Name', 'Age', 'Club', 'Field', 'OVR', 'MarketValue',
-                                 'OVR_Rank', 'Value_Rank', 'Rank_Gap']])
+                                 'OVR_Rank', 'Value_Rank', 'Rank_Gap', 'Status']])
 
 
 st.subheader("OVR 상위/하위 50명의 고평가·저평가 상태 분포")
@@ -756,3 +747,13 @@ fig29.update_layout(
 )
 
 st.plotly_chart(fig29)
+st.markdown(""" 
+- **OVR과 MarketValue가 모두 상위권인데 Rank_Gap이 크다면?**  
+  → 잠재적으로 시장에서 충분히 반영되지 않은 **주목할 선수**로 간주할 수 있음
+   
+  **🔍 상위권인데도 Rank_Gap이 큰 경우의 특징**
+  - 나이 많음 → 시장 가치가 떨어짐
+  - 포지션 특성상 가치가 낮게 책정됨 (예: GK, 수비수)
+  - 계약 기간이 얼마 안 남음
+  - 부상 이력 등 비정량적 요소 존재 가능  
+""")
