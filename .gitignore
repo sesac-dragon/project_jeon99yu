@@ -1,23 +1,16 @@
-# 폴더 구조 설명
-project_root/
-│
-├── Assets/           # 이미지, 아이콘, 그래픽 파일 등
-├── Crawlers/         # 크롤링 관련 .ipynb 또는 .py 파일
-├── DATA/             # 원본/raw 또는 정제된 CSV 파일 저장
-├── DB/               # SQLite, MySQL dump, 연결 스크립트 등
-├── Notebooks/        # EDA용 Jupyter Notebook 파일
-├── Dashboard/        # Streamlit 대시보드용 .py 파일 위치 추천
-│   ├── streamlit_app.py
-│   └── components/   # 필요한 경우 컴포넌트 모듈화
-│
-└── README.md, requirements.txt 등
+# 환경변수 파일 (절대 공개 X)
+.env
 
+# 로그 및 캐시
+*.log
+.cache/
 
-# Streamlit 관련 권장 파일 구성
-    Dashboard/
-├── streamlit_app.py         # 대시보드 메인 실행 파일
-├── __init__.py              # 패키지화 원할 경우
-├── components/
-│   ├── charts.py            # 그래프 시각화 관련 함수
-│   ├── data_loader.py       # CSV/DB 불러오는 함수
-│   └── utils.py             # 공통 함수
+# 데이터 분석: 민감한 데이터
+data/{해당 파일이름}.csv
+
+# 예시파일
+docker-compose(예제).yml
+
+# 마크다운 파일
+folder.md
+README.md
